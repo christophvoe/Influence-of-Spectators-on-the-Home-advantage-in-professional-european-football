@@ -1,0 +1,13 @@
+name: shiny_app
+title:
+username:
+account: christophvoeltzke
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8031716
+bundleId: 6740523
+url: https://christophvoeltzke.shinyapps.io/shiny_app/
+when: 1673901654.23316
+lastSyncTime: 1673901654.23316
+asMultiple: FALSE
+asStatic: FALSE

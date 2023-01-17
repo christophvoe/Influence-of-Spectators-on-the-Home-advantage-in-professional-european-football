@@ -1,0 +1,553 @@
+Div;Season;Capacity;Spectators;Date;Time;HomeTeam;AwayTeam
+E1;;;;11.09.2020;19:45;Watford;Middlesbrough
+E1;;;;12.09.2020;12:30;Birmingham;Brentford
+E1;;;;12.09.2020;12:30;Wycombe;Rotherham
+E1;;;;12.09.2020;15:00;Barnsley;Luton
+E1;;;;12.09.2020;15:00;Bournemouth;Blackburn
+E1;;;;12.09.2020;15:00;Bristol City;Coventry
+E1;;;;12.09.2020;15:00;Cardiff;Sheffield Weds
+E1;;;;12.09.2020;15:00;Derby;Reading
+E1;;;;12.09.2020;15:00;Huddersfield;Norwich
+E1;;;;12.09.2020;15:00;Millwall;Stoke
+E1;;;;12.09.2020;15:00;Preston;Swansea
+E1;;;;12.09.2020;15:00;QPR;Nott'm Forest
+E1;;;;18.09.2020;19:45;Coventry;QPR
+E1;;;;19.09.2020;12:30;Nott'm Forest;Cardiff
+E1;;;;19.09.2020;15:00;Blackburn;Wycombe
+E1;;;;19.09.2020;15:00;Brentford;Huddersfield
+E1;;;;19.09.2020;15:00;Luton;Derby
+E1;;;;19.09.2020;15:00;Middlesbrough;Bournemouth
+E1;;;;19.09.2020;15:00;Norwich;Preston
+E1;;;;19.09.2020;15:00;Reading;Barnsley
+E1;;;;19.09.2020;15:00;Rotherham;Millwall
+E1;;;;19.09.2020;15:00;Sheffield Weds;Watford
+E1;;;;19.09.2020;15:00;Swansea;Birmingham
+E1;;;;20.09.2020;14:00;Stoke;Bristol City
+E1;;;;25.09.2020;19:45;Huddersfield;Nott'm Forest
+E1;;;;26.09.2020;12:30;Watford;Luton
+E1;;;;26.09.2020;12:30;Wycombe;Swansea
+E1;;;;26.09.2020;15:00;Barnsley;Coventry
+E1;;;;26.09.2020;15:00;Birmingham;Rotherham
+E1;;;;26.09.2020;15:00;Cardiff;Reading
+E1;;;;26.09.2020;15:00;Derby;Blackburn
+E1;;;;26.09.2020;15:00;Millwall;Brentford
+E1;;;;26.09.2020;15:00;Preston;Stoke
+E1;;;;26.09.2020;15:00;QPR;Middlesbrough
+E1;;;;27.09.2020;13:00;Bristol City;Sheffield Weds
+E1;;;;27.09.2020;16:00;Bournemouth;Norwich
+E1;;;;02.10.2020;19:45;Coventry;Bournemouth
+E1;;;;03.10.2020;12:30;Norwich;Derby
+E1;;;;03.10.2020;15:00;Blackburn;Cardiff
+E1;;;;03.10.2020;15:00;Luton;Wycombe
+E1;;;;03.10.2020;15:00;Middlesbrough;Barnsley
+E1;;;;03.10.2020;15:00;Nott'm Forest;Bristol City
+E1;;;;03.10.2020;15:00;Reading;Watford
+E1;;;;03.10.2020;15:00;Rotherham;Huddersfield
+E1;;;;03.10.2020;15:00;Sheffield Weds;QPR
+E1;;;;03.10.2020;15:00;Swansea;Millwall
+E1;;;;04.10.2020;14:00;Brentford;Preston
+E1;;;;04.10.2020;15:00;Stoke;Birmingham
+E1;;;;16.10.2020;19:45;Derby;Watford
+E1;;;;17.10.2020;15:00;Barnsley;Bristol City
+E1;;;;17.10.2020;15:00;Birmingham;Sheffield Weds
+E1;;;;17.10.2020;15:00;Blackburn;Nott'm Forest
+E1;;;;17.10.2020;15:00;Bournemouth;QPR
+E1;;;;17.10.2020;15:00;Brentford;Coventry
+E1;;;;17.10.2020;15:00;Luton;Stoke
+E1;;;;17.10.2020;15:00;Middlesbrough;Reading
+E1;;;;17.10.2020;15:00;Rotherham;Norwich
+E1;;;;17.10.2020;15:00;Swansea;Huddersfield
+E1;;;;17.10.2020;15:00;Wycombe;Millwall
+E1;;;;18.10.2020;12:00;Preston;Cardiff
+E1;;;;20.10.2020;19:45;Bristol City;Middlesbrough
+E1;;;;20.10.2020;19:45;Coventry;Swansea
+E1;;;;20.10.2020;19:45;Huddersfield;Derby
+E1;;;;20.10.2020;19:45;Millwall;Luton
+E1;;;;20.10.2020;19:45;Norwich;Birmingham
+E1;;;;20.10.2020;19:45;Nott'm Forest;Rotherham
+E1;;;;20.10.2020;20:00;Reading;Wycombe
+E1;;;;21.10.2020;19:45;Cardiff;Bournemouth
+E1;;;;21.10.2020;19:45;QPR;Preston
+E1;;;;21.10.2020;19:45;Sheffield Weds;Brentford
+E1;;;;21.10.2020;19:45;Stoke;Barnsley
+E1;;;;21.10.2020;19:45;Watford;Blackburn
+E1;;;;23.10.2020;19:45;Nott'm Forest;Derby
+E1;;;;24.10.2020;12:30;Watford;Bournemouth
+E1;;;;24.10.2020;15:00;Bristol City;Swansea
+E1;;;;24.10.2020;15:00;Cardiff;Middlesbrough
+E1;;;;24.10.2020;15:00;Coventry;Blackburn
+E1;;;;24.10.2020;15:00;Huddersfield;Preston
+E1;;;;24.10.2020;15:00;Millwall;Barnsley
+E1;;;;24.10.2020;15:00;Norwich;Wycombe
+E1;;;;24.10.2020;15:00;QPR;Birmingham
+E1;;;;24.10.2020;15:00;Reading;Rotherham
+E1;;;;24.10.2020;15:00;Sheffield Weds;Luton
+E1;;;;24.10.2020;15:00;Stoke;Brentford
+E1;;;;27.10.2020;19:00;Barnsley;QPR
+E1;;;;27.10.2020;19:45;Blackburn;Reading
+E1;;;;27.10.2020;19:45;Brentford;Norwich
+E1;;;;27.10.2020;19:45;Middlesbrough;Coventry
+E1;;;;27.10.2020;19:45;Swansea;Stoke
+E1;;;;27.10.2020;19:45;Wycombe;Watford
+E1;;;;28.10.2020;19:00;Preston;Millwall
+E1;;;;28.10.2020;19:45;Birmingham;Huddersfield
+E1;;;;28.10.2020;19:45;Bournemouth;Bristol City
+E1;;;;28.10.2020;19:45;Derby;Cardiff
+E1;;;;28.10.2020;19:45;Luton;Nott'm Forest
+E1;;;;28.10.2020;19:45;Rotherham;Sheffield Weds
+E1;;;;30.10.2020;19:45;Coventry;Reading
+E1;;;;31.10.2020;12:30;Bristol City;Norwich
+E1;;;;31.10.2020;15:00;Barnsley;Watford
+E1;;;;31.10.2020;15:00;Bournemouth;Derby
+E1;;;;31.10.2020;15:00;Luton;Brentford
+E1;;;;31.10.2020;15:00;Middlesbrough;Nott'm Forest
+E1;;;;31.10.2020;15:00;Millwall;Huddersfield
+E1;;;;31.10.2020;15:00;Preston;Birmingham
+E1;;;;31.10.2020;15:00;QPR;Cardiff
+E1;;;;31.10.2020;15:00;Stoke;Rotherham
+E1;;;;31.10.2020;15:00;Swansea;Blackburn
+E1;;;;31.10.2020;15:00;Wycombe;Sheffield Weds
+E1;;;;03.11.2020;19:00;Brentford;Swansea
+E1;;;;03.11.2020;19:00;Huddersfield;Bristol City
+E1;;;;03.11.2020;19:00;Norwich;Millwall
+E1;;;;03.11.2020;19:00;Sheffield Weds;Bournemouth
+E1;;;;03.11.2020;19:45;Blackburn;Middlesbrough
+E1;;;;03.11.2020;19:45;Cardiff;Barnsley
+E1;;;;04.11.2020;19:00;Reading;Preston
+E1;;;;04.11.2020;19:00;Watford;Stoke
+E1;;;;04.11.2020;19:45;Birmingham;Wycombe
+E1;;;;04.11.2020;19:45;Derby;QPR
+E1;;;;04.11.2020;19:45;Nott'm Forest;Coventry
+E1;;;;04.11.2020;19:45;Rotherham;Luton
+E1;;;;06.11.2020;18:00;Cardiff;Bristol City
+E1;;;;07.11.2020;12:30;Reading;Stoke
+E1;;;;07.11.2020;15:00;Birmingham;Bournemouth
+E1;;;;07.11.2020;15:00;Blackburn;QPR
+E1;;;;07.11.2020;15:00;Brentford;Middlesbrough
+E1;;;;07.11.2020;15:00;Derby;Barnsley
+E1;;;;07.11.2020;15:00;Huddersfield;Luton
+E1;;;;07.11.2020;15:00;Norwich;Swansea
+E1;;;;07.11.2020;15:00;Nott'm Forest;Wycombe
+E1;;;;07.11.2020;15:00;Rotherham;Preston
+E1;;;;07.11.2020;15:00;Sheffield Weds;Millwall
+E1;;;;07.11.2020;15:00;Watford;Coventry
+E1;;;;20.11.2020;19:45;Coventry;Birmingham
+E1;;;;21.11.2020;12:30;Bournemouth;Reading
+E1;;;;21.11.2020;15:00;Barnsley;Nott'm Forest
+E1;;;;21.11.2020;15:00;Bristol City;Derby
+E1;;;;21.11.2020;15:00;Luton;Blackburn
+E1;;;;21.11.2020;15:00;Middlesbrough;Norwich
+E1;;;;21.11.2020;15:00;Millwall;Cardiff
+E1;;;;21.11.2020;15:00;Preston;Sheffield Weds
+E1;;;;21.11.2020;15:00;QPR;Watford
+E1;;;;21.11.2020;15:00;Stoke;Huddersfield
+E1;;;;21.11.2020;15:00;Swansea;Rotherham
+E1;;;;21.11.2020;15:00;Wycombe;Brentford
+E1;;;;24.11.2020;19:00;Luton;Birmingham
+E1;;;;24.11.2020;19:00;QPR;Rotherham
+E1;;;;24.11.2020;19:00;Stoke;Norwich
+E1;;;;24.11.2020;19:00;Wycombe;Huddersfield
+E1;;;;24.11.2020;19:45;Barnsley;Brentford
+E1;;;;24.11.2020;19:45;Preston;Blackburn
+E1;;;;24.11.2020;20:00;Bournemouth;Nott'm Forest
+E1;;;;25.11.2020;19:00;Middlesbrough;Derby
+E1;;;;25.11.2020;19:00;Millwall;Reading
+E1;;;;25.11.2020;19:45;Bristol City;Watford
+E1;;;;25.11.2020;19:45;Coventry;Cardiff
+E1;;;;25.11.2020;19:45;Swansea;Sheffield Weds
+E1;;;;27.11.2020;19:45;Brentford;QPR
+E1;;;;28.11.2020;12:30;Reading;Bristol City
+E1;;;;28.11.2020;15:00;Birmingham;Millwall
+E1;;;;28.11.2020;15:00;Blackburn;Barnsley
+E1;;;;28.11.2020;15:00;Cardiff;Luton
+E1;;;;28.11.2020;15:00;Derby;Wycombe
+E1;;;;28.11.2020;15:00;Huddersfield;Middlesbrough
+E1;;;;28.11.2020;15:00;Norwich;Coventry
+E1;;;;28.11.2020;15:00;Rotherham;Bournemouth
+E1;;;;28.11.2020;15:00;Sheffield Weds;Stoke
+E1;;;;28.11.2020;15:00;Watford;Preston
+E1;;;;29.11.2020;12:00;Nott'm Forest;Swansea
+E1;;;;01.12.2020;19:00;Cardiff;Huddersfield
+E1;;;;01.12.2020;19:45;Birmingham;Barnsley
+E1;;;;01.12.2020;19:45;Bournemouth;Preston
+E1;;;;01.12.2020;19:45;Derby;Coventry
+E1;;;;01.12.2020;19:45;QPR;Bristol City
+E1;;;;01.12.2020;20:00;Rotherham;Brentford
+E1;;;;02.12.2020;19:00;Middlesbrough;Swansea
+E1;;;;02.12.2020;19:45;Blackburn;Millwall
+E1;;;;02.12.2020;19:45;Luton;Norwich
+E1;;;;02.12.2020;19:45;Nott'm Forest;Watford
+E1;;;;02.12.2020;19:45;Sheffield Weds;Reading
+E1;;;;02.12.2020;19:45;Wycombe;Stoke
+E1;;;;04.12.2020;17:30;Barnsley;Bournemouth
+E1;;;;05.12.2020;12:30;Reading;Nott'm Forest
+E1;;;;05.12.2020;15:00;Brentford;Blackburn
+E1;;;;05.12.2020;15:00;Bristol City;Birmingham
+E1;;;;05.12.2020;15:00;Coventry;Rotherham
+E1;;;;05.12.2020;15:00;Huddersfield;QPR
+E1;;;;05.12.2020;15:00;Millwall;Derby
+E1;;;;05.12.2020;15:00;Norwich;Sheffield Weds
+E1;;;;05.12.2020;15:00;Preston;Wycombe
+E1;;;;05.12.2020;15:00;Stoke;Middlesbrough
+E1;;;;05.12.2020;15:00;Swansea;Luton
+E1;;;;05.12.2020;15:00;Watford;Cardiff
+E1;;;;08.12.2020;19:45;Coventry;Luton
+E1;;;;08.12.2020;19:45;Huddersfield;Sheffield Weds
+E1;;;;08.12.2020;19:45;Millwall;QPR
+E1;;;;08.12.2020;19:45;Stoke;Cardiff
+E1;;;;08.12.2020;19:45;Swansea;Bournemouth
+E1;;;;08.12.2020;19:45;Watford;Rotherham
+E1;;;;09.12.2020;19:00;Preston;Middlesbrough
+E1;;;;09.12.2020;19:45;Barnsley;Wycombe
+E1;;;;09.12.2020;19:45;Brentford;Derby
+E1;;;;09.12.2020;19:45;Bristol City;Blackburn
+E1;;;;09.12.2020;19:45;Norwich;Nott'm Forest
+E1;;;;09.12.2020;19:45;Reading;Birmingham
+E1;;;;12.12.2020;12:30;Cardiff;Swansea
+E1;;;;12.12.2020;15:00;Birmingham;Watford
+E1;;;;12.12.2020;15:00;Blackburn;Norwich
+E1;;;;12.12.2020;15:00;Bournemouth;Huddersfield
+E1;;;;12.12.2020;15:00;Derby;Stoke
+E1;;;;12.12.2020;15:00;Luton;Preston
+E1;;;;12.12.2020;15:00;Middlesbrough;Millwall
+E1;;;;12.12.2020;15:00;Nott'm Forest;Brentford
+E1;;;;12.12.2020;15:00;QPR;Reading
+E1;;;;12.12.2020;15:00;Rotherham;Bristol City
+E1;;;;12.12.2020;15:00;Sheffield Weds;Barnsley
+E1;;;;12.12.2020;15:00;Wycombe;Coventry
+E1;;;;15.12.2020;17:30;QPR;Stoke
+E1;;;;15.12.2020;19:45;Barnsley;Preston
+E1;;;;15.12.2020;19:45;Bournemouth;Wycombe
+E1;;;;15.12.2020;19:45;Bristol City;Millwall
+E1;;;;15.12.2020;19:45;Nott'm Forest;Sheffield Weds
+E1;;;;15.12.2020;20:00;Watford;Brentford
+E1;;;;16.12.2020;17:30;Derby;Swansea
+E1;;;;16.12.2020;19:00;Cardiff;Birmingham
+E1;;;;16.12.2020;19:00;Middlesbrough;Luton
+E1;;;;16.12.2020;19:45;Blackburn;Rotherham
+E1;;;;16.12.2020;20:00;Coventry;Huddersfield
+E1;;;;16.12.2020;20:00;Reading;Norwich
+E1;;;;18.12.2020;20:00;Preston;Bristol City
+E1;;;;19.12.2020;12:30;Norwich;Cardiff
+E1;;;;19.12.2020;15:00;Birmingham;Middlesbrough
+E1;;;;19.12.2020;15:00;Brentford;Reading
+E1;;;;19.12.2020;15:00;Huddersfield;Watford
+E1;;;;19.12.2020;15:00;Luton;Bournemouth
+E1;;;;19.12.2020;15:00;Millwall;Nott'm Forest
+E1;;;;19.12.2020;15:00;Sheffield Weds;Coventry
+E1;;;;19.12.2020;15:00;Stoke;Blackburn
+E1;;;;19.12.2020;15:00;Swansea;Barnsley
+E1;;;;19.12.2020;15:00;Wycombe;QPR
+E1;;;;26.12.2020;15:00;Barnsley;Huddersfield
+E1;;;;26.12.2020;15:00;Blackburn;Sheffield Weds
+E1;;;;26.12.2020;15:00;Bristol City;Wycombe
+E1;;;;26.12.2020;15:00;Cardiff;Brentford
+E1;;;;26.12.2020;15:00;Coventry;Stoke
+E1;;;;26.12.2020;15:00;Derby;Preston
+E1;;;;26.12.2020;15:00;Nott'm Forest;Birmingham
+E1;;;;26.12.2020;15:00;QPR;Swansea
+E1;;;;26.12.2020;15:00;Reading;Luton
+E1;;;;26.12.2020;19:45;Watford;Norwich
+E1;;;;29.12.2020;17:30;Birmingham;Derby
+E1;;;;29.12.2020;19:00;Sheffield Weds;Middlesbrough
+E1;;;;29.12.2020;19:45;Huddersfield;Blackburn
+E1;;;;29.12.2020;19:45;Luton;Bristol City
+E1;;;;29.12.2020;19:45;Norwich;QPR
+E1;;;;29.12.2020;19:45;Preston;Coventry
+E1;;;;29.12.2020;19:45;Rotherham;Barnsley
+E1;;;;29.12.2020;19:45;Wycombe;Cardiff
+E1;;;;29.12.2020;20:00;Stoke;Nott'm Forest
+E1;;;;30.12.2020;17:30;Brentford;Bournemouth
+E1;;;;30.12.2020;20:00;Swansea;Reading
+E1;;;;01.01.2021;17:30;Sheffield Weds;Derby
+E1;;;;02.01.2021;15:00;Birmingham;Blackburn
+E1;;;;02.01.2021;15:00;Huddersfield;Reading
+E1;;;;02.01.2021;15:00;Millwall;Coventry
+E1;;;;02.01.2021;15:00;Norwich;Barnsley
+E1;;;;02.01.2021;15:00;Preston;Nott'm Forest
+E1;;;;02.01.2021;15:00;Swansea;Watford
+E1;;;;02.01.2021;15:00;Wycombe;Middlesbrough
+E1;;;;02.01.2021;19:45;Stoke;Bournemouth
+E1;;;;12.01.2021;19:00;Luton;QPR
+E1;;;;12.01.2021;19:45;Bournemouth;Millwall
+E1;;;;16.01.2021;12:30;Middlesbrough;Birmingham
+E1;;;;16.01.2021;15:00;Blackburn;Stoke
+E1;;;;16.01.2021;15:00;Bournemouth;Luton
+E1;;;;16.01.2021;15:00;Bristol City;Preston
+E1;;;;16.01.2021;15:00;Cardiff;Norwich
+E1;;;;16.01.2021;15:00;Derby;Rotherham
+E1;;;;16.01.2021;15:00;Nott'm Forest;Millwall
+E1;;;;16.01.2021;15:00;Watford;Huddersfield
+E1;;;;16.01.2021;19:45;Barnsley;Swansea
+E1;;;;19.01.2021;18:00;Derby;Bournemouth
+E1;;;;19.01.2021;18:00;Reading;Coventry
+E1;;;;19.01.2021;19:45;Rotherham;Stoke
+E1;;;;19.01.2021;19:45;Watford;Barnsley
+E1;;;;20.01.2021;18:00;Norwich;Bristol City
+E1;;;;20.01.2021;19:00;Brentford;Luton
+E1;;;;20.01.2021;19:00;Cardiff;QPR
+E1;;;;20.01.2021;19:00;Huddersfield;Millwall
+E1;;;;20.01.2021;19:00;Nott'm Forest;Middlesbrough
+E1;;;;20.01.2021;19:45;Birmingham;Preston
+E1;;;;22.01.2021;19:45;Stoke;Watford
+E1;;;;23.01.2021;15:00;QPR;Derby
+E1;;;;24.01.2021;12:30;Preston;Reading
+E1;;;;24.01.2021;15:00;Middlesbrough;Blackburn
+E1;;;;26.01.2021;19:00;Bristol City;Huddersfield
+E1;;;;26.01.2021;19:00;Millwall;Watford
+E1;;;;27.01.2021;19:00;Barnsley;Cardiff
+E1;;;;27.01.2021;19:00;Coventry;Sheffield Weds
+E1;;;;27.01.2021;19:00;Middlesbrough;Rotherham
+E1;;;;27.01.2021;19:00;Swansea;Brentford
+E1;;;;29.01.2021;20:00;Reading;Bournemouth
+E1;;;;30.01.2021;12:30;Norwich;Middlesbrough
+E1;;;;30.01.2021;15:00;Birmingham;Coventry
+E1;;;;30.01.2021;15:00;Blackburn;Luton
+E1;;;;30.01.2021;15:00;Brentford;Wycombe
+E1;;;;30.01.2021;15:00;Cardiff;Millwall
+E1;;;;30.01.2021;15:00;Derby;Bristol City
+E1;;;;30.01.2021;15:00;Huddersfield;Stoke
+E1;;;;30.01.2021;15:00;Nott'm Forest;Barnsley
+E1;;;;30.01.2021;15:00;Rotherham;Swansea
+E1;;;;30.01.2021;15:00;Sheffield Weds;Preston
+E1;;;;01.02.2021;19:45;Watford;QPR
+E1;;;;02.02.2021;18:00;Millwall;Norwich
+E1;;;;02.02.2021;19:00;Bournemouth;Sheffield Weds
+E1;;;;02.02.2021;19:00;Coventry;Nott'm Forest
+E1;;;;02.02.2021;19:00;Wycombe;Birmingham
+E1;;;;03.02.2021;19:00;Rotherham;Derby
+E1;;;;03.02.2021;19:45;Brentford;Bristol City
+E1;;;;05.02.2021;20:15;Swansea;Norwich
+E1;;;;06.02.2021;12:30;Coventry;Watford
+E1;;;;06.02.2021;15:00;Bournemouth;Birmingham
+E1;;;;06.02.2021;15:00;Bristol City;Cardiff
+E1;;;;06.02.2021;15:00;Luton;Huddersfield
+E1;;;;06.02.2021;15:00;Middlesbrough;Brentford
+E1;;;;06.02.2021;15:00;Millwall;Sheffield Weds
+E1;;;;06.02.2021;15:00;Preston;Rotherham
+E1;;;;06.02.2021;15:00;QPR;Blackburn
+E1;;;;06.02.2021;15:00;Stoke;Reading
+E1;;;;06.02.2021;15:00;Wycombe;Nott'm Forest
+E1;;;;09.02.2021;19:00;Rotherham;Cardiff
+E1;;;;09.02.2021;19:00;Sheffield Weds;Wycombe
+E1;;;;10.02.2021;19:00;Reading;Brentford
+E1;;;;12.02.2021;19:45;Blackburn;Preston
+E1;;;;13.02.2021;12:30;Nott'm Forest;Bournemouth
+E1;;;;13.02.2021;15:00;Birmingham;Luton
+E1;;;;13.02.2021;15:00;Cardiff;Coventry
+E1;;;;13.02.2021;15:00;Derby;Middlesbrough
+E1;;;;13.02.2021;15:00;Huddersfield;Wycombe
+E1;;;;13.02.2021;15:00;Norwich;Stoke
+E1;;;;13.02.2021;15:00;Reading;Millwall
+E1;;;;13.02.2021;15:00;Watford;Bristol City
+E1;;;;14.02.2021;13:00;Brentford;Barnsley
+E1;;;;16.02.2021;19:00;Preston;Watford
+E1;;;;16.02.2021;19:00;Stoke;Sheffield Weds
+E1;;;;16.02.2021;19:45;Bristol City;Reading
+E1;;;;16.02.2021;19:45;Middlesbrough;Huddersfield
+E1;;;;16.02.2021;19:45;Wycombe;Derby
+E1;;;;16.02.2021;20:15;Luton;Cardiff
+E1;;;;17.02.2021;19:00;Coventry;Norwich
+E1;;;;17.02.2021;19:00;Millwall;Birmingham
+E1;;;;17.02.2021;19:00;QPR;Brentford
+E1;;;;17.02.2021;19:00;Swansea;Nott'm Forest
+E1;;;;17.02.2021;19:45;Barnsley;Blackburn
+E1;;;;17.02.2021;20:15;Bournemouth;Rotherham
+E1;;;;19.02.2021;19:45;Watford;Derby
+E1;;;;20.02.2021;12:30;Coventry;Brentford
+E1;;;;20.02.2021;15:00;Bristol City;Barnsley
+E1;;;;20.02.2021;15:00;Cardiff;Preston
+E1;;;;20.02.2021;15:00;Huddersfield;Swansea
+E1;;;;20.02.2021;15:00;Millwall;Wycombe
+E1;;;;20.02.2021;15:00;Norwich;Rotherham
+E1;;;;20.02.2021;15:00;Nott'm Forest;Blackburn
+E1;;;;20.02.2021;15:00;QPR;Bournemouth
+E1;;;;20.02.2021;15:00;Reading;Middlesbrough
+E1;;;;20.02.2021;15:00;Sheffield Weds;Birmingham
+E1;;;;20.02.2021;15:00;Stoke;Luton
+E1;;;;23.02.2021;19:00;Birmingham;Norwich
+E1;;;;23.02.2021;19:00;Derby;Huddersfield
+E1;;;;23.02.2021;19:00;Middlesbrough;Bristol City
+E1;;;;23.02.2021;19:45;Luton;Millwall
+E1;;;;23.02.2021;19:45;Rotherham;Nott'm Forest
+E1;;;;23.02.2021;19:45;Wycombe;Reading
+E1;;;;24.02.2021;19:00;Barnsley;Stoke
+E1;;;;24.02.2021;19:00;Brentford;Sheffield Weds
+E1;;;;24.02.2021;19:00;Swansea;Coventry
+E1;;;;24.02.2021;19:45;Blackburn;Watford
+E1;;;;24.02.2021;19:45;Bournemouth;Cardiff
+E1;;;;24.02.2021;19:45;Preston;QPR
+E1;;;;26.02.2021;19:45;Derby;Nott'm Forest
+E1;;;;27.02.2021;12:30;Bournemouth;Watford
+E1;;;;27.02.2021;15:00;Barnsley;Millwall
+E1;;;;27.02.2021;15:00;Birmingham;QPR
+E1;;;;27.02.2021;15:00;Blackburn;Coventry
+E1;;;;27.02.2021;15:00;Brentford;Stoke
+E1;;;;27.02.2021;15:00;Luton;Sheffield Weds
+E1;;;;27.02.2021;15:00;Middlesbrough;Cardiff
+E1;;;;27.02.2021;15:00;Preston;Huddersfield
+E1;;;;27.02.2021;15:00;Rotherham;Reading
+E1;;;;27.02.2021;15:00;Swansea;Bristol City
+E1;;;;28.02.2021;12:00;Wycombe;Norwich
+E1;;;;02.03.2021;19:00;Cardiff;Derby
+E1;;;;02.03.2021;19:00;Coventry;Middlesbrough
+E1;;;;02.03.2021;19:00;Huddersfield;Birmingham
+E1;;;;02.03.2021;19:00;Millwall;Preston
+E1;;;;02.03.2021;19:45;Nott'm Forest;Luton
+E1;;;;02.03.2021;20:00;Reading;Blackburn
+E1;;;;03.03.2021;17:30;Norwich;Brentford
+E1;;;;03.03.2021;19:00;QPR;Barnsley
+E1;;;;03.03.2021;19:00;Watford;Wycombe
+E1;;;;03.03.2021;19:45;Bristol City;Bournemouth
+E1;;;;03.03.2021;19:45;Sheffield Weds;Rotherham
+E1;;;;03.03.2021;20:15;Stoke;Swansea
+E1;;;;05.03.2021;19:45;Huddersfield;Cardiff
+E1;;;;06.03.2021;12:30;Watford;Nott'm Forest
+E1;;;;06.03.2021;15:00;Barnsley;Birmingham
+E1;;;;06.03.2021;15:00;Bristol City;QPR
+E1;;;;06.03.2021;15:00;Coventry;Derby
+E1;;;;06.03.2021;15:00;Millwall;Blackburn
+E1;;;;06.03.2021;15:00;Norwich;Luton
+E1;;;;06.03.2021;15:00;Preston;Bournemouth
+E1;;;;06.03.2021;15:00;Reading;Sheffield Weds
+E1;;;;06.03.2021;15:00;Stoke;Wycombe
+E1;;;;06.03.2021;15:00;Swansea;Middlesbrough
+E1;;;;09.03.2021;18:00;Blackburn;Swansea
+E1;;;;09.03.2021;19:00;QPR;Wycombe
+E1;;;;10.03.2021;19:00;Barnsley;Derby
+E1;;;;12.03.2021;19:45;Blackburn;Brentford
+E1;;;;13.03.2021;12:15;Luton;Swansea
+E1;;;;13.03.2021;15:00;Birmingham;Bristol City
+E1;;;;13.03.2021;15:00;Bournemouth;Barnsley
+E1;;;;13.03.2021;15:00;Cardiff;Watford
+E1;;;;13.03.2021;15:00;Derby;Millwall
+E1;;;;13.03.2021;15:00;Middlesbrough;Stoke
+E1;;;;13.03.2021;15:00;Nott'm Forest;Reading
+E1;;;;13.03.2021;15:00;QPR;Huddersfield
+E1;;;;13.03.2021;15:00;Wycombe;Preston
+E1;;;;14.03.2021;12:15;Sheffield Weds;Norwich
+E1;;;;16.03.2021;19:00;Cardiff;Stoke
+E1;;;;16.03.2021;19:00;Derby;Brentford
+E1;;;;16.03.2021;19:00;Luton;Coventry
+E1;;;;16.03.2021;19:00;Middlesbrough;Preston
+E1;;;;16.03.2021;19:00;Rotherham;Watford
+E1;;;;16.03.2021;19:45;Bournemouth;Swansea
+E1;;;;17.03.2021;19:00;Nott'm Forest;Norwich
+E1;;;;17.03.2021;19:00;QPR;Millwall
+E1;;;;17.03.2021;19:00;Wycombe;Barnsley
+E1;;;;17.03.2021;19:45;Birmingham;Reading
+E1;;;;17.03.2021;19:45;Blackburn;Bristol City
+E1;;;;17.03.2021;19:45;Sheffield Weds;Huddersfield
+E1;;;;20.03.2021;12:30;Brentford;Nott'm Forest
+E1;;;;20.03.2021;15:00;Barnsley;Sheffield Weds
+E1;;;;20.03.2021;15:00;Bristol City;Rotherham
+E1;;;;20.03.2021;15:00;Coventry;Wycombe
+E1;;;;20.03.2021;15:00;Millwall;Middlesbrough
+E1;;;;20.03.2021;15:00;Norwich;Blackburn
+E1;;;;20.03.2021;15:00;Preston;Luton
+E1;;;;20.03.2021;15:00;Reading;QPR
+E1;;;;20.03.2021;15:00;Stoke;Derby
+E1;;;;20.03.2021;15:00;Watford;Birmingham
+E1;;;;20.03.2021;17:30;Swansea;Cardiff
+E1;;;;02.04.2021;15:00;Bournemouth;Middlesbrough
+E1;;;;02.04.2021;15:00;Bristol City;Stoke
+E1;;;;02.04.2021;15:00;Cardiff;Nott'm Forest
+E1;;;;02.04.2021;15:00;Derby;Luton
+E1;;;;02.04.2021;15:00;Millwall;Rotherham
+E1;;;;02.04.2021;15:00;Preston;Norwich
+E1;;;;02.04.2021;15:00;QPR;Coventry
+E1;;;;02.04.2021;15:00;Watford;Sheffield Weds
+E1;;;;02.04.2021;15:00;Wycombe;Blackburn
+E1;;;;02.04.2021;17:30;Barnsley;Reading
+E1;;;;02.04.2021;20:00;Birmingham;Swansea
+E1;;;;03.04.2021;12:30;Huddersfield;Brentford
+E1;;;;05.04.2021;12:30;Middlesbrough;Watford
+E1;;;;05.04.2021;15:00;Blackburn;Bournemouth
+E1;;;;05.04.2021;15:00;Coventry;Bristol City
+E1;;;;05.04.2021;15:00;Luton;Barnsley
+E1;;;;05.04.2021;15:00;Nott'm Forest;QPR
+E1;;;;05.04.2021;15:00;Reading;Derby
+E1;;;;05.04.2021;15:00;Rotherham;Wycombe
+E1;;;;05.04.2021;15:00;Stoke;Millwall
+E1;;;;05.04.2021;15:00;Swansea;Preston
+E1;;;;05.04.2021;17:30;Sheffield Weds;Cardiff
+E1;;;;06.04.2021;19:00;Brentford;Birmingham
+E1;;;;06.04.2021;19:45;Norwich;Huddersfield
+E1;;;;09.04.2021;19:45;Watford;Reading
+E1;;;;10.04.2021;12:30;Millwall;Swansea
+E1;;;;10.04.2021;15:00;Barnsley;Middlesbrough
+E1;;;;10.04.2021;15:00;Birmingham;Stoke
+E1;;;;10.04.2021;15:00;Bournemouth;Coventry
+E1;;;;10.04.2021;15:00;Bristol City;Nott'm Forest
+E1;;;;10.04.2021;15:00;Cardiff;Blackburn
+E1;;;;10.04.2021;15:00;Derby;Norwich
+E1;;;;10.04.2021;15:00;Huddersfield;Rotherham
+E1;;;;10.04.2021;15:00;Preston;Brentford
+E1;;;;10.04.2021;15:00;QPR;Sheffield Weds
+E1;;;;10.04.2021;15:00;Wycombe;Luton
+E1;;;;13.04.2021;17:30;Huddersfield;Bournemouth
+E1;;;;13.04.2021;18:00;Sheffield Weds;Swansea
+E1;;;;13.04.2021;19:00;Rotherham;QPR
+E1;;;;15.04.2021;19:00;Rotherham;Coventry
+E1;;;;16.04.2021;18:00;Blackburn;Derby
+E1;;;;16.04.2021;18:00;Reading;Cardiff
+E1;;;;17.04.2021;12:30;Brentford;Millwall
+E1;;;;17.04.2021;12:30;Luton;Watford
+E1;;;;17.04.2021;12:30;Middlesbrough;QPR
+E1;;;;17.04.2021;12:30;Nott'm Forest;Huddersfield
+E1;;;;17.04.2021;12:30;Sheffield Weds;Bristol City
+E1;;;;17.04.2021;12:30;Stoke;Preston
+E1;;;;17.04.2021;12:30;Swansea;Wycombe
+E1;;;;17.04.2021;20:00;Norwich;Bournemouth
+E1;;;;18.04.2021;12:00;Rotherham;Birmingham
+E1;;;;18.04.2021;15:00;Coventry;Barnsley
+E1;;;;20.04.2021;18:00;Brentford;Cardiff
+E1;;;;20.04.2021;18:00;Norwich;Watford
+E1;;;;20.04.2021;19:00;Preston;Derby
+E1;;;;20.04.2021;19:00;Sheffield Weds;Blackburn
+E1;;;;20.04.2021;19:00;Swansea;QPR
+E1;;;;21.04.2021;18:00;Millwall;Bournemouth
+E1;;;;21.04.2021;18:00;Rotherham;Middlesbrough
+E1;;;;21.04.2021;19:00;Stoke;Coventry
+E1;;;;21.04.2021;19:00;Wycombe;Bristol City
+E1;;;;21.04.2021;19:45;Birmingham;Nott'm Forest
+E1;;;;21.04.2021;19:45;Huddersfield;Barnsley
+E1;;;;21.04.2021;19:45;Luton;Reading
+E1;;;;24.04.2021;12:30;Bournemouth;Brentford
+E1;;;;24.04.2021;15:00;Barnsley;Rotherham
+E1;;;;24.04.2021;15:00;Blackburn;Huddersfield
+E1;;;;24.04.2021;15:00;Cardiff;Wycombe
+E1;;;;24.04.2021;15:00;Coventry;Preston
+E1;;;;24.04.2021;15:00;Derby;Birmingham
+E1;;;;24.04.2021;15:00;Middlesbrough;Sheffield Weds
+E1;;;;24.04.2021;15:00;Nott'm Forest;Stoke
+E1;;;;24.04.2021;15:00;QPR;Norwich
+E1;;;;24.04.2021;15:00;Watford;Millwall
+E1;;;;25.04.2021;12:00;Reading;Swansea
+E1;;;;25.04.2021;13:00;Bristol City;Luton
+E1;;;;27.04.2021;19:00;Brentford;Rotherham
+E1;;;;01.05.2021;12:30;Sheffield Weds;Nott'm Forest
+E1;;;;01.05.2021;15:00;Birmingham;Cardiff
+E1;;;;01.05.2021;15:00;Brentford;Watford
+E1;;;;01.05.2021;15:00;Huddersfield;Coventry
+E1;;;;01.05.2021;15:00;Luton;Middlesbrough
+E1;;;;01.05.2021;15:00;Millwall;Bristol City
+E1;;;;01.05.2021;15:00;Norwich;Reading
+E1;;;;01.05.2021;15:00;Preston;Barnsley
+E1;;;;01.05.2021;15:00;Rotherham;Blackburn
+E1;;;;01.05.2021;15:00;Stoke;QPR
+E1;;;;01.05.2021;15:00;Swansea;Derby
+E1;;;;01.05.2021;15:00;Wycombe;Bournemouth
+E1;;;;04.05.2021;19:15;Luton;Rotherham
+E1;;;;08.05.2021;12:30;Barnsley;Norwich
+E1;;;;08.05.2021;12:30;Blackburn;Birmingham
+E1;;;;08.05.2021;12:30;Bournemouth;Stoke
+E1;;;;08.05.2021;12:30;Bristol City;Brentford
+E1;;;;08.05.2021;12:30;Cardiff;Rotherham
+E1;;;;08.05.2021;12:30;Coventry;Millwall
+E1;;;;08.05.2021;12:30;Derby;Sheffield Weds
+E1;;;;08.05.2021;12:30;Middlesbrough;Wycombe
+E1;;;;08.05.2021;12:30;Nott'm Forest;Preston
+E1;;;;08.05.2021;12:30;QPR;Luton
+E1;;;;08.05.2021;12:30;Reading;Huddersfield
+E1;;;;08.05.2021;12:30;Watford;Swansea

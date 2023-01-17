@@ -1,0 +1,381 @@
+Div;Season;Capacity;Spectators;Date;HomeTeam;AwayTeam
+E0;7;21994;20558;13.08.2016;Burnley;Swansea
+E0;7;26047;25161;13.08.2016;Crystal Palace;West Brom
+E0;7;39571;39310;13.08.2016;Everton;Tottenham
+E0;7;24983;20761;13.08.2016;Hull;Leicester
+E0;7;55017;54019;13.08.2016;Man City;Sunderland
+E0;7;33746;30449;13.08.2016;Middlesbrough;Stoke
+E0;7;32384;30936;13.08.2016;Southampton;Watford
+E0;7;60704;59957;14.08.2016;Arsenal;Liverpool
+E0;7;11329;11182;14.08.2016;Bournemouth;Man United
+E0;7;42000;41508;15.08.2016;Chelsea;West Ham
+E0;7;75500;75290;19.08.2016;Man United;Southampton
+E0;7;21994;20558;20.08.2016;Burnley;Liverpool
+E0;7;32273;31893;20.08.2016;Leicester;Arsenal
+E0;7;30089;27433;20.08.2016;Stoke;Man City
+E0;7;21088;20619;20.08.2016;Swansea;Hull
+E0;7;36284;31639;20.08.2016;Tottenham;Crystal Palace
+E0;7;21577;20571;20.08.2016;Watford;Chelsea
+E0;7;26850;23876;20.08.2016;West Brom;Everton
+E0;7;48707;41287;21.08.2016;Sunderland;Middlesbrough
+E0;7;60000;56972;21.08.2016;West Ham;Bournemouth
+E0;7;42000;41508;27.08.2016;Chelsea;Burnley
+E0;7;26047;25161;27.08.2016;Crystal Palace;Bournemouth
+E0;7;39571;39310;27.08.2016;Everton;Stoke
+E0;7;24983;20761;27.08.2016;Hull;Man United
+E0;7;32273;31893;27.08.2016;Leicester;Swansea
+E0;7;32384;30936;27.08.2016;Southampton;Sunderland
+E0;7;36284;31639;27.08.2016;Tottenham;Liverpool
+E0;7;21577;20571;27.08.2016;Watford;Arsenal
+E0;7;55017;54019;28.08.2016;Man City;West Ham
+E0;7;26850;23876;28.08.2016;West Brom;Middlesbrough
+E0;7;60704;59957;10.09.2016;Arsenal;Southampton
+E0;7;11329;11182;10.09.2016;Bournemouth;West Brom
+E0;7;21994;20558;10.09.2016;Burnley;Hull
+E0;7;54074;53016;10.09.2016;Liverpool;Leicester
+E0;7;75500;75290;10.09.2016;Man United;Man City
+E0;7;33746;30449;10.09.2016;Middlesbrough;Crystal Palace
+E0;7;30089;27433;10.09.2016;Stoke;Tottenham
+E0;7;60000;56972;10.09.2016;West Ham;Watford
+E0;7;21088;20619;11.09.2016;Swansea;Chelsea
+E0;7;48707;41287;12.09.2016;Sunderland;Everton
+E0;7;42000;41508;16.09.2016;Chelsea;Liverpool
+E0;7;39571;39310;17.09.2016;Everton;Middlesbrough
+E0;7;24983;20761;17.09.2016;Hull;Arsenal
+E0;7;32273;31893;17.09.2016;Leicester;Burnley
+E0;7;55017;54019;17.09.2016;Man City;Bournemouth
+E0;7;26850;23876;17.09.2016;West Brom;West Ham
+E0;7;26047;25161;18.09.2016;Crystal Palace;Stoke
+E0;7;32384;30936;18.09.2016;Southampton;Swansea
+E0;7;36284;31639;18.09.2016;Tottenham;Sunderland
+E0;7;21577;20571;18.09.2016;Watford;Man United
+E0;7;60704;59957;24.09.2016;Arsenal;Chelsea
+E0;7;11329;11182;24.09.2016;Bournemouth;Everton
+E0;7;54074;53016;24.09.2016;Liverpool;Hull
+E0;7;75500;75290;24.09.2016;Man United;Leicester
+E0;7;33746;30449;24.09.2016;Middlesbrough;Tottenham
+E0;7;30089;27433;24.09.2016;Stoke;West Brom
+E0;7;48707;41287;24.09.2016;Sunderland;Crystal Palace
+E0;7;21088;20619;24.09.2016;Swansea;Man City
+E0;7;60000;56972;25.09.2016;West Ham;Southampton
+E0;7;21994;20558;26.09.2016;Burnley;Watford
+E0;7;39571;39310;30.09.2016;Everton;Crystal Palace
+E0;7;24983;20761;01.10.2016;Hull;Chelsea
+E0;7;48707;41287;01.10.2016;Sunderland;West Brom
+E0;7;21088;20619;01.10.2016;Swansea;Liverpool
+E0;7;21577;20571;01.10.2016;Watford;Bournemouth
+E0;7;60000;56972;01.10.2016;West Ham;Middlesbrough
+E0;7;21994;20558;02.10.2016;Burnley;Arsenal
+E0;7;32273;31893;02.10.2016;Leicester;Southampton
+E0;7;75500;75290;02.10.2016;Man United;Stoke
+E0;7;36284;31639;02.10.2016;Tottenham;Man City
+E0;7;60704;59957;15.10.2016;Arsenal;Swansea
+E0;7;11329;11182;15.10.2016;Bournemouth;Hull
+E0;7;42000;41508;15.10.2016;Chelsea;Leicester
+E0;7;26047;25161;15.10.2016;Crystal Palace;West Ham
+E0;7;55017;54019;15.10.2016;Man City;Everton
+E0;7;30089;27433;15.10.2016;Stoke;Sunderland
+E0;7;26850;23876;15.10.2016;West Brom;Tottenham
+E0;7;33746;30449;16.10.2016;Middlesbrough;Watford
+E0;7;32384;30936;16.10.2016;Southampton;Burnley
+E0;7;54074;53016;17.10.2016;Liverpool;Man United
+E0;7;60704;59957;22.10.2016;Arsenal;Middlesbrough
+E0;7;11329;11182;22.10.2016;Bournemouth;Tottenham
+E0;7;21994;20558;22.10.2016;Burnley;Everton
+E0;7;24983;20761;22.10.2016;Hull;Stoke
+E0;7;32273;31893;22.10.2016;Leicester;Crystal Palace
+E0;7;54074;53016;22.10.2016;Liverpool;West Brom
+E0;7;21088;20619;22.10.2016;Swansea;Watford
+E0;7;60000;56972;22.10.2016;West Ham;Sunderland
+E0;7;42000;41508;23.10.2016;Chelsea;Man United
+E0;7;55017;54019;23.10.2016;Man City;Southampton
+E0;7;26047;25161;29.10.2016;Crystal Palace;Liverpool
+E0;7;75500;75290;29.10.2016;Man United;Burnley
+E0;7;33746;30449;29.10.2016;Middlesbrough;Bournemouth
+E0;7;48707;41287;29.10.2016;Sunderland;Arsenal
+E0;7;36284;31639;29.10.2016;Tottenham;Leicester
+E0;7;21577;20571;29.10.2016;Watford;Hull
+E0;7;26850;23876;29.10.2016;West Brom;Man City
+E0;7;39571;39310;30.10.2016;Everton;West Ham
+E0;7;32384;30936;30.10.2016;Southampton;Chelsea
+E0;7;30089;27433;31.10.2016;Stoke;Swansea
+E0;7;11329;11182;05.11.2016;Bournemouth;Sunderland
+E0;7;21994;20558;05.11.2016;Burnley;Crystal Palace
+E0;7;42000;41508;05.11.2016;Chelsea;Everton
+E0;7;55017;54019;05.11.2016;Man City;Middlesbrough
+E0;7;60000;56972;05.11.2016;West Ham;Stoke
+E0;7;60704;59957;06.11.2016;Arsenal;Tottenham
+E0;7;24983;20761;06.11.2016;Hull;Southampton
+E0;7;32273;31893;06.11.2016;Leicester;West Brom
+E0;7;54074;53016;06.11.2016;Liverpool;Watford
+E0;7;21088;20619;06.11.2016;Swansea;Man United
+E0;7;26047;25161;19.11.2016;Crystal Palace;Man City
+E0;7;39571;39310;19.11.2016;Everton;Swansea
+E0;7;75500;75290;19.11.2016;Man United;Arsenal
+E0;7;32384;30936;19.11.2016;Southampton;Liverpool
+E0;7;30089;27433;19.11.2016;Stoke;Bournemouth
+E0;7;48707;41287;19.11.2016;Sunderland;Hull
+E0;7;36284;31639;19.11.2016;Tottenham;West Ham
+E0;7;21577;20571;19.11.2016;Watford;Leicester
+E0;7;33746;30449;20.11.2016;Middlesbrough;Chelsea
+E0;7;26850;23876;21.11.2016;West Brom;Burnley
+E0;7;21994;20558;26.11.2016;Burnley;Man City
+E0;7;42000;41508;26.11.2016;Chelsea;Tottenham
+E0;7;24983;20761;26.11.2016;Hull;West Brom
+E0;7;32273;31893;26.11.2016;Leicester;Middlesbrough
+E0;7;54074;53016;26.11.2016;Liverpool;Sunderland
+E0;7;21088;20619;26.11.2016;Swansea;Crystal Palace
+E0;7;60704;59957;27.11.2016;Arsenal;Bournemouth
+E0;7;75500;75290;27.11.2016;Man United;West Ham
+E0;7;32384;30936;27.11.2016;Southampton;Everton
+E0;7;21577;20571;27.11.2016;Watford;Stoke
+E0;7;26047;25161;03.12.2016;Crystal Palace;Southampton
+E0;7;55017;54019;03.12.2016;Man City;Chelsea
+E0;7;30089;27433;03.12.2016;Stoke;Burnley
+E0;7;48707;41287;03.12.2016;Sunderland;Leicester
+E0;7;36284;31639;03.12.2016;Tottenham;Swansea
+E0;7;26850;23876;03.12.2016;West Brom;Watford
+E0;7;60000;56972;03.12.2016;West Ham;Arsenal
+E0;7;11329;11182;04.12.2016;Bournemouth;Liverpool
+E0;7;39571;39310;04.12.2016;Everton;Man United
+E0;7;33746;30449;05.12.2016;Middlesbrough;Hull
+E0;7;60704;59957;10.12.2016;Arsenal;Stoke
+E0;7;21994;20558;10.12.2016;Burnley;Bournemouth
+E0;7;24983;20761;10.12.2016;Hull;Crystal Palace
+E0;7;32273;31893;10.12.2016;Leicester;Man City
+E0;7;21088;20619;10.12.2016;Swansea;Sunderland
+E0;7;21577;20571;10.12.2016;Watford;Everton
+E0;7;42000;41508;11.12.2016;Chelsea;West Brom
+E0;7;54074;53016;11.12.2016;Liverpool;West Ham
+E0;7;75500;75290;11.12.2016;Man United;Tottenham
+E0;7;32384;30936;11.12.2016;Southampton;Middlesbrough
+E0;7;11329;11182;13.12.2016;Bournemouth;Leicester
+E0;7;39571;39310;13.12.2016;Everton;Arsenal
+E0;7;26047;25161;14.12.2016;Crystal Palace;Man United
+E0;7;55017;54019;14.12.2016;Man City;Watford
+E0;7;33746;30449;14.12.2016;Middlesbrough;Liverpool
+E0;7;30089;27433;14.12.2016;Stoke;Southampton
+E0;7;48707;41287;14.12.2016;Sunderland;Chelsea
+E0;7;36284;31639;14.12.2016;Tottenham;Hull
+E0;7;26850;23876;14.12.2016;West Brom;Swansea
+E0;7;60000;56972;14.12.2016;West Ham;Burnley
+E0;7;26047;25161;17.12.2016;Crystal Palace;Chelsea
+E0;7;33746;30449;17.12.2016;Middlesbrough;Swansea
+E0;7;30089;27433;17.12.2016;Stoke;Leicester
+E0;7;48707;41287;17.12.2016;Sunderland;Watford
+E0;7;26850;23876;17.12.2016;West Brom;Man United
+E0;7;60000;56972;17.12.2016;West Ham;Hull
+E0;7;11329;11182;18.12.2016;Bournemouth;Southampton
+E0;7;55017;54019;18.12.2016;Man City;Arsenal
+E0;7;36284;31639;18.12.2016;Tottenham;Burnley
+E0;7;39571;39310;19.12.2016;Everton;Liverpool
+E0;7;60704;59957;26.12.2016;Arsenal;West Brom
+E0;7;21994;20558;26.12.2016;Burnley;Middlesbrough
+E0;7;42000;41508;26.12.2016;Chelsea;Bournemouth
+E0;7;24983;20761;26.12.2016;Hull;Man City
+E0;7;32273;31893;26.12.2016;Leicester;Everton
+E0;7;75500;75290;26.12.2016;Man United;Sunderland
+E0;7;21088;20619;26.12.2016;Swansea;West Ham
+E0;7;21577;20571;26.12.2016;Watford;Crystal Palace
+E0;7;54074;53016;27.12.2016;Liverpool;Stoke
+E0;7;32384;30936;28.12.2016;Southampton;Tottenham
+E0;7;24983;20761;30.12.2016;Hull;Everton
+E0;7;21994;20558;31.12.2016;Burnley;Sunderland
+E0;7;42000;41508;31.12.2016;Chelsea;Stoke
+E0;7;32273;31893;31.12.2016;Leicester;West Ham
+E0;7;54074;53016;31.12.2016;Liverpool;Man City
+E0;7;75500;75290;31.12.2016;Man United;Middlesbrough
+E0;7;32384;30936;31.12.2016;Southampton;West Brom
+E0;7;21088;20619;31.12.2016;Swansea;Bournemouth
+E0;7;60704;59957;01.01.2017;Arsenal;Crystal Palace
+E0;7;21577;20571;01.01.2017;Watford;Tottenham
+E0;7;39571;39310;02.01.2017;Everton;Southampton
+E0;7;55017;54019;02.01.2017;Man City;Burnley
+E0;7;33746;30449;02.01.2017;Middlesbrough;Leicester
+E0;7;48707;41287;02.01.2017;Sunderland;Liverpool
+E0;7;26850;23876;02.01.2017;West Brom;Hull
+E0;7;60000;56972;02.01.2017;West Ham;Man United
+E0;7;11329;11182;03.01.2017;Bournemouth;Arsenal
+E0;7;26047;25161;03.01.2017;Crystal Palace;Swansea
+E0;7;30089;27433;03.01.2017;Stoke;Watford
+E0;7;36284;31639;04.01.2017;Tottenham;Chelsea
+E0;7;21994;20558;14.01.2017;Burnley;Southampton
+E0;7;24983;20761;14.01.2017;Hull;Bournemouth
+E0;7;32273;31893;14.01.2017;Leicester;Chelsea
+E0;7;48707;41287;14.01.2017;Sunderland;Stoke
+E0;7;21088;20619;14.01.2017;Swansea;Arsenal
+E0;7;36284;31639;14.01.2017;Tottenham;West Brom
+E0;7;21577;20571;14.01.2017;Watford;Middlesbrough
+E0;7;60000;56972;14.01.2017;West Ham;Crystal Palace
+E0;7;39571;39310;15.01.2017;Everton;Man City
+E0;7;75500;75290;15.01.2017;Man United;Liverpool
+E0;7;11329;11182;21.01.2017;Bournemouth;Watford
+E0;7;26047;25161;21.01.2017;Crystal Palace;Everton
+E0;7;54074;53016;21.01.2017;Liverpool;Swansea
+E0;7;55017;54019;21.01.2017;Man City;Tottenham
+E0;7;33746;30449;21.01.2017;Middlesbrough;West Ham
+E0;7;30089;27433;21.01.2017;Stoke;Man United
+E0;7;26850;23876;21.01.2017;West Brom;Sunderland
+E0;7;60704;59957;22.01.2017;Arsenal;Burnley
+E0;7;42000;41508;22.01.2017;Chelsea;Hull
+E0;7;32384;30936;22.01.2017;Southampton;Leicester
+E0;7;60704;59957;31.01.2017;Arsenal;Watford
+E0;7;11329;11182;31.01.2017;Bournemouth;Crystal Palace
+E0;7;21994;20558;31.01.2017;Burnley;Leicester
+E0;7;54074;53016;31.01.2017;Liverpool;Chelsea
+E0;7;33746;30449;31.01.2017;Middlesbrough;West Brom
+E0;7;48707;41287;31.01.2017;Sunderland;Tottenham
+E0;7;21088;20619;31.01.2017;Swansea;Southampton
+E0;7;75500;75290;01.02.2017;Man United;Hull
+E0;7;30089;27433;01.02.2017;Stoke;Everton
+E0;7;60000;56972;01.02.2017;West Ham;Man City
+E0;7;42000;41508;04.02.2017;Chelsea;Arsenal
+E0;7;26047;25161;04.02.2017;Crystal Palace;Sunderland
+E0;7;39571;39310;04.02.2017;Everton;Bournemouth
+E0;7;24983;20761;04.02.2017;Hull;Liverpool
+E0;7;32384;30936;04.02.2017;Southampton;West Ham
+E0;7;36284;31639;04.02.2017;Tottenham;Middlesbrough
+E0;7;21577;20571;04.02.2017;Watford;Burnley
+E0;7;26850;23876;04.02.2017;West Brom;Stoke
+E0;7;32273;31893;05.02.2017;Leicester;Man United
+E0;7;55017;54019;05.02.2017;Man City;Swansea
+E0;7;60704;59957;11.02.2017;Arsenal;Hull
+E0;7;54074;53016;11.02.2017;Liverpool;Tottenham
+E0;7;75500;75290;11.02.2017;Man United;Watford
+E0;7;33746;30449;11.02.2017;Middlesbrough;Everton
+E0;7;30089;27433;11.02.2017;Stoke;Crystal Palace
+E0;7;48707;41287;11.02.2017;Sunderland;Southampton
+E0;7;60000;56972;11.02.2017;West Ham;West Brom
+E0;7;21994;20558;12.02.2017;Burnley;Chelsea
+E0;7;21088;20619;12.02.2017;Swansea;Leicester
+E0;7;11329;11182;13.02.2017;Bournemouth;Man City
+E0;7;42000;41508;25.02.2017;Chelsea;Swansea
+E0;7;26047;25161;25.02.2017;Crystal Palace;Middlesbrough
+E0;7;39571;39310;25.02.2017;Everton;Sunderland
+E0;7;24983;20761;25.02.2017;Hull;Burnley
+E0;7;21577;20571;25.02.2017;Watford;West Ham
+E0;7;26850;23876;25.02.2017;West Brom;Bournemouth
+E0;7;36284;31639;26.02.2017;Tottenham;Stoke
+E0;7;32273;31893;27.02.2017;Leicester;Liverpool
+E0;7;32273;31893;04.03.2017;Leicester;Hull
+E0;7;54074;53016;04.03.2017;Liverpool;Arsenal
+E0;7;75500;75290;04.03.2017;Man United;Bournemouth
+E0;7;30089;27433;04.03.2017;Stoke;Middlesbrough
+E0;7;21088;20619;04.03.2017;Swansea;Burnley
+E0;7;21577;20571;04.03.2017;Watford;Southampton
+E0;7;26850;23876;04.03.2017;West Brom;Crystal Palace
+E0;7;48707;41287;05.03.2017;Sunderland;Man City
+E0;7;36284;31639;05.03.2017;Tottenham;Everton
+E0;7;60000;56972;06.03.2017;West Ham;Chelsea
+E0;7;55017;54019;08.03.2017;Man City;Stoke
+E0;7;11329;11182;11.03.2017;Bournemouth;West Ham
+E0;7;39571;39310;11.03.2017;Everton;West Brom
+E0;7;24983;20761;11.03.2017;Hull;Swansea
+E0;7;54074;53016;12.03.2017;Liverpool;Burnley
+E0;7;11329;11182;18.03.2017;Bournemouth;Swansea
+E0;7;26047;25161;18.03.2017;Crystal Palace;Watford
+E0;7;39571;39310;18.03.2017;Everton;Hull
+E0;7;30089;27433;18.03.2017;Stoke;Chelsea
+E0;7;48707;41287;18.03.2017;Sunderland;Burnley
+E0;7;26850;23876;18.03.2017;West Brom;Arsenal
+E0;7;60000;56972;18.03.2017;West Ham;Leicester
+E0;7;55017;54019;19.03.2017;Man City;Liverpool
+E0;7;33746;30449;19.03.2017;Middlesbrough;Man United
+E0;7;36284;31639;19.03.2017;Tottenham;Southampton
+E0;7;21994;20558;01.04.2017;Burnley;Tottenham
+E0;7;42000;41508;01.04.2017;Chelsea;Crystal Palace
+E0;7;24983;20761;01.04.2017;Hull;West Ham
+E0;7;32273;31893;01.04.2017;Leicester;Stoke
+E0;7;54074;53016;01.04.2017;Liverpool;Everton
+E0;7;75500;75290;01.04.2017;Man United;West Brom
+E0;7;32384;30936;01.04.2017;Southampton;Bournemouth
+E0;7;21577;20571;01.04.2017;Watford;Sunderland
+E0;7;60704;59957;02.04.2017;Arsenal;Man City
+E0;7;21088;20619;02.04.2017;Swansea;Middlesbrough
+E0;7;21994;20558;04.04.2017;Burnley;Stoke
+E0;7;32273;31893;04.04.2017;Leicester;Sunderland
+E0;7;75500;75290;04.04.2017;Man United;Everton
+E0;7;21577;20571;04.04.2017;Watford;West Brom
+E0;7;60704;59957;05.04.2017;Arsenal;West Ham
+E0;7;42000;41508;05.04.2017;Chelsea;Man City
+E0;7;24983;20761;05.04.2017;Hull;Middlesbrough
+E0;7;54074;53016;05.04.2017;Liverpool;Bournemouth
+E0;7;32384;30936;05.04.2017;Southampton;Crystal Palace
+E0;7;21088;20619;05.04.2017;Swansea;Tottenham
+E0;7;11329;11182;08.04.2017;Bournemouth;Chelsea
+E0;7;55017;54019;08.04.2017;Man City;Hull
+E0;7;33746;30449;08.04.2017;Middlesbrough;Burnley
+E0;7;30089;27433;08.04.2017;Stoke;Liverpool
+E0;7;36284;31639;08.04.2017;Tottenham;Watford
+E0;7;26850;23876;08.04.2017;West Brom;Southampton
+E0;7;60000;56972;08.04.2017;West Ham;Swansea
+E0;7;39571;39310;09.04.2017;Everton;Leicester
+E0;7;48707;41287;09.04.2017;Sunderland;Man United
+E0;7;26047;25161;10.04.2017;Crystal Palace;Arsenal
+E0;7;26047;25161;15.04.2017;Crystal Palace;Leicester
+E0;7;39571;39310;15.04.2017;Everton;Burnley
+E0;7;32384;30936;15.04.2017;Southampton;Man City
+E0;7;30089;27433;15.04.2017;Stoke;Hull
+E0;7;48707;41287;15.04.2017;Sunderland;West Ham
+E0;7;36284;31639;15.04.2017;Tottenham;Bournemouth
+E0;7;21577;20571;15.04.2017;Watford;Swansea
+E0;7;75500;75290;16.04.2017;Man United;Chelsea
+E0;7;26850;23876;16.04.2017;West Brom;Liverpool
+E0;7;33746;30449;17.04.2017;Middlesbrough;Arsenal
+E0;7;11329;11182;22.04.2017;Bournemouth;Middlesbrough
+E0;7;24983;20761;22.04.2017;Hull;Watford
+E0;7;21088;20619;22.04.2017;Swansea;Stoke
+E0;7;60000;56972;22.04.2017;West Ham;Everton
+E0;7;21994;20558;23.04.2017;Burnley;Man United
+E0;7;54074;53016;23.04.2017;Liverpool;Crystal Palace
+E0;7;42000;41508;25.04.2017;Chelsea;Southampton
+E0;7;60704;59957;26.04.2017;Arsenal;Leicester
+E0;7;26047;25161;26.04.2017;Crystal Palace;Tottenham
+E0;7;33746;30449;26.04.2017;Middlesbrough;Sunderland
+E0;7;55017;54019;27.04.2017;Man City;Man United
+E0;7;26047;25161;29.04.2017;Crystal Palace;Burnley
+E0;7;32384;30936;29.04.2017;Southampton;Hull
+E0;7;30089;27433;29.04.2017;Stoke;West Ham
+E0;7;48707;41287;29.04.2017;Sunderland;Bournemouth
+E0;7;26850;23876;29.04.2017;West Brom;Leicester
+E0;7;39571;39310;30.04.2017;Everton;Chelsea
+E0;7;75500;75290;30.04.2017;Man United;Swansea
+E0;7;33746;30449;30.04.2017;Middlesbrough;Man City
+E0;7;36284;31639;30.04.2017;Tottenham;Arsenal
+E0;7;21577;20571;01.05.2017;Watford;Liverpool
+E0;7;60000;56972;05.05.2017;West Ham;Tottenham
+E0;7;11329;11182;06.05.2017;Bournemouth;Stoke
+E0;7;21994;20558;06.05.2017;Burnley;West Brom
+E0;7;24983;20761;06.05.2017;Hull;Sunderland
+E0;7;32273;31893;06.05.2017;Leicester;Watford
+E0;7;55017;54019;06.05.2017;Man City;Crystal Palace
+E0;7;21088;20619;06.05.2017;Swansea;Everton
+E0;7;60704;59957;07.05.2017;Arsenal;Man United
+E0;7;54074;53016;07.05.2017;Liverpool;Southampton
+E0;7;42000;41508;08.05.2017;Chelsea;Middlesbrough
+E0;7;32384;30936;10.05.2017;Southampton;Arsenal
+E0;7;39571;39310;12.05.2017;Everton;Watford
+E0;7;26850;23876;12.05.2017;West Brom;Chelsea
+E0;7;11329;11182;13.05.2017;Bournemouth;Burnley
+E0;7;55017;54019;13.05.2017;Man City;Leicester
+E0;7;33746;30449;13.05.2017;Middlesbrough;Southampton
+E0;7;30089;27433;13.05.2017;Stoke;Arsenal
+E0;7;48707;41287;13.05.2017;Sunderland;Swansea
+E0;7;26047;25161;14.05.2017;Crystal Palace;Hull
+E0;7;36284;31639;14.05.2017;Tottenham;Man United
+E0;7;60000;56972;14.05.2017;West Ham;Liverpool
+E0;7;42000;41508;15.05.2017;Chelsea;Watford
+E0;7;60704;59957;16.05.2017;Arsenal;Sunderland
+E0;7;55017;54019;16.05.2017;Man City;West Brom
+E0;7;32384;30936;17.05.2017;Southampton;Man United
+E0;7;32273;31893;18.05.2017;Leicester;Tottenham
+E0;7;60704;59957;21.05.2017;Arsenal;Everton
+E0;7;21994;20558;21.05.2017;Burnley;West Ham
+E0;7;42000;41508;21.05.2017;Chelsea;Sunderland
+E0;7;24983;20761;21.05.2017;Hull;Tottenham
+E0;7;32273;31893;21.05.2017;Leicester;Bournemouth
+E0;7;54074;53016;21.05.2017;Liverpool;Middlesbrough
+E0;7;75500;75290;21.05.2017;Man United;Crystal Palace
+E0;7;32384;30936;21.05.2017;Southampton;Stoke
+E0;7;21088;20619;21.05.2017;Swansea;West Brom
+E0;7;21577;20571;21.05.2017;Watford;Man City

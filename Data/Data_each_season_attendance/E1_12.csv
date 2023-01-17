@@ -1,0 +1,553 @@
+Div;Season;Capacity;Spectators;Date;Time;HomeTeam;AwayTeam
+E1;12;;;06.08.2021;19:45;Bournemouth;West Brom
+E1;12;;;07.08.2021;15:00;Blackburn;Swansea
+E1;12;;;07.08.2021;15:00;Bristol City;Blackpool
+E1;12;;;07.08.2021;15:00;Cardiff;Barnsley
+E1;12;;;07.08.2021;15:00;Derby;Huddersfield
+E1;12;;;07.08.2021;15:00;Luton;Peterboro
+E1;12;;;07.08.2021;15:00;Preston;Hull
+E1;12;;;07.08.2021;15:00;QPR;Millwall
+E1;12;;;07.08.2021;15:00;Stoke;Reading
+E1;12;;;07.08.2021;20:00;Sheffield United;Birmingham
+E1;12;;;08.08.2021;13:30;Fulham;Middlesbrough
+E1;12;;;08.08.2021;16:30;Coventry;Nott'm Forest
+E1;12;;;14.08.2021;12:30;Peterboro;Derby
+E1;12;;;14.08.2021;15:00;Barnsley;Coventry
+E1;12;;;14.08.2021;15:00;Birmingham;Stoke
+E1;12;;;14.08.2021;15:00;Blackpool;Cardiff
+E1;12;;;14.08.2021;15:00;Huddersfield;Fulham
+E1;12;;;14.08.2021;15:00;Hull;QPR
+E1;12;;;14.08.2021;15:00;Middlesbrough;Bristol City
+E1;12;;;14.08.2021;15:00;Millwall;Blackburn
+E1;12;;;14.08.2021;15:00;Nott'm Forest;Bournemouth
+E1;12;;;14.08.2021;15:00;Reading;Preston
+E1;12;;;14.08.2021;15:00;West Brom;Luton
+E1;12;;;14.08.2021;20:00;Swansea;Sheffield United
+E1;12;;;17.08.2021;19:45;Barnsley;Luton
+E1;12;;;17.08.2021;19:45;Blackpool;Coventry
+E1;12;;;17.08.2021;19:45;Huddersfield;Preston
+E1;12;;;17.08.2021;19:45;Millwall;Fulham
+E1;12;;;17.08.2021;19:45;Peterboro;Cardiff
+E1;12;;;17.08.2021;19:45;Swansea;Stoke
+E1;12;;;17.08.2021;20:00;Reading;Bristol City
+E1;12;;;18.08.2021;19:45;Birmingham;Bournemouth
+E1;12;;;18.08.2021;19:45;Hull;Derby
+E1;12;;;18.08.2021;19:45;Middlesbrough;QPR
+E1;12;;;18.08.2021;19:45;Nott'm Forest;Blackburn
+E1;12;;;18.08.2021;20:00;West Brom;Sheffield United
+E1;12;;;20.08.2021;19:45;Bristol City;Swansea
+E1;12;;;21.08.2021;12:30;QPR;Barnsley
+E1;12;;;21.08.2021;15:00;Blackburn;West Brom
+E1;12;;;21.08.2021;15:00;Bournemouth;Blackpool
+E1;12;;;21.08.2021;15:00;Cardiff;Millwall
+E1;12;;;21.08.2021;15:00;Coventry;Reading
+E1;12;;;21.08.2021;15:00;Derby;Middlesbrough
+E1;12;;;21.08.2021;15:00;Fulham;Hull
+E1;12;;;21.08.2021;15:00;Luton;Birmingham
+E1;12;;;21.08.2021;15:00;Preston;Peterboro
+E1;12;;;21.08.2021;15:00;Sheffield United;Huddersfield
+E1;12;;;21.08.2021;15:00;Stoke;Nott'm Forest
+E1;12;;;28.08.2021;12:30;Cardiff;Bristol City
+E1;12;;;28.08.2021;12:30;Derby;Nott'm Forest
+E1;12;;;28.08.2021;15:00;Barnsley;Birmingham
+E1;12;;;28.08.2021;15:00;Fulham;Stoke
+E1;12;;;28.08.2021;15:00;Huddersfield;Reading
+E1;12;;;28.08.2021;15:00;Hull;Bournemouth
+E1;12;;;28.08.2021;15:00;Luton;Sheffield United
+E1;12;;;28.08.2021;15:00;Middlesbrough;Blackburn
+E1;12;;;28.08.2021;15:00;Millwall;Blackpool
+E1;12;;;28.08.2021;15:00;Preston;Swansea
+E1;12;;;28.08.2021;15:00;QPR;Coventry
+E1;12;;;28.08.2021;20:00;Peterboro;West Brom
+E1;12;;;10.09.2021;20:00;Birmingham;Derby
+E1;12;;;11.09.2021;15:00;Blackburn;Luton
+E1;12;;;11.09.2021;15:00;Blackpool;Fulham
+E1;12;;;11.09.2021;15:00;Bournemouth;Barnsley
+E1;12;;;11.09.2021;15:00;Bristol City;Preston
+E1;12;;;11.09.2021;15:00;Coventry;Middlesbrough
+E1;12;;;11.09.2021;15:00;Reading;QPR
+E1;12;;;11.09.2021;15:00;Sheffield United;Peterboro
+E1;12;;;11.09.2021;15:00;Stoke;Huddersfield
+E1;12;;;11.09.2021;15:00;Swansea;Hull
+E1;12;;;11.09.2021;15:00;West Brom;Millwall
+E1;12;;;12.09.2021;14:30;Nott'm Forest;Cardiff
+E1;12;;;14.09.2021;19:45;Blackburn;Hull
+E1;12;;;14.09.2021;19:45;Blackpool;Huddersfield
+E1;12;;;14.09.2021;19:45;Bournemouth;QPR
+E1;12;;;14.09.2021;19:45;Sheffield United;Preston
+E1;12;;;14.09.2021;20:00;Reading;Peterboro
+E1;12;;;14.09.2021;20:00;West Brom;Derby
+E1;12;;;15.09.2021;19:45;Birmingham;Fulham
+E1;12;;;15.09.2021;19:45;Bristol City;Luton
+E1;12;;;15.09.2021;19:45;Coventry;Cardiff
+E1;12;;;15.09.2021;19:45;Nott'm Forest;Middlesbrough
+E1;12;;;15.09.2021;19:45;Stoke;Barnsley
+E1;12;;;15.09.2021;19:45;Swansea;Millwall
+E1;12;;;18.09.2021;12:30;Hull;Sheffield United
+E1;12;;;18.09.2021;15:00;Barnsley;Blackburn
+E1;12;;;18.09.2021;15:00;Cardiff;Bournemouth
+E1;12;;;18.09.2021;15:00;Derby;Stoke
+E1;12;;;18.09.2021;15:00;Fulham;Reading
+E1;12;;;18.09.2021;15:00;Huddersfield;Nott'm Forest
+E1;12;;;18.09.2021;15:00;Luton;Swansea
+E1;12;;;18.09.2021;15:00;Middlesbrough;Blackpool
+E1;12;;;18.09.2021;15:00;Millwall;Coventry
+E1;12;;;18.09.2021;15:00;Peterboro;Birmingham
+E1;12;;;18.09.2021;15:00;Preston;West Brom
+E1;12;;;18.09.2021;15:00;QPR;Bristol City
+E1;12;;;24.09.2021;19:45;Coventry;Peterboro
+E1;12;;;24.09.2021;20:00;West Brom;QPR
+E1;12;;;25.09.2021;12:30;Reading;Middlesbrough
+E1;12;;;25.09.2021;15:00;Birmingham;Preston
+E1;12;;;25.09.2021;15:00;Blackburn;Cardiff
+E1;12;;;25.09.2021;15:00;Blackpool;Barnsley
+E1;12;;;25.09.2021;15:00;Bournemouth;Luton
+E1;12;;;25.09.2021;15:00;Bristol City;Fulham
+E1;12;;;25.09.2021;15:00;Nott'm Forest;Millwall
+E1;12;;;25.09.2021;15:00;Sheffield United;Derby
+E1;12;;;25.09.2021;15:00;Stoke;Hull
+E1;12;;;25.09.2021;15:00;Swansea;Huddersfield
+E1;12;;;28.09.2021;19:45;Cardiff;West Brom
+E1;12;;;28.09.2021;19:45;Huddersfield;Blackburn
+E1;12;;;28.09.2021;19:45;Hull;Blackpool
+E1;12;;;28.09.2021;19:45;Middlesbrough;Sheffield United
+E1;12;;;28.09.2021;19:45;Preston;Stoke
+E1;12;;;28.09.2021;19:45;QPR;Birmingham
+E1;12;;;29.09.2021;19:45;Barnsley;Nott'm Forest
+E1;12;;;29.09.2021;19:45;Derby;Reading
+E1;12;;;29.09.2021;19:45;Fulham;Swansea
+E1;12;;;29.09.2021;19:45;Luton;Coventry
+E1;12;;;29.09.2021;19:45;Millwall;Bristol City
+E1;12;;;29.09.2021;19:45;Peterboro;Bournemouth
+E1;12;;;01.10.2021;19:45;Stoke;West Brom
+E1;12;;;02.10.2021;12:30;Coventry;Fulham
+E1;12;;;02.10.2021;15:00;Barnsley;Millwall
+E1;12;;;02.10.2021;15:00;Birmingham;Nott'm Forest
+E1;12;;;02.10.2021;15:00;Blackpool;Blackburn
+E1;12;;;02.10.2021;15:00;Bournemouth;Sheffield United
+E1;12;;;02.10.2021;15:00;Cardiff;Reading
+E1;12;;;02.10.2021;15:00;Derby;Swansea
+E1;12;;;02.10.2021;15:00;Hull;Middlesbrough
+E1;12;;;02.10.2021;15:00;Luton;Huddersfield
+E1;12;;;02.10.2021;15:00;Peterboro;Bristol City
+E1;12;;;02.10.2021;15:00;QPR;Preston
+E1;12;;;15.10.2021;20:00;West Brom;Birmingham
+E1;12;;;16.10.2021;12:30;Fulham;QPR
+E1;12;;;16.10.2021;15:00;Blackburn;Coventry
+E1;12;;;16.10.2021;15:00;Bristol City;Bournemouth
+E1;12;;;16.10.2021;15:00;Huddersfield;Hull
+E1;12;;;16.10.2021;15:00;Middlesbrough;Peterboro
+E1;12;;;16.10.2021;15:00;Millwall;Luton
+E1;12;;;16.10.2021;15:00;Nott'm Forest;Blackpool
+E1;12;;;16.10.2021;15:00;Preston;Derby
+E1;12;;;16.10.2021;15:00;Reading;Barnsley
+E1;12;;;16.10.2021;15:00;Sheffield United;Stoke
+E1;12;;;17.10.2021;12:00;Swansea;Cardiff
+E1;12;;;19.10.2021;19:45;Bristol City;Nott'm Forest
+E1;12;;;19.10.2021;19:45;Derby;Luton
+E1;12;;;19.10.2021;19:45;QPR;Blackburn
+E1;12;;;19.10.2021;19:45;Sheffield United;Millwall
+E1;12;;;19.10.2021;19:45;Stoke;Bournemouth
+E1;12;;;20.10.2021;19:45;Fulham;Cardiff
+E1;12;;;20.10.2021;19:45;Huddersfield;Birmingham
+E1;12;;;20.10.2021;19:45;Hull;Peterboro
+E1;12;;;20.10.2021;19:45;Middlesbrough;Barnsley
+E1;12;;;20.10.2021;19:45;Preston;Coventry
+E1;12;;;20.10.2021;19:45;Swansea;West Brom
+E1;12;;;20.10.2021;20:00;Reading;Blackpool
+E1;12;;;23.10.2021;12:30;Cardiff;Middlesbrough
+E1;12;;;23.10.2021;15:00;Birmingham;Swansea
+E1;12;;;23.10.2021;15:00;Blackburn;Reading
+E1;12;;;23.10.2021;15:00;Blackpool;Preston
+E1;12;;;23.10.2021;15:00;Bournemouth;Huddersfield
+E1;12;;;23.10.2021;15:00;Coventry;Derby
+E1;12;;;23.10.2021;15:00;Luton;Hull
+E1;12;;;23.10.2021;15:00;Millwall;Stoke
+E1;12;;;23.10.2021;15:00;Peterboro;QPR
+E1;12;;;23.10.2021;15:00;West Brom;Bristol City
+E1;12;;;24.10.2021;12:30;Barnsley;Sheffield United
+E1;12;;;24.10.2021;15:00;Nott'm Forest;Fulham
+E1;12;;;29.10.2021;19:45;QPR;Nott'm Forest
+E1;12;;;30.10.2021;12:30;Fulham;West Brom
+E1;12;;;30.10.2021;15:00;Bristol City;Barnsley
+E1;12;;;30.10.2021;15:00;Derby;Blackburn
+E1;12;;;30.10.2021;15:00;Huddersfield;Millwall
+E1;12;;;30.10.2021;15:00;Hull;Coventry
+E1;12;;;30.10.2021;15:00;Middlesbrough;Birmingham
+E1;12;;;30.10.2021;15:00;Preston;Luton
+E1;12;;;30.10.2021;15:00;Sheffield United;Blackpool
+E1;12;;;30.10.2021;15:00;Stoke;Cardiff
+E1;12;;;30.10.2021;15:00;Swansea;Peterboro
+E1;12;;;30.10.2021;20:00;Reading;Bournemouth
+E1;12;;;02.11.2021;19:45;Birmingham;Bristol City
+E1;12;;;02.11.2021;19:45;Coventry;Swansea
+E1;12;;;02.11.2021;19:45;Luton;Middlesbrough
+E1;12;;;02.11.2021;19:45;Millwall;Reading
+E1;12;;;02.11.2021;19:45;Nott'm Forest;Sheffield United
+E1;12;;;02.11.2021;19:45;Peterboro;Huddersfield
+E1;12;;;03.11.2021;19:45;Barnsley;Derby
+E1;12;;;03.11.2021;19:45;Blackburn;Fulham
+E1;12;;;03.11.2021;19:45;Blackpool;Stoke
+E1;12;;;03.11.2021;19:45;Bournemouth;Preston
+E1;12;;;03.11.2021;19:45;Cardiff;QPR
+E1;12;;;03.11.2021;20:00;West Brom;Hull
+E1;12;;;06.11.2021;15:00;Barnsley;Hull
+E1;12;;;06.11.2021;15:00;Blackburn;Sheffield United
+E1;12;;;06.11.2021;15:00;Bournemouth;Swansea
+E1;12;;;06.11.2021;15:00;Cardiff;Huddersfield
+E1;12;;;06.11.2021;15:00;Coventry;Bristol City
+E1;12;;;06.11.2021;15:00;Luton;Stoke
+E1;12;;;06.11.2021;15:00;Millwall;Derby
+E1;12;;;06.11.2021;15:00;Nott'm Forest;Preston
+E1;12;;;06.11.2021;15:00;Peterboro;Fulham
+E1;12;;;06.11.2021;15:00;West Brom;Middlesbrough
+E1;12;;;06.11.2021;15:30;Birmingham;Reading
+E1;12;;;06.11.2021;17:30;Blackpool;QPR
+E1;12;;;19.11.2021;19:45;QPR;Luton
+E1;12;;;20.11.2021;12:30;Sheffield United;Coventry
+E1;12;;;20.11.2021;15:00;Bristol City;Blackburn
+E1;12;;;20.11.2021;15:00;Fulham;Barnsley
+E1;12;;;20.11.2021;15:00;Huddersfield;West Brom
+E1;12;;;20.11.2021;15:00;Hull;Birmingham
+E1;12;;;20.11.2021;15:00;Middlesbrough;Millwall
+E1;12;;;20.11.2021;15:00;Preston;Cardiff
+E1;12;;;20.11.2021;15:00;Reading;Nott'm Forest
+E1;12;;;20.11.2021;15:00;Stoke;Peterboro
+E1;12;;;20.11.2021;15:00;Swansea;Blackpool
+E1;12;;;21.11.2021;12:00;Derby;Bournemouth
+E1;12;;;23.11.2021;19:45;Blackpool;West Brom
+E1;12;;;23.11.2021;19:45;Coventry;Birmingham
+E1;12;;;23.11.2021;19:45;Middlesbrough;Preston
+E1;12;;;23.11.2021;19:45;Nott'm Forest;Luton
+E1;12;;;23.11.2021;20:00;Reading;Sheffield United
+E1;12;;;24.11.2021;19:45;Barnsley;Swansea
+E1;12;;;24.11.2021;19:45;Blackburn;Peterboro
+E1;12;;;24.11.2021;19:45;Bristol City;Stoke
+E1;12;;;24.11.2021;19:45;Cardiff;Hull
+E1;12;;;24.11.2021;19:45;Fulham;Derby
+E1;12;;;24.11.2021;19:45;Millwall;Bournemouth
+E1;12;;;24.11.2021;19:45;QPR;Huddersfield
+E1;12;;;26.11.2021;20:00;West Brom;Nott'm Forest
+E1;12;;;27.11.2021;12:30;Preston;Fulham
+E1;12;;;27.11.2021;15:00;Birmingham;Blackpool
+E1;12;;;27.11.2021;15:00;Bournemouth;Coventry
+E1;12;;;27.11.2021;15:00;Huddersfield;Middlesbrough
+E1;12;;;27.11.2021;15:00;Hull;Millwall
+E1;12;;;27.11.2021;15:00;Luton;Cardiff
+E1;12;;;27.11.2021;15:00;Peterboro;Barnsley
+E1;12;;;27.11.2021;15:00;Stoke;Blackburn
+E1;12;;;27.11.2021;15:00;Swansea;Reading
+E1;12;;;28.11.2021;12:30;Sheffield United;Bristol City
+E1;12;;;29.11.2021;19:45;Derby;QPR
+E1;12;;;03.12.2021;19:45;Fulham;Bournemouth
+E1;12;;;04.12.2021;12:30;Coventry;West Brom
+E1;12;;;04.12.2021;15:00;Barnsley;Huddersfield
+E1;12;;;04.12.2021;15:00;Blackburn;Preston
+E1;12;;;04.12.2021;15:00;Blackpool;Luton
+E1;12;;;04.12.2021;15:00;Bristol City;Derby
+E1;12;;;04.12.2021;15:00;Cardiff;Sheffield United
+E1;12;;;04.12.2021;15:00;Middlesbrough;Swansea
+E1;12;;;04.12.2021;15:00;Millwall;Birmingham
+E1;12;;;04.12.2021;15:00;Nott'm Forest;Peterboro
+E1;12;;;04.12.2021;15:00;Reading;Hull
+E1;12;;;05.12.2021;14:30;QPR;Stoke
+E1;12;;;11.12.2021;12:30;Huddersfield;Coventry
+E1;12;;;11.12.2021;15:00;Birmingham;Cardiff
+E1;12;;;11.12.2021;15:00;Bournemouth;Blackburn
+E1;12;;;11.12.2021;15:00;Derby;Blackpool
+E1;12;;;11.12.2021;15:00;Hull;Bristol City
+E1;12;;;11.12.2021;15:00;Luton;Fulham
+E1;12;;;11.12.2021;15:00;Peterboro;Millwall
+E1;12;;;11.12.2021;15:00;Preston;Barnsley
+E1;12;;;11.12.2021;15:00;Stoke;Middlesbrough
+E1;12;;;11.12.2021;15:00;Swansea;Nott'm Forest
+E1;12;;;11.12.2021;15:00;West Brom;Reading
+E1;12;;;17.12.2021;19:45;Barnsley;West Brom
+E1;12;;;18.12.2021;12:30;Middlesbrough;Bournemouth
+E1;12;;;18.12.2021;15:00;Blackburn;Birmingham
+E1;12;;;18.12.2021;15:00;Blackpool;Peterboro
+E1;12;;;18.12.2021;15:00;Bristol City;Huddersfield
+E1;12;;;18.12.2021;15:00;Nott'm Forest;Hull
+E1;12;;;20.12.2021;19:45;Fulham;Sheffield United
+E1;12;;;26.12.2021;15:00;Huddersfield;Blackpool
+E1;12;;;26.12.2021;15:00;Middlesbrough;Nott'm Forest
+E1;12;;;27.12.2021;15:00;Derby;West Brom
+E1;12;;;27.12.2021;17:30;QPR;Bournemouth
+E1;12;;;29.12.2021;19:45;Blackburn;Barnsley
+E1;12;;;29.12.2021;19:45;Blackpool;Middlesbrough
+E1;12;;;29.12.2021;19:45;Coventry;Millwall
+E1;12;;;30.12.2021;19:45;Bournemouth;Cardiff
+E1;12;;;30.12.2021;19:45;Bristol City;QPR
+E1;12;;;30.12.2021;19:45;Nott'm Forest;Huddersfield
+E1;12;;;30.12.2021;19:45;Stoke;Derby
+E1;12;;;01.01.2022;15:00;Blackpool;Hull
+E1;12;;;02.01.2022;13:00;Bristol City;Millwall
+E1;12;;;02.01.2022;14:00;Birmingham;QPR
+E1;12;;;02.01.2022;14:00;Blackburn;Huddersfield
+E1;12;;;02.01.2022;14:00;West Brom;Cardiff
+E1;12;;;03.01.2022;15:00;Reading;Derby
+E1;12;;;03.01.2022;15:00;Stoke;Preston
+E1;12;;;11.01.2022;20:00;Reading;Fulham
+E1;12;;;15.01.2022;12:30;Cardiff;Blackburn
+E1;12;;;15.01.2022;12:30;Luton;Bournemouth
+E1;12;;;15.01.2022;15:00;Derby;Sheffield United
+E1;12;;;15.01.2022;15:00;Fulham;Bristol City
+E1;12;;;15.01.2022;15:00;Huddersfield;Swansea
+E1;12;;;15.01.2022;15:00;Middlesbrough;Reading
+E1;12;;;15.01.2022;15:00;Millwall;Nott'm Forest
+E1;12;;;15.01.2022;15:00;Peterboro;Coventry
+E1;12;;;15.01.2022;15:00;Preston;Birmingham
+E1;12;;;15.01.2022;15:00;QPR;West Brom
+E1;12;;;16.01.2022;12:00;Hull;Stoke
+E1;12;;;18.01.2022;19:45;Fulham;Birmingham
+E1;12;;;18.01.2022;19:45;Preston;Sheffield United
+E1;12;;;19.01.2022;19:45;Hull;Blackburn
+E1;12;;;19.01.2022;20:00;Reading;Luton
+E1;12;;;22.01.2022;12:30;Bristol City;Cardiff
+E1;12;;;22.01.2022;12:30;Nott'm Forest;Derby
+E1;12;;;22.01.2022;15:00;Birmingham;Barnsley
+E1;12;;;22.01.2022;15:00;Blackpool;Millwall
+E1;12;;;22.01.2022;15:00;Bournemouth;Hull
+E1;12;;;22.01.2022;15:00;Coventry;QPR
+E1;12;;;22.01.2022;15:00;Reading;Huddersfield
+E1;12;;;22.01.2022;15:00;Sheffield United;Luton
+E1;12;;;22.01.2022;15:00;Stoke;Fulham
+E1;12;;;22.01.2022;15:00;Swansea;Preston
+E1;12;;;22.01.2022;15:00;West Brom;Peterboro
+E1;12;;;24.01.2022;19:45;Blackburn;Middlesbrough
+E1;12;;;25.01.2022;19:45;Birmingham;Peterboro
+E1;12;;;25.01.2022;19:45;Coventry;Stoke
+E1;12;;;25.01.2022;19:45;Luton;Bristol City
+E1;12;;;25.01.2022;19:45;Nott'm Forest;Barnsley
+E1;12;;;25.01.2022;19:45;QPR;Swansea
+E1;12;;;26.01.2022;20:00;West Brom;Preston
+E1;12;;;28.01.2022;19:45;Huddersfield;Stoke
+E1;12;;;29.01.2022;15:00;Barnsley;Bournemouth
+E1;12;;;29.01.2022;15:00;Fulham;Blackpool
+E1;12;;;29.01.2022;15:00;Hull;Swansea
+E1;12;;;29.01.2022;15:00;Luton;Blackburn
+E1;12;;;29.01.2022;15:00;Middlesbrough;Coventry
+E1;12;;;29.01.2022;15:00;Millwall;West Brom
+E1;12;;;29.01.2022;15:00;Preston;Bristol City
+E1;12;;;29.01.2022;15:00;QPR;Reading
+E1;12;;;29.01.2022;17:30;Peterboro;Sheffield United
+E1;12;;;30.01.2022;13:30;Derby;Birmingham
+E1;12;;;30.01.2022;16:00;Cardiff;Nott'm Forest
+E1;12;;;01.02.2022;19:45;Millwall;Preston
+E1;12;;;01.02.2022;19:45;Swansea;Luton
+E1;12;;;02.02.2022;19:45;Barnsley;Cardiff
+E1;12;;;02.02.2022;19:45;Huddersfield;Derby
+E1;12;;;04.02.2022;19:45;Birmingham;Sheffield United
+E1;12;;;05.02.2022;15:00;Blackpool;Bristol City
+E1;12;;;05.02.2022;15:00;Hull;Preston
+E1;12;;;05.02.2022;17:30;Swansea;Blackburn
+E1;12;;;08.02.2022;19:45;Coventry;Blackpool
+E1;12;;;08.02.2022;19:45;Derby;Hull
+E1;12;;;08.02.2022;19:45;Fulham;Millwall
+E1;12;;;08.02.2022;19:45;Luton;Barnsley
+E1;12;;;08.02.2022;19:45;Stoke;Swansea
+E1;12;;;09.02.2022;19:45;Blackburn;Nott'm Forest
+E1;12;;;09.02.2022;19:45;Bournemouth;Birmingham
+E1;12;;;09.02.2022;19:45;Bristol City;Reading
+E1;12;;;09.02.2022;19:45;Cardiff;Peterboro
+E1;12;;;09.02.2022;19:45;Preston;Huddersfield
+E1;12;;;09.02.2022;19:45;QPR;Middlesbrough
+E1;12;;;09.02.2022;19:45;Sheffield United;West Brom
+E1;12;;;12.02.2022;12:30;Huddersfield;Sheffield United
+E1;12;;;12.02.2022;15:00;Barnsley;QPR
+E1;12;;;12.02.2022;15:00;Birmingham;Luton
+E1;12;;;12.02.2022;15:00;Blackpool;Bournemouth
+E1;12;;;12.02.2022;15:00;Hull;Fulham
+E1;12;;;12.02.2022;15:00;Middlesbrough;Derby
+E1;12;;;12.02.2022;15:00;Millwall;Cardiff
+E1;12;;;12.02.2022;15:00;Nott'm Forest;Stoke
+E1;12;;;12.02.2022;15:00;Peterboro;Preston
+E1;12;;;12.02.2022;15:00;Reading;Coventry
+E1;12;;;13.02.2022;13:00;Swansea;Bristol City
+E1;12;;;14.02.2022;20:00;West Brom;Blackburn
+E1;12;;;15.02.2022;19:45;Cardiff;Coventry
+E1;12;;;15.02.2022;19:45;Millwall;QPR
+E1;12;;;15.02.2022;19:45;Sheffield United;Hull
+E1;12;;;16.02.2022;19:45;Peterboro;Reading
+E1;12;;;19.02.2022;12:30;Fulham;Huddersfield
+E1;12;;;19.02.2022;15:00;Bristol City;Middlesbrough
+E1;12;;;19.02.2022;15:00;Cardiff;Blackpool
+E1;12;;;19.02.2022;15:00;Coventry;Barnsley
+E1;12;;;19.02.2022;15:00;Derby;Peterboro
+E1;12;;;19.02.2022;15:00;Luton;West Brom
+E1;12;;;19.02.2022;15:00;Preston;Reading
+E1;12;;;19.02.2022;15:00;QPR;Hull
+E1;12;;;19.02.2022;15:00;Sheffield United;Swansea
+E1;12;;;19.02.2022;15:00;Stoke;Birmingham
+E1;12;;;22.02.2022;19:45;Bristol City;Coventry
+E1;12;;;22.02.2022;19:45;Hull;Barnsley
+E1;12;;;22.02.2022;19:45;Middlesbrough;West Brom
+E1;12;;;22.02.2022;19:45;Preston;Nott'm Forest
+E1;12;;;22.02.2022;20:00;Reading;Birmingham
+E1;12;;;23.02.2022;19:45;Derby;Millwall
+E1;12;;;23.02.2022;19:45;Fulham;Peterboro
+E1;12;;;23.02.2022;19:45;Huddersfield;Cardiff
+E1;12;;;23.02.2022;19:45;QPR;Blackpool
+E1;12;;;23.02.2022;19:45;Sheffield United;Blackburn
+E1;12;;;23.02.2022;19:45;Stoke;Luton
+E1;12;;;26.02.2022;12:30;Blackburn;QPR
+E1;12;;;26.02.2022;15:00;Barnsley;Middlesbrough
+E1;12;;;26.02.2022;15:00;Birmingham;Huddersfield
+E1;12;;;26.02.2022;15:00;Blackpool;Reading
+E1;12;;;26.02.2022;15:00;Bournemouth;Stoke
+E1;12;;;26.02.2022;15:00;Cardiff;Fulham
+E1;12;;;26.02.2022;15:00;Coventry;Preston
+E1;12;;;26.02.2022;15:00;Luton;Derby
+E1;12;;;26.02.2022;15:00;Millwall;Sheffield United
+E1;12;;;26.02.2022;15:00;Nott'm Forest;Bristol City
+E1;12;;;26.02.2022;15:00;Peterboro;Hull
+E1;12;;;28.02.2022;20:00;West Brom;Swansea
+E1;12;;;01.03.2022;19:45;Cardiff;Derby
+E1;12;;;04.03.2022;19:45;Huddersfield;Peterboro
+E1;12;;;04.03.2022;19:45;Sheffield United;Nott'm Forest
+E1;12;;;05.03.2022;12:30;Fulham;Blackburn
+E1;12;;;05.03.2022;15:00;Bristol City;Birmingham
+E1;12;;;05.03.2022;15:00;Derby;Barnsley
+E1;12;;;05.03.2022;15:00;Hull;West Brom
+E1;12;;;05.03.2022;15:00;Middlesbrough;Luton
+E1;12;;;05.03.2022;15:00;Preston;Bournemouth
+E1;12;;;05.03.2022;15:00;QPR;Cardiff
+E1;12;;;05.03.2022;15:00;Reading;Millwall
+E1;12;;;05.03.2022;15:00;Stoke;Blackpool
+E1;12;;;05.03.2022;15:00;Swansea;Coventry
+E1;12;;;08.03.2022;19:45;Barnsley;Stoke
+E1;12;;;08.03.2022;19:45;Blackburn;Millwall
+E1;12;;;08.03.2022;19:45;Bournemouth;Peterboro
+E1;12;;;08.03.2022;19:45;Coventry;Luton
+E1;12;;;08.03.2022;19:45;Sheffield United;Middlesbrough
+E1;12;;;08.03.2022;19:45;Swansea;Fulham
+E1;12;;;11.03.2022;20:00;West Brom;Huddersfield
+E1;12;;;12.03.2022;12:30;Barnsley;Fulham
+E1;12;;;12.03.2022;15:00;Birmingham;Hull
+E1;12;;;12.03.2022;15:00;Blackburn;Bristol City
+E1;12;;;12.03.2022;15:00;Blackpool;Swansea
+E1;12;;;12.03.2022;15:00;Bournemouth;Derby
+E1;12;;;12.03.2022;15:00;Cardiff;Preston
+E1;12;;;12.03.2022;15:00;Coventry;Sheffield United
+E1;12;;;12.03.2022;15:00;Millwall;Middlesbrough
+E1;12;;;12.03.2022;15:00;Nott'm Forest;Reading
+E1;12;;;12.03.2022;15:00;Peterboro;Stoke
+E1;12;;;13.03.2022;12:00;Luton;QPR
+E1;12;;;15.03.2022;19:45;Barnsley;Bristol City
+E1;12;;;15.03.2022;19:45;Birmingham;Middlesbrough
+E1;12;;;15.03.2022;19:45;Blackburn;Derby
+E1;12;;;15.03.2022;19:45;Bournemouth;Reading
+E1;12;;;15.03.2022;20:00;West Brom;Fulham
+E1;12;;;16.03.2022;19:45;Blackpool;Sheffield United
+E1;12;;;16.03.2022;19:45;Cardiff;Stoke
+E1;12;;;16.03.2022;19:45;Coventry;Hull
+E1;12;;;16.03.2022;19:45;Luton;Preston
+E1;12;;;16.03.2022;19:45;Millwall;Huddersfield
+E1;12;;;16.03.2022;19:45;Nott'm Forest;QPR
+E1;12;;;16.03.2022;19:45;Peterboro;Swansea
+E1;12;;;19.03.2022;12:30;Derby;Coventry
+E1;12;;;19.03.2022;12:30;Sheffield United;Barnsley
+E1;12;;;19.03.2022;15:00;Bristol City;West Brom
+E1;12;;;19.03.2022;15:00;Huddersfield;Bournemouth
+E1;12;;;19.03.2022;15:00;Hull;Luton
+E1;12;;;19.03.2022;15:00;Reading;Blackburn
+E1;12;;;19.03.2022;15:00;Stoke;Millwall
+E1;12;;;19.03.2022;15:00;Swansea;Birmingham
+E1;12;;;20.03.2022;12:30;QPR;Peterboro
+E1;12;;;01.04.2022;19:45;Hull;Huddersfield
+E1;12;;;02.04.2022;12:30;Blackpool;Nott'm Forest
+E1;12;;;02.04.2022;15:00;Barnsley;Reading
+E1;12;;;02.04.2022;15:00;Bournemouth;Bristol City
+E1;12;;;02.04.2022;15:00;Cardiff;Swansea
+E1;12;;;02.04.2022;15:00;Coventry;Blackburn
+E1;12;;;02.04.2022;15:00;Derby;Preston
+E1;12;;;02.04.2022;15:00;Luton;Millwall
+E1;12;;;02.04.2022;15:00;Peterboro;Middlesbrough
+E1;12;;;02.04.2022;15:00;QPR;Fulham
+E1;12;;;02.04.2022;15:00;Stoke;Sheffield United
+E1;12;;;03.04.2022;15:00;Birmingham;West Brom
+E1;12;;;05.04.2022;19:45;Millwall;Swansea
+E1;12;;;05.04.2022;19:45;Peterboro;Luton
+E1;12;;;05.04.2022;19:45;Preston;Blackpool
+E1;12;;;05.04.2022;19:45;Sheffield United;QPR
+E1;12;;;05.04.2022;20:00;Reading;Stoke
+E1;12;;;06.04.2022;19:45;Middlesbrough;Fulham
+E1;12;;;06.04.2022;19:45;Nott'm Forest;Coventry
+E1;12;;;06.04.2022;20:00;West Brom;Bournemouth
+E1;12;;;09.04.2022;12:45;Sheffield United;Bournemouth
+E1;12;;;09.04.2022;15:00;Blackburn;Blackpool
+E1;12;;;09.04.2022;15:00;Bristol City;Peterboro
+E1;12;;;09.04.2022;15:00;Middlesbrough;Hull
+E1;12;;;09.04.2022;15:00;Millwall;Barnsley
+E1;12;;;09.04.2022;15:00;Nott'm Forest;Birmingham
+E1;12;;;09.04.2022;15:00;Preston;QPR
+E1;12;;;09.04.2022;15:00;Reading;Cardiff
+E1;12;;;09.04.2022;15:00;Swansea;Derby
+E1;12;;;09.04.2022;15:00;West Brom;Stoke
+E1;12;;;10.04.2022;15:00;Fulham;Coventry
+E1;12;;;11.04.2022;19:45;Huddersfield;Luton
+E1;12;;;15.04.2022;12:30;Luton;Nott'm Forest
+E1;12;;;15.04.2022;15:00;Birmingham;Coventry
+E1;12;;;15.04.2022;15:00;Bournemouth;Middlesbrough
+E1;12;;;15.04.2022;15:00;Hull;Cardiff
+E1;12;;;15.04.2022;15:00;Peterboro;Blackburn
+E1;12;;;15.04.2022;15:00;Preston;Millwall
+E1;12;;;15.04.2022;15:00;Sheffield United;Reading
+E1;12;;;15.04.2022;15:00;Stoke;Bristol City
+E1;12;;;15.04.2022;15:00;Swansea;Barnsley
+E1;12;;;15.04.2022;15:00;West Brom;Blackpool
+E1;12;;;15.04.2022;17:30;Huddersfield;QPR
+E1;12;;;15.04.2022;20:00;Derby;Fulham
+E1;12;;;18.04.2022;12:30;Middlesbrough;Huddersfield
+E1;12;;;18.04.2022;15:00;Barnsley;Peterboro
+E1;12;;;18.04.2022;15:00;Blackburn;Stoke
+E1;12;;;18.04.2022;15:00;Blackpool;Birmingham
+E1;12;;;18.04.2022;15:00;Cardiff;Luton
+E1;12;;;18.04.2022;15:00;Coventry;Bournemouth
+E1;12;;;18.04.2022;15:00;Millwall;Hull
+E1;12;;;18.04.2022;15:00;QPR;Derby
+E1;12;;;18.04.2022;15:00;Reading;Swansea
+E1;12;;;18.04.2022;17:30;Bristol City;Sheffield United
+E1;12;;;18.04.2022;20:00;Nott'm Forest;West Brom
+E1;12;;;19.04.2022;19:45;Fulham;Preston
+E1;12;;;22.04.2022;19:45;Huddersfield;Barnsley
+E1;12;;;23.04.2022;12:30;Luton;Blackpool
+E1;12;;;23.04.2022;15:00;Birmingham;Millwall
+E1;12;;;23.04.2022;15:00;Bournemouth;Fulham
+E1;12;;;23.04.2022;15:00;Derby;Bristol City
+E1;12;;;23.04.2022;15:00;Hull;Reading
+E1;12;;;23.04.2022;15:00;Peterboro;Nott'm Forest
+E1;12;;;23.04.2022;15:00;Sheffield United;Cardiff
+E1;12;;;23.04.2022;15:00;Stoke;QPR
+E1;12;;;23.04.2022;15:00;Swansea;Middlesbrough
+E1;12;;;23.04.2022;15:00;West Brom;Coventry
+E1;12;;;25.04.2022;19:30;Preston;Blackburn
+E1;12;;;26.04.2022;19:45;Barnsley;Blackpool
+E1;12;;;26.04.2022;19:45;Fulham;Nott'm Forest
+E1;12;;;26.04.2022;19:45;Swansea;Bournemouth
+E1;12;;;27.04.2022;19:45;Middlesbrough;Cardiff
+E1;12;;;29.04.2022;19:45;QPR;Sheffield United
+E1;12;;;30.04.2022;12:30;Barnsley;Preston
+E1;12;;;30.04.2022;15:00;Blackburn;Bournemouth
+E1;12;;;30.04.2022;15:00;Blackpool;Derby
+E1;12;;;30.04.2022;15:00;Bristol City;Hull
+E1;12;;;30.04.2022;15:00;Cardiff;Birmingham
+E1;12;;;30.04.2022;15:00;Coventry;Huddersfield
+E1;12;;;30.04.2022;15:00;Middlesbrough;Stoke
+E1;12;;;30.04.2022;15:00;Millwall;Peterboro
+E1;12;;;30.04.2022;15:00;Nott'm Forest;Swansea
+E1;12;;;30.04.2022;15:00;Reading;West Brom
+E1;12;;;02.05.2022;17:15;Fulham;Luton
+E1;12;;;03.05.2022;19:00;Bournemouth;Nott'm Forest
+E1;12;;;07.05.2022;12:30;Birmingham;Blackburn
+E1;12;;;07.05.2022;12:30;Bournemouth;Millwall
+E1;12;;;07.05.2022;12:30;Derby;Cardiff
+E1;12;;;07.05.2022;12:30;Huddersfield;Bristol City
+E1;12;;;07.05.2022;12:30;Hull;Nott'm Forest
+E1;12;;;07.05.2022;12:30;Luton;Reading
+E1;12;;;07.05.2022;12:30;Peterboro;Blackpool
+E1;12;;;07.05.2022;12:30;Preston;Middlesbrough
+E1;12;;;07.05.2022;12:30;Sheffield United;Fulham
+E1;12;;;07.05.2022;12:30;Stoke;Coventry
+E1;12;;;07.05.2022;12:30;Swansea;QPR
+E1;12;;;07.05.2022;12:30;West Brom;Barnsley

@@ -1,0 +1,444 @@
+---
+title: "Extended model"
+author: "Christoph Völtzke"
+date: "2022-12-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Packages
+```{r, include=FALSE}
+# needed packages
+library(readr)
+library(lme4)
+library(lmerTest)
+library(tidyverse)
+library(texreg)
+library(stargazer)
+library(ggplot2)
+library(cowplot)
+library(gmodels)
+```
+
+## Replication data set
+```{r, include=FALSE}
+# The following code loads the data used in the study by Wunderlich et al. (2020). This is the data set needed to reproduce the results of the initial analysis. See report for description of variables needed.
+dat <- read_csv("Data/dat.csv")
+dat_new <- read_csv("Data/dat_new.csv")
+
+colnames(dat_new)[5] <- "Spectators"
+dat_new$Spectators <- as.factor(dat_new$Spectators)
+```
+
+## How to build a model in ML Research - Example with one dependent variable
+
+This is a general framework for how to obtain the best ML model possible given the data.
+First, check through the descriptive stats which variables have a multilevel structure. You should also check and if necessary apply centering if interaction effects are used. Preferred centering should be Grand mean centering. 
+
+```{r}
+# set a seed for reproducible results
+set.seed(123)
+```
+
+```{r}
+# Model ignoring multilevel structure
+# So it is only one regression line with a normal regression equation
+# But this model is needed to see if a multilevel structure makes sense as we compare this to the intercept only model
+model0 <- lm(pointsDiff ~ 1, data = dat_new) # intercept only model
+summary(model0)
+```
+
+```{r}
+# Model reflecting multilevel structure
+# Intercept only model
+# Step 1: Include the high level variable and use lmer instead of lm
+# Step 2: Calculate the ICC and interpret it correctly
+# Step 3: Run the chi square test to compare it to the null model
+model1 <- lmer(pointsDiff ~  (1|Division/Home), REML = FALSE, data = dat_new) # here I already applied a three level structure
+summary(model1)
+performance::icc(model1)
+anova1 <- anova(model1, model0)
+anova1
+```
+
+Intercept only model is the benchmark model for calculating pseudo R2 Variance is decomposed in two parts: within / residual variance and between / cluster variance We obtain the explained variance for both parts
+
+An ICC of 0.063 means that 6,3% of the variation in the outcome variable can be accounted for by the clustering structure of the data. This provides evidence that a multilevel model may make a difference to the model estimates, in comparison with a non-multilevel model. Here, the use of multilevel models is close to the threshold of beeing necessary for this outcome variable. And in the social sciences an intraclass coefficient of 0.10 generally denotes the necessity to perform multilevel analyses
+```{r}
+# 1. Step: add first level predictors. The first level predictor is LRTscore. For now we just add them as fixed effects and not yet as random slopes. 
+# 2. Step: Calculate the variance explained after adding the predictors. It can be expected when adding a second level predictor that mainly the second level variance will change. You need explained variance on both levels.
+# 3. Step: Compare the new models and see if adding higher level predictors decreases the deviance or AIC
+
+model2 <- lmer(pointsDiff ~  Spectators + Season_c + (1|Division/Home), REML = FALSE, data = dat_new)
+summary(model2)
+anova2 <- anova(model2, model1)
+anova2
+```
+
+In this example Covid19 and Season are both first level predictors as they appear on the match level and are not specific for the Division or the Home team.
+```{r}
+# *Step 1:* Add predictors as slopes. I would add the slopes one after each other and name the models a,b,c,...
+# *Step 2:* Use the ranova function to check whether the slope variance is "significant"/ not marginal, run model without the non-significant slope predictors, because they might have an influence on the other coefficents
+# *Step 3:* Compare the new model with the most recent model via the chi square test
+model3 <- lmer(pointsDiff ~  Spectators + Season_c + (Covid19|Division/Home), REML = FALSE, data = dat_new)
+summary(model3)
+ranova(model3)
+anova3 <- anova(model3, model2)
+anova3
+model3a <- lmer(pointsDiff ~  Spectators + Season_c + (Season_c|Division/Home), REML = FALSE, data = dat_new)
+summary(model3a)
+ranova(model3a)
+anova3a <- anova(model3a, model2)
+anova3a
+model3b <- lmer(pointsDiff ~  Spectators + Season_c + (Season_c|Home), REML = FALSE, data = dat_new) # according to AIC and Chi sqaure test the best model
+summary(model3b)
+ranova(model3b)
+anova3b <- anova(model3b, model3a)
+anova3b
+```
+
+How to deal with random slopes variance:
+We can investigate if the error term (Variance) for the slope of the variables is estimated to be very small/big. If it is small it is likely that there is no slope variation of the variable between the multilevel variable and therefore the random slope estimation can be dropped from the next analyses.
+
+```{r}
+# Normally also included, but here no better model:
+# Model including the cross level interaction
+# *Step 1:* Add the cross level interaction. We are mainly interested in interactions with predictors who have a significant slope
+# *Step 2:* Compare the new model with the most recent model via the chi square test
+
+model4 <- lmer(pointsDiff ~  Spectators*Season_c + (Season_c|Home), REML = FALSE, data = dat_new) # according to AIC and Chi sqaure test the best model
+summary(model4)
+```
+
+###############################################
+I checked this for all the dependent variables and over all the variables adding a random slope or an interaction effect did not yield to a better model fit.
+###############################################
+
+## Decision for an extended model
+
+The necessity for a multilevel model is often warranted through the value of the ICC. The ICC indicates the variation in the outcome variables that is accounted for by the clustering structure of the data. This procedure provides evidence whether a multilevel model is necessary. In the social sciences an ICC of 0.10 generally denotes the necessity to perform multilevel analyses.
+
+```{r}
+# original multilevel structure
+model1 <- lmer(pointsDiff ~  (1|Division), REML = FALSE, data = dat_new) 
+icc1 <- as.numeric(performance::icc(model1)[1])
+model2 <- lmer(goalsDiff ~  (1|Division), REML = FALSE, data = dat_new) 
+icc2 <- as.numeric(performance::icc(model2)[1])
+model3 <- lmer(expPointsDiff ~  (1|Division), REML = FALSE, data = dat_new) 
+icc3 <- as.numeric(performance::icc(model3)[1])
+model4 <- lmer(shotsDiff ~  (1|Division), REML = FALSE, data = dat_new) 
+icc4 <- as.numeric(performance::icc(model4)[1])
+#model5 <- lmer(redDiff ~  (1|Division), REML = FALSE, data = dat_new) # does not converge
+#icc5 <- as.numeric(performance::icc(model5)[1])
+model6 <- lmer(shotsTargetDiff ~  (1|Division), REML = FALSE, data = dat_new)
+icc6 <- as.numeric(performance::icc(model6)[1])
+model7 <- lmer(foulsDiff ~  (1|Division), REML = FALSE, data = dat_new)
+icc7 <- as.numeric(performance::icc(model7)[1])
+model8 <- lmer(yellowDiff ~  (1|Division), REML = FALSE, data = dat_new) 
+icc8 <- as.numeric(performance::icc(model8)[1])
+
+icc <- (icc1 + icc2 + icc3 + icc4 + icc6 + icc7 + icc8)/7
+icc
+```
+```{r}
+# only home team
+model1 <- lmer(pointsDiff ~  (1|Home), REML = FALSE, data = dat_new) 
+icc1 <- as.numeric(performance::icc(model1)[1])
+model2 <- lmer(goalsDiff ~  (1|Home), REML = FALSE, data = dat_new) 
+icc2 <- as.numeric(performance::icc(model2)[1])
+model3 <- lmer(expPointsDiff ~  (1|Home), REML = FALSE, data = dat_new) 
+icc3 <- as.numeric(performance::icc(model3)[1])
+model4 <- lmer(shotsDiff ~  (1|Home), REML = FALSE, data = dat_new) 
+icc4 <- as.numeric(performance::icc(model4)[1])
+#model5 <- lmer(redDiff ~  (1|Home), REML = FALSE, data = dat_new) # does not converge
+#icc5 <- as.numeric(performance::icc(model5)[1])
+model6 <- lmer(shotsTargetDiff ~  (1|Home), REML = FALSE, data = dat_new)
+icc6 <- as.numeric(performance::icc(model6)[1])
+model7 <- lmer(foulsDiff ~  (1|Home), REML = FALSE, data = dat_new)
+icc7 <- as.numeric(performance::icc(model7)[1])
+model8 <- lmer(yellowDiff ~  (1|Home), REML = FALSE, data = dat_new) 
+icc8 <- as.numeric(performance::icc(model8)[1])
+
+icc <- (icc1 + icc2 + icc3 + icc4 + icc6 + icc7 + icc8)/7
+icc
+```
+```{r}
+# home and division
+model1 <- lmer(pointsDiff ~  (1|Division/Home), REML = FALSE, data = dat_new) 
+icc1 <- as.numeric(performance::icc(model1)[1])
+model2 <- lmer(goalsDiff ~  (1|Division/Home), REML = FALSE, data = dat_new) 
+icc2 <- as.numeric(performance::icc(model2)[1])
+model3 <- lmer(expPointsDiff ~  (1|Division/Home), REML = FALSE, data = dat_new) 
+icc3 <- as.numeric(performance::icc(model3)[1])
+model4 <- lmer(shotsDiff ~  (1|Division/Home), REML = FALSE, data = dat_new) 
+icc4 <- as.numeric(performance::icc(model4)[1])
+#model5 <- lmer(redDiff ~  (1|Division/Home), REML = FALSE, data = dat_new) # does not converge
+#icc5 <- as.numeric(performance::icc(model5)[1])
+model6 <- lmer(shotsTargetDiff ~  (1|Division/Home), REML = FALSE, data = dat_new)
+icc6 <- as.numeric(performance::icc(model6)[1])
+model7 <- lmer(foulsDiff ~  (1|Division/Home), REML = FALSE, data = dat_new)
+icc7 <- as.numeric(performance::icc(model7)[1])
+model8 <- lmer(yellowDiff ~  (1|Division/Home), REML = FALSE, data = dat_new) 
+icc8 <- as.numeric(performance::icc(model8)[1])
+
+icc <- (icc1 + icc2 + icc3 + icc4 ++ icc6 + icc7 + icc8)/7
+icc
+```
+Regarding these results it becomes clear that the random effect only for the division is actually neglectable. However, using a three level model the between groups differences are relevant and a multilevel strucutre is recommended!
+
+## Extended model
+```{r, include=FALSE}
+options(scipen=999)
+model1 <- lmer(goalsDiff ~ Spectators + Season_c + (1|Division/Home), REML = FALSE, data = dat_new)
+#summary(model1)
+model2 <- lmer(pointsDiff ~ Spectators + Season_c + (1|Division/Home), REML = FALSE, data = dat_new)
+#summary(model2)
+model3 <- lmer(expPointsDiff ~ Spectators + Season_c + (1|Division/Home), REML = FALSE, data = dat_new)
+#summary(model3)
+model4 <- lmer(shotsDiff~ Spectators + Season_c + (1|Division/Home), REML = FALSE, data = dat_new)
+#summary(model4)
+model5 <- lmer(shotsTargetDiff ~ Spectators + Season_c + (1|Division/Home), REML = FALSE, data = dat_new)
+#summary(model5)
+model6 <- lmer(foulsDiff ~ Spectators + Season_c + (1|Division/Home), REML = FALSE, data = dat_new)
+#summary(model6)
+model7 <- lmer(yellowDiff ~ Spectators + Season_c +  (1|Division/Home), REML = FALSE, data = dat_new)
+#summary(model7)
+model8 <- lmer(redDiff ~ Spectators + Season_c +  (1|Division/Home), REML = FALSE, data = dat_new)
+#summary(model8)
+```
+
+## Summary of the results for 12 seasons
+```{r}
+table1_0 <-screenreg(list(model1, model2, model3, model4), 
+       custom.model.names=c("Goals","Points", "Exp.Points","Shots"))
+table1_0
+```
+
+```{r}
+table1 <-screenreg(list(model5, model6, model7, model8), 
+       custom.model.names=c("ShotsTarget", "Fouls", "Yellow", "Red"))
+table1
+```
+
+### Latex code for plots with Stargazer
+
+```{r}
+# needed to use the stargazer package
+class(model1) <- "lmerMod"
+class(model2) <- "lmerMod"
+class(model3) <- "lmerMod"
+class(model4) <- "lmerMod"
+class(model5) <- "lmerMod"
+class(model6) <- "lmerMod"
+class(model7) <- "lmerMod"
+class(model8) <- "lmerMod"
+
+# if you want to produce the latex code just remove the hashtag
+#stargazer(model1, model2, model3, model4, title="Extended results over twelve seasons for all dependent variables", align=TRUE, star.cutoffs = c(0.05, 0.01, 0.001))
+#stargazer(model5, model6, model7, model8, title="Extended results over twelve seasons for all dependent variables", align=TRUE,star.cutoffs = c(0.05, 0.01, 0.001))
+```
+
+## Data for Plots over the seasons
+
+```{r, warning=FALSE}
+plot_dat_season_1 <- dat_new %>%
+  group_by(Season) %>%
+  summarise(Goals =ci(goalsDiff, na.rm=T)[1], 
+            GoalslowCI = ci(goalsDiff, na.rm=T)[2],
+            GoalshiCI = ci(goalsDiff, na.rm=T)[3],
+            Points =ci(pointsDiff, na.rm=T)[1], 
+            PointslowCI = ci(pointsDiff, na.rm=T)[2],
+            PointshiCI = ci(pointsDiff, na.rm=T)[3],
+            ExpPoints =ci(expPointsDiff, na.rm=T)[1], 
+            ExpPointslowCI = ci(expPointsDiff, na.rm=T)[2],
+            ExpPointshiCI = ci(expPointsDiff, na.rm=T)[3],
+            Shots =ci(shotsDiff, na.rm=T)[1], 
+            ShotslowCI = ci(shotsDiff, na.rm=T)[2],
+            ShotshiCI = ci(shotsDiff, na.rm=T)[3],
+            ShotsTarget =ci(shotsTargetDiff, na.rm=T)[1], 
+            ShotsTargetlowCI = ci(shotsTargetDiff, na.rm=T)[2],
+            ShotsTargethiCI = ci(shotsTargetDiff, na.rm=T)[3],
+            Fouls =ci(foulsDiff, na.rm=T)[1], 
+            FoulslowCI = ci(foulsDiff, na.rm=T)[2],
+            FoulshiCI = ci(foulsDiff, na.rm=T)[3],
+            Yellow =ci(yellowDiff, na.rm=T)[1], 
+            YellowlowCI = ci(yellowDiff, na.rm=T)[2],
+            YellowhiCI = ci(yellowDiff, na.rm=T)[3],
+            Red =ci(redDiff, na.rm=T)[1], 
+            RedlowCI = ci(redDiff, na.rm=T)[2],
+            RedhiCI = ci(redDiff, na.rm=T)[3])
+# this step is needed to have a mean and CIs for the seasons with and without spectators. This is especially of interest when considering the Season when Covid-19 interrupted the season half way (Season 10).
+plot_dat_Spect_1 <- dat_new %>%
+  group_by(Spectators,Season) %>%
+  summarise(Goals =ci(goalsDiff, na.rm=T)[1], 
+            GoalslowCI = ci(goalsDiff, na.rm=T)[2],
+            GoalshiCI = ci(goalsDiff, na.rm=T)[3],
+            Points =ci(pointsDiff, na.rm=T)[1], 
+            PointslowCI = ci(pointsDiff, na.rm=T)[2],
+            PointshiCI = ci(pointsDiff, na.rm=T)[3],
+            ExpPoints =ci(expPointsDiff, na.rm=T)[1], 
+            ExpPointslowCI = ci(expPointsDiff, na.rm=T)[2],
+            ExpPointshiCI = ci(expPointsDiff, na.rm=T)[3],
+            Shots =ci(shotsDiff, na.rm=T)[1], 
+            ShotslowCI = ci(shotsDiff, na.rm=T)[2],
+            ShotshiCI = ci(shotsDiff, na.rm=T)[3],
+            ShotsTarget =ci(shotsTargetDiff, na.rm=T)[1], 
+            ShotsTargetlowCI = ci(shotsTargetDiff, na.rm=T)[2],
+            ShotsTargethiCI = ci(shotsTargetDiff, na.rm=T)[3],
+            Fouls =ci(foulsDiff, na.rm=T)[1], 
+            FoulslowCI = ci(foulsDiff, na.rm=T)[2],
+            FoulshiCI = ci(foulsDiff, na.rm=T)[3],
+            Yellow =ci(yellowDiff, na.rm=T)[1], 
+            YellowlowCI = ci(yellowDiff, na.rm=T)[2],
+            YellowhiCI = ci(yellowDiff, na.rm=T)[3],
+            Red =ci(redDiff, na.rm=T)[1], 
+            RedlowCI = ci(redDiff, na.rm=T)[2],
+            RedhiCI = ci(redDiff, na.rm=T)[3])
+
+plot_data <- dplyr::bind_rows(plot_dat_season_1,plot_dat_Spect_1)
+plot_data$Name <- paste(plot_data$Season,plot_data$Spectators)
+plot_data <- plot_data %>%
+ dplyr::select(Name,Goals:Red)
+# when running this code for the variable Red cards. No Confidence intervals are produced. As the model for red cards did not converge I exclude it from this part 
+```
+
+```{r, include=FALSE}
+# Rename the seasons to have a numeric variable, which can be used in an interactive way (Shiny app, attached to the repo)
+plot_data$Name[plot_data$Name == "1 NA"] <- 1
+plot_data$Name[plot_data$Name == "2 NA"] <- 2
+plot_data$Name[plot_data$Name == "3 NA"] <- 3
+plot_data$Name[plot_data$Name == "4 NA"] <- 4
+plot_data$Name[plot_data$Name == "5 NA"] <- 5
+plot_data$Name[plot_data$Name == "6 NA"] <- 6
+plot_data$Name[plot_data$Name == "7 NA"] <- 7
+plot_data$Name[plot_data$Name == "8 NA"] <- 8
+plot_data$Name[plot_data$Name == "9 NA"] <- 9
+plot_data$Name[plot_data$Name == "11 NA"] <- 11
+plot_data$Name[plot_data$Name == "12 NA"] <- 12
+plot_data$Name[plot_data$Name == "10 Yes"] <- 10
+plot_data$Name[plot_data$Name == "10 No"] <- 10.5
+
+plot_data <- subset(plot_data, Name == "1" | Name == "2" | Name == "3" | Name == "4" | Name == "5" | Name == "6" | Name == "7" | Name == "8" | Name == "9" | Name == "10" | Name == "10.5" |Name == "11" | Name == "12")
+    
+plot_data <- plot_data %>%
+  na.omit()
+
+plot_data$Name <- as.numeric(plot_data$Name)
+```
+
+```{r}
+# To be able to have a factor which can be used to differentiate the DVs
+Goals <- as.tibble(plot_data$Goals)
+Goals$dv <- "Goals"
+Goals$season <- plot_data$Name
+GoalslowCI <- as.tibble(plot_data$GoalslowCI)
+GoalshiCI <- as.tibble(plot_data$GoalshiCI)
+
+Points <- as.tibble(plot_data$Points)
+Points$dv <- "Points"
+Points$season <- plot_data$Name
+PointslowCI <- as.tibble(plot_data$PointslowCI)
+PointshiCI <- as.tibble(plot_data$PointshiCI)
+
+ExpPoints <- as.tibble(plot_data$ExpPoints)
+ExpPoints$dv <- "ExpPoints"
+ExpPoints$season <- plot_data$Name
+ExpPointslowCI <- as.tibble(plot_data$ExpPointslowCI)
+ExpPointshiCI <- as.tibble(plot_data$ExpPointshiCI)
+
+Shots <- as.tibble(plot_data$Shots)
+Shots$dv <- "Shots"
+Shots$season <- plot_data$Name
+ShotslowCI <- as.tibble(plot_data$ShotslowCI)
+ShotshiCI <- as.tibble(plot_data$ShotshiCI)
+
+ShotsTarget <- as.tibble(plot_data$ShotsTarget)
+ShotsTarget$dv <- "ShotsTarget"
+ShotsTarget$season <- plot_data$Name
+ShotsTargetlowCI <- as.tibble(plot_data$ShotsTargetlowCI)
+ShotsTargethiCI <- as.tibble(plot_data$ShotsTargethiCI)
+
+Fouls <- as.tibble(plot_data$Fouls)
+Fouls$dv <- "Fouls"
+Fouls$season <- plot_data$Name
+FoulslowCI <- as.tibble(plot_data$FoulslowCI)
+FoulshiCI <- as.tibble(plot_data$FoulshiCI)
+
+Yellow <- as.tibble(plot_data$Yellow)
+Yellow$dv <- "Yellow"
+Yellow$season <- plot_data$Name
+YellowlowCI <- as.tibble(plot_data$YellowlowCI)
+YellowhiCI <- as.tibble(plot_data$YellowhiCI)
+```
+
+```{r}
+plot_data_mean <- rbind(Yellow,Fouls,ShotsTarget,Shots,ExpPoints,Points,Goals)
+plot_data_hi <- rbind(YellowhiCI,FoulshiCI,ShotsTargethiCI,ShotshiCI,ExpPointshiCI,PointshiCI,GoalshiCI)
+plot_data_lo <- rbind(YellowlowCI,FoulslowCI,ShotsTargetlowCI,ShotslowCI,ExpPointslowCI,PointslowCI,GoalslowCI)
+
+plot_data_lo <- plot_data_lo %>%
+  rename(CI_low = value)
+plot_data_hi <- plot_data_hi %>%
+  rename(CI_hi = value)
+
+plot_data_mean <- plot_data_mean %>%
+  rename(mean = value)
+
+plot_data <- cbind(plot_data_mean,plot_data_lo,plot_data_hi)
+plot_data <- plot_data %>%
+  select(season,dv,mean,CI_low,CI_hi)
+
+plot_data <- plot_data %>%
+    mutate(dv = recode(dv, "ExpPoints" = "Expected Points", "ShotsTarget" = "Shots on Target"))
+```
+
+```{r}
+# Data used for the plots. 
+# saveRDS(plot_data,"Shiny_app/data/plot_data.rds")
+```
+
+## Plotting
+```{r}
+# helper function to plot
+source("Functions/helper_plot_new.R")
+source("Functions/helper_filter_dvs.R")
+```
+
+```{r}
+filtered_dat <- filtered_df(plot_data,c("Points"))
+p1 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=12)
+
+filtered_dat <- filtered_df(plot_data,c("Goals"))
+p2 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=12)
+
+filtered_dat <- filtered_df(plot_data,c("Expected Points"))
+p3 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=12)
+
+filtered_dat <- filtered_df(plot_data,c("Shots"))
+p4 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=12)
+
+filtered_dat <- filtered_df(plot_data,c("Shots on Target"))
+p5 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=12)
+
+filtered_dat <- filtered_df(plot_data,c("Fouls"))
+p6 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=12)
+
+filtered_dat <- filtered_df(plot_data,c("Yellow"))
+p7 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=12)
+```
+
+```{r}
+Extended_plot <- plot_grid(p1,p2,p3,p4,p5,p6,p7, ncol=2)
+#this visualization gives nice insights about the overall decreasing trend of a home advantage plus the more drastically decrease for games without spectators. However, for points and goals it is not clear if this is just the regular trend or due to the spectator absence. (Also not significant regression)
+# moreover, the Expected points suggest a heavy mispricing of home teams during this first time with spectator absence! This is a very interesting finding as it means the betting companies have had flaws in their algorithms during this time
+Extended_plot
+
+#ggsave("Figures/Extended_plot.png", width = 8.5, height = 6,bg="white")
+```
+```{r}
+sessionInfo()
+```
+

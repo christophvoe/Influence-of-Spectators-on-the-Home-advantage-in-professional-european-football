@@ -1,0 +1,381 @@
+Div;Season;Capacity;Spectators;Date;Time;HomeTeam;AwayTeam
+E0;11;19000;0;12.09.2020;12:30;Fulham;Arsenal
+E0;11;26047;0;12.09.2020;15:00;Crystal Palace;Southampton
+E0;11;54074;0;12.09.2020;17:30;Liverpool;Leeds
+E0;11;60000;0;12.09.2020;20:00;West Ham;Newcastle
+E0;11;26850;0;13.09.2020;14:00;West Brom;Leicester
+E0;11;62062;0;13.09.2020;16:30;Tottenham;Everton
+E0;11;31800;0;14.09.2020;20:15;Brighton;Chelsea
+E0;11;32702;0;14.09.2020;18:00;Sheffield United;Wolves
+E0;11;39571;0;19.09.2020;12:30;Everton;West Brom
+E0;11;37890;0;19.09.2020;15:00;Leeds;Fulham
+E0;11;74879;0;19.09.2020;17:30;Man United;Crystal Palace
+E0;11;60704;0;19.09.2020;20:00;Arsenal;West Ham
+E0;11;32384;0;20.09.2020;12:00;Southampton;Tottenham
+E0;11;52338;0;20.09.2020;14:00;Newcastle;Brighton
+E0;11;40853;0;20.09.2020;16:30;Chelsea;Liverpool
+E0;11;32273;0;20.09.2020;19:00;Leicester;Burnley
+E0;11;42682;0;21.09.2020;18:00;Aston Villa;Sheffield United
+E0;11;32050;0;21.09.2020;20:15;Wolves;Man City
+E0;11;31800;0;26.09.2020;12:30;Brighton;Man United
+E0;11;26047;0;26.09.2020;15:00;Crystal Palace;Everton
+E0;11;26850;0;26.09.2020;17:30;West Brom;Chelsea
+E0;11;21994;0;26.09.2020;20:00;Burnley;Southampton
+E0;11;32702;0;27.09.2020;12:00;Sheffield United;Leeds
+E0;11;62062;0;27.09.2020;14:00;Tottenham;Newcastle
+E0;11;55017;0;27.09.2020;16:30;Man City;Leicester
+E0;11;60000;0;27.09.2020;19:00;West Ham;Wolves
+E0;11;19000;0;28.09.2020;17:45;Fulham;Aston Villa
+E0;11;54074;0;28.09.2020;20:00;Liverpool;Arsenal
+E0;11;40853;0;03.10.2020;12:30;Chelsea;Crystal Palace
+E0;11;39571;0;03.10.2020;15:00;Everton;Brighton
+E0;11;37890;0;03.10.2020;17:30;Leeds;Man City
+E0;11;52338;0;03.10.2020;20:00;Newcastle;Burnley
+E0;11;32273;0;04.10.2020;12:00;Leicester;West Ham
+E0;11;32384;0;04.10.2020;12:00;Southampton;West Brom
+E0;11;60704;0;04.10.2020;14:00;Arsenal;Sheffield United
+E0;11;32050;0;04.10.2020;14:00;Wolves;Fulham
+E0;11;74879;0;04.10.2020;16:30;Man United;Tottenham
+E0;11;42682;0;04.10.2020;19:15;Aston Villa;Liverpool
+E0;11;39571;0;17.10.2020;12:30;Everton;Liverpool
+E0;11;40853;0;17.10.2020;15:00;Chelsea;Southampton
+E0;11;55017;0;17.10.2020;17:30;Man City;Arsenal
+E0;11;52338;0;17.10.2020;20:00;Newcastle;Man United
+E0;11;32702;0;18.10.2020;12:00;Sheffield United;Fulham
+E0;11;26047;0;18.10.2020;14:00;Crystal Palace;Brighton
+E0;11;62062;0;18.10.2020;16:30;Tottenham;West Ham
+E0;11;32273;0;18.10.2020;19:15;Leicester;Aston Villa
+E0;11;26850;0;19.10.2020;17:30;West Brom;Burnley
+E0;11;37890;0;19.10.2020;20:00;Leeds;Wolves
+E0;11;42682;0;23.10.2020;20:00;Aston Villa;Leeds
+E0;11;60000;0;24.10.2020;12:30;West Ham;Man City
+E0;11;19000;0;24.10.2020;15:00;Fulham;Crystal Palace
+E0;11;74879;0;24.10.2020;17:30;Man United;Chelsea
+E0;11;54074;0;24.10.2020;20:00;Liverpool;Sheffield United
+E0;11;32384;0;25.10.2020;14:00;Southampton;Everton
+E0;11;32050;0;25.10.2020;16:30;Wolves;Newcastle
+E0;11;60704;0;25.10.2020;19:15;Arsenal;Leicester
+E0;11;31800;0;26.10.2020;17:30;Brighton;West Brom
+E0;11;21994;0;26.10.2020;20:00;Burnley;Tottenham
+E0;11;32050;0;30.10.2020;20:00;Wolves;Crystal Palace
+E0;11;32702;0;31.10.2020;12:30;Sheffield United;Man City
+E0;11;21994;0;31.10.2020;15:00;Burnley;Chelsea
+E0;11;54074;0;31.10.2020;17:30;Liverpool;West Ham
+E0;11;42682;0;01.11.2020;12:00;Aston Villa;Southampton
+E0;11;52338;0;01.11.2020;14:00;Newcastle;Everton
+E0;11;74879;0;01.11.2020;16:30;Man United;Arsenal
+E0;11;62062;0;01.11.2020;19:15;Tottenham;Brighton
+E0;11;19000;0;02.11.2020;17:30;Fulham;West Brom
+E0;11;37890;0;02.11.2020;20:00;Leeds;Leicester
+E0;11;31800;0;06.11.2020;17:30;Brighton;Burnley
+E0;11;32384;0;06.11.2020;20:00;Southampton;Newcastle
+E0;11;39571;0;07.11.2020;12:30;Everton;Man United
+E0;11;26047;0;07.11.2020;15:00;Crystal Palace;Leeds
+E0;11;40853;0;07.11.2020;17:30;Chelsea;Sheffield United
+E0;11;60000;0;07.11.2020;20:00;West Ham;Fulham
+E0;11;26850;0;08.11.2020;12:00;West Brom;Tottenham
+E0;11;32273;0;08.11.2020;14:00;Leicester;Wolves
+E0;11;55017;0;08.11.2020;16:30;Man City;Liverpool
+E0;11;60704;0;08.11.2020;19:15;Arsenal;Aston Villa
+E0;11;52338;0;21.11.2020;12:30;Newcastle;Chelsea
+E0;11;42682;0;21.11.2020;15:00;Aston Villa;Brighton
+E0;11;62062;0;21.11.2020;17:30;Tottenham;Man City
+E0;11;74879;0;21.11.2020;20:00;Man United;West Brom
+E0;11;19000;0;22.11.2020;12:00;Fulham;Everton
+E0;11;32702;0;22.11.2020;14:00;Sheffield United;West Ham
+E0;11;37890;0;22.11.2020;16:30;Leeds;Arsenal
+E0;11;54074;0;22.11.2020;19:15;Liverpool;Leicester
+E0;11;21994;0;23.11.2020;17:30;Burnley;Crystal Palace
+E0;11;32050;0;23.11.2020;20:00;Wolves;Southampton
+E0;11;26047;0;27.11.2020;20:00;Crystal Palace;Newcastle
+E0;11;31800;0;28.11.2020;12:30;Brighton;Liverpool
+E0;11;55017;0;28.11.2020;15:00;Man City;Burnley
+E0;11;39571;0;28.11.2020;17:30;Everton;Leeds
+E0;11;26850;0;28.11.2020;20:00;West Brom;Sheffield United
+E0;11;32384;0;29.11.2020;14:00;Southampton;Man United
+E0;11;40853;0;29.11.2020;16:30;Chelsea;Tottenham
+E0;11;60704;0;29.11.2020;19:15;Arsenal;Wolves
+E0;11;32273;0;30.11.2020;17:30;Leicester;Fulham
+E0;11;60000;0;30.11.2020;20:00;West Ham;Aston Villa
+E0;11;21994;0;05.12.2020;12:30;Burnley;Everton
+E0;11;55017;0;05.12.2020;15:00;Man City;Fulham
+E0;11;60000;2000;05.12.2020;17:30;West Ham;Man United
+E0;11;40853;0;05.12.2020;20:00;Chelsea;Leeds
+E0;11;26850;0;06.12.2020;12:00;West Brom;Crystal Palace
+E0;11;32702;0;06.12.2020;14:15;Sheffield United;Leicester
+E0;11;62062;2000;06.12.2020;16:30;Tottenham;Arsenal
+E0;11;54074;2000;06.12.2020;19:15;Liverpool;Wolves
+E0;11;31800;0;07.12.2020;20:00;Brighton;Southampton
+E0;11;37890;0;11.12.2020;20:00;Leeds;West Ham
+E0;11;32050;0;12.12.2020;12:30;Wolves;Aston Villa
+E0;11;52338;0;12.12.2020;15:00;Newcastle;West Brom
+E0;11;74879;0;12.12.2020;17:30;Man United;Man City
+E0;11;39571;0;12.12.2020;20:00;Everton;Chelsea
+E0;11;32384;2000;13.12.2020;12:00;Southampton;Sheffield United
+E0;11;26047;0;13.12.2020;14:15;Crystal Palace;Tottenham
+E0;11;19000;0;13.12.2020;16:30;Fulham;Liverpool
+E0;11;60704;0;13.12.2020;19:15;Arsenal;Burnley
+E0;11;32273;0;13.12.2020;19:15;Leicester;Brighton
+E0;11;32050;0;15.12.2020;18:00;Wolves;Chelsea
+E0;11;55017;0;15.12.2020;20:00;Man City;West Brom
+E0;11;60704;0;16.12.2020;18:00;Arsenal;Southampton
+E0;11;37890;0;16.12.2020;18:00;Leeds;Newcastle
+E0;11;32273;0;16.12.2020;18:00;Leicester;Everton
+E0;11;19000;0;16.12.2020;20:00;Fulham;Brighton
+E0;11;54074;2000;16.12.2020;20:00;Liverpool;Tottenham
+E0;11;60000;0;16.12.2020;20:00;West Ham;Crystal Palace
+E0;11;42682;0;17.12.2020;18:00;Aston Villa;Burnley
+E0;11;32702;0;17.12.2020;20:00;Sheffield United;Man United
+E0;11;26047;0;19.12.2020;12:30;Crystal Palace;Liverpool
+E0;11;32384;2000;19.12.2020;15:00;Southampton;Man City
+E0;11;39571;0;19.12.2020;17:30;Everton;Arsenal
+E0;11;52338;0;19.12.2020;20:00;Newcastle;Fulham
+E0;11;31800;0;20.12.2020;12:00;Brighton;Sheffield United
+E0;11;62062;0;20.12.2020;14:15;Tottenham;Leicester
+E0;11;74879;0;20.12.2020;16:30;Man United;Leeds
+E0;11;26850;0;20.12.2020;19:15;West Brom;Aston Villa
+E0;11;21994;0;21.12.2020;17:30;Burnley;Wolves
+E0;11;40853;0;21.12.2020;20:00;Chelsea;West Ham
+E0;11;32273;0;26.12.2020;12:30;Leicester;Man United
+E0;11;42682;0;26.12.2020;15:00;Aston Villa;Crystal Palace
+E0;11;19000;0;26.12.2020;15:00;Fulham;Southampton
+E0;11;60704;0;26.12.2020;17:30;Arsenal;Chelsea
+E0;11;55017;0;26.12.2020;20:00;Man City;Newcastle
+E0;11;32702;0;26.12.2020;20:00;Sheffield United;Everton
+E0;11;37890;0;27.12.2020;12:00;Leeds;Burnley
+E0;11;60000;0;27.12.2020;14:15;West Ham;Brighton
+E0;11;54074;2000;27.12.2020;16:30;Liverpool;West Brom
+E0;11;32050;0;27.12.2020;19:15;Wolves;Tottenham
+E0;11;26047;0;28.12.2020;15:00;Crystal Palace;Leicester
+E0;11;40853;0;28.12.2020;17:30;Chelsea;Aston Villa
+E0;11;31800;0;29.12.2020;18:00;Brighton;Arsenal
+E0;11;21994;0;29.12.2020;18:00;Burnley;Sheffield United
+E0;11;32384;0;29.12.2020;18:00;Southampton;West Ham
+E0;11;26850;0;29.12.2020;18:00;West Brom;Leeds
+E0;11;74879;0;29.12.2020;20:00;Man United;Wolves
+E0;11;52338;0;30.12.2020;20:00;Newcastle;Liverpool
+E0;11;39571;0;01.01.2021;17:30;Everton;West Ham
+E0;11;74879;0;01.01.2021;20:00;Man United;Aston Villa
+E0;11;62062;0;02.01.2021;12:30;Tottenham;Leeds
+E0;11;26047;0;02.01.2021;15:00;Crystal Palace;Sheffield United
+E0;11;31800;0;02.01.2021;17:30;Brighton;Wolves
+E0;11;26850;0;02.01.2021;20:00;West Brom;Arsenal
+E0;11;52338;0;03.01.2021;14:15;Newcastle;Leicester
+E0;11;40853;0;03.01.2021;16:30;Chelsea;Man City
+E0;11;32384;0;04.01.2021;20:00;Southampton;Liverpool
+E0;11;32702;0;12.01.2021;18:00;Sheffield United;Newcastle
+E0;11;21994;0;12.01.2021;20:15;Burnley;Man United
+E0;11;32050;0;12.01.2021;20:15;Wolves;Everton
+E0;11;55017;0;13.01.2021;18:00;Man City;Brighton
+E0;11;62062;0;13.01.2021;20:15;Tottenham;Fulham
+E0;11;60704;0;14.01.2021;20:00;Arsenal;Crystal Palace
+E0;11;32050;0;16.01.2021;12:30;Wolves;West Brom
+E0;11;37890;0;16.01.2021;15:00;Leeds;Brighton
+E0;11;60000;0;16.01.2021;15:00;West Ham;Burnley
+E0;11;19000;0;16.01.2021;17:30;Fulham;Chelsea
+E0;11;32273;0;16.01.2021;20:00;Leicester;Southampton
+E0;11;32702;0;17.01.2021;14:00;Sheffield United;Tottenham
+E0;11;54074;0;17.01.2021;16:30;Liverpool;Man United
+E0;11;55017;0;17.01.2021;19:15;Man City;Crystal Palace
+E0;11;60704;0;18.01.2021;20:00;Arsenal;Newcastle
+E0;11;60000;0;19.01.2021;18:00;West Ham;West Brom
+E0;11;32273;0;19.01.2021;20:15;Leicester;Chelsea
+E0;11;55017;0;20.01.2021;18:00;Man City;Aston Villa
+E0;11;19000;0;20.01.2021;20:15;Fulham;Man United
+E0;11;54074;0;21.01.2021;20:00;Liverpool;Burnley
+E0;11;42682;0;23.01.2021;20:00;Aston Villa;Newcastle
+E0;11;26047;0;26.01.2021;18:00;Crystal Palace;West Ham
+E0;11;52338;0;26.01.2021;18:00;Newcastle;Leeds
+E0;11;32384;0;26.01.2021;20:15;Southampton;Arsenal
+E0;11;26850;0;26.01.2021;20:15;West Brom;Man City
+E0;11;21994;0;27.01.2021;18:00;Burnley;Aston Villa
+E0;11;40853;0;27.01.2021;18:00;Chelsea;Wolves
+E0;11;31800;0;27.01.2021;19:30;Brighton;Fulham
+E0;11;39571;0;27.01.2021;20:15;Everton;Leicester
+E0;11;74879;0;27.01.2021;20:15;Man United;Sheffield United
+E0;11;62062;0;28.01.2021;20:00;Tottenham;Liverpool
+E0;11;39571;0;30.01.2021;12:30;Everton;Newcastle
+E0;11;26047;0;30.01.2021;15:00;Crystal Palace;Wolves
+E0;11;55017;0;30.01.2021;15:00;Man City;Sheffield United
+E0;11;26850;0;30.01.2021;15:00;West Brom;Fulham
+E0;11;60704;0;30.01.2021;17:30;Arsenal;Man United
+E0;11;32384;0;30.01.2021;20:00;Southampton;Aston Villa
+E0;11;40853;0;31.01.2021;12:00;Chelsea;Burnley
+E0;11;32273;0;31.01.2021;14:00;Leicester;Leeds
+E0;11;60000;0;31.01.2021;16:30;West Ham;Liverpool
+E0;11;31800;0;31.01.2021;19:15;Brighton;Tottenham
+E0;11;32702;0;02.02.2021;18:00;Sheffield United;West Brom
+E0;11;32050;0;02.02.2021;18:00;Wolves;Arsenal
+E0;11;74879;0;02.02.2021;20:15;Man United;Southampton
+E0;11;52338;0;02.02.2021;20:15;Newcastle;Crystal Palace
+E0;11;21994;0;03.02.2021;18:00;Burnley;Man City
+E0;11;19000;0;03.02.2021;18:00;Fulham;Leicester
+E0;11;37890;0;03.02.2021;19:30;Leeds;Everton
+E0;11;42682;0;03.02.2021;20:15;Aston Villa;West Ham
+E0;11;54074;0;03.02.2021;20:15;Liverpool;Brighton
+E0;11;62062;0;04.02.2021;20:00;Tottenham;Chelsea
+E0;11;42682;0;06.02.2021;12:30;Aston Villa;Arsenal
+E0;11;21994;0;06.02.2021;15:00;Burnley;Brighton
+E0;11;52338;0;06.02.2021;15:00;Newcastle;Southampton
+E0;11;19000;0;06.02.2021;17:30;Fulham;West Ham
+E0;11;74879;0;06.02.2021;20:00;Man United;Everton
+E0;11;62062;0;07.02.2021;12:00;Tottenham;West Brom
+E0;11;32050;0;07.02.2021;14:00;Wolves;Leicester
+E0;11;54074;0;07.02.2021;16:30;Liverpool;Man City
+E0;11;32702;0;07.02.2021;19:15;Sheffield United;Chelsea
+E0;11;37890;0;08.02.2021;20:00;Leeds;Crystal Palace
+E0;11;32273;0;13.02.2021;12:30;Leicester;Liverpool
+E0;11;26047;0;13.02.2021;15:00;Crystal Palace;Burnley
+E0;11;55017;0;13.02.2021;17:30;Man City;Tottenham
+E0;11;31800;0;13.02.2021;20:00;Brighton;Aston Villa
+E0;11;32384;0;14.02.2021;12:00;Southampton;Wolves
+E0;11;26850;0;14.02.2021;14:00;West Brom;Man United
+E0;11;60704;0;14.02.2021;16:30;Arsenal;Leeds
+E0;11;39571;0;14.02.2021;19:00;Everton;Fulham
+E0;11;60000;0;15.02.2021;18:00;West Ham;Sheffield United
+E0;11;40853;0;15.02.2021;20:00;Chelsea;Newcastle
+E0;11;21994;0;17.02.2021;18:00;Burnley;Fulham
+E0;11;39571;0;17.02.2021;20:15;Everton;Man City
+E0;11;32050;0;19.02.2021;20:00;Wolves;Leeds
+E0;11;32384;0;20.02.2021;12:30;Southampton;Chelsea
+E0;11;21994;0;20.02.2021;15:00;Burnley;West Brom
+E0;11;54074;0;20.02.2021;17:30;Liverpool;Everton
+E0;11;19000;0;20.02.2021;20:00;Fulham;Sheffield United
+E0;11;60000;0;21.02.2021;12:00;West Ham;Tottenham
+E0;11;42682;0;21.02.2021;14:05;Aston Villa;Leicester
+E0;11;60704;0;21.02.2021;16:30;Arsenal;Man City
+E0;11;74879;0;21.02.2021;19:00;Man United;Newcastle
+E0;11;31800;0;22.02.2021;20:00;Brighton;Crystal Palace
+E0;11;37890;0;23.02.2021;18:00;Leeds;Southampton
+E0;11;55017;0;27.02.2021;12:30;Man City;West Ham
+E0;11;26850;0;27.02.2021;15:00;West Brom;Brighton
+E0;11;37890;0;27.02.2021;17:30;Leeds;Aston Villa
+E0;11;52338;0;27.02.2021;20:00;Newcastle;Wolves
+E0;11;26047;0;28.02.2021;12:00;Crystal Palace;Fulham
+E0;11;32273;0;28.02.2021;12:00;Leicester;Arsenal
+E0;11;62062;0;28.02.2021;14:00;Tottenham;Burnley
+E0;11;40853;0;28.02.2021;16:30;Chelsea;Man United
+E0;11;32702;0;28.02.2021;19:15;Sheffield United;Liverpool
+E0;11;39571;0;01.03.2021;20:00;Everton;Southampton
+E0;11;55017;0;02.03.2021;20:00;Man City;Wolves
+E0;11;21994;0;03.03.2021;18:00;Burnley;Leicester
+E0;11;32702;0;03.03.2021;18:00;Sheffield United;Aston Villa
+E0;11;26047;0;03.03.2021;20:15;Crystal Palace;Man United
+E0;11;19000;0;04.03.2021;18:00;Fulham;Tottenham
+E0;11;26850;0;04.03.2021;18:00;West Brom;Everton
+E0;11;54074;0;04.03.2021;20:15;Liverpool;Chelsea
+E0;11;21994;0;06.03.2021;12:30;Burnley;Arsenal
+E0;11;32702;0;06.03.2021;15:00;Sheffield United;Southampton
+E0;11;42682;0;06.03.2021;17:30;Aston Villa;Wolves
+E0;11;31800;0;06.03.2021;20:00;Brighton;Leicester
+E0;11;26850;0;07.03.2021;12:00;West Brom;Newcastle
+E0;11;54074;0;07.03.2021;14:00;Liverpool;Fulham
+E0;11;55017;0;07.03.2021;16:30;Man City;Man United
+E0;11;62062;0;07.03.2021;19:15;Tottenham;Crystal Palace
+E0;11;40853;0;08.03.2021;18:00;Chelsea;Everton
+E0;11;60000;0;08.03.2021;20:00;West Ham;Leeds
+E0;11;55017;0;10.03.2021;18:00;Man City;Southampton
+E0;11;52338;0;12.03.2021;20:00;Newcastle;Aston Villa
+E0;11;37890;0;13.03.2021;12:30;Leeds;Chelsea
+E0;11;26047;0;13.03.2021;15:00;Crystal Palace;West Brom
+E0;11;39571;0;13.03.2021;17:30;Everton;Burnley
+E0;11;19000;0;13.03.2021;20:00;Fulham;Man City
+E0;11;32384;0;14.03.2021;12:00;Southampton;Brighton
+E0;11;32273;0;14.03.2021;14:00;Leicester;Sheffield United
+E0;11;60704;0;14.03.2021;16:30;Arsenal;Tottenham
+E0;11;74879;0;14.03.2021;19:15;Man United;West Ham
+E0;11;32050;0;15.03.2021;20:00;Wolves;Liverpool
+E0;11;19000;0;19.03.2021;20:00;Fulham;Leeds
+E0;11;31800;0;20.03.2021;20:00;Brighton;Newcastle
+E0;11;60000;0;21.03.2021;15:00;West Ham;Arsenal
+E0;11;42682;0;21.03.2021;19:30;Aston Villa;Tottenham
+E0;11;40853;0;03.04.2021;12:30;Chelsea;West Brom
+E0;11;37890;0;03.04.2021;15:00;Leeds;Sheffield United
+E0;11;32273;0;03.04.2021;17:30;Leicester;Man City
+E0;11;60704;0;03.04.2021;20:00;Arsenal;Liverpool
+E0;11;32384;0;04.04.2021;12:00;Southampton;Burnley
+E0;11;52338;0;04.04.2021;14:05;Newcastle;Tottenham
+E0;11;42682;0;04.04.2021;16:30;Aston Villa;Fulham
+E0;11;74879;0;04.04.2021;19:30;Man United;Brighton
+E0;11;39571;0;05.04.2021;18:00;Everton;Crystal Palace
+E0;11;32050;0;05.04.2021;20:15;Wolves;West Ham
+E0;11;19000;0;09.04.2021;20:00;Fulham;Wolves
+E0;11;55017;0;10.04.2021;12:30;Man City;Leeds
+E0;11;54074;0;10.04.2021;15:00;Liverpool;Aston Villa
+E0;11;26047;0;10.04.2021;17:30;Crystal Palace;Chelsea
+E0;11;21994;0;11.04.2021;12:00;Burnley;Newcastle
+E0;11;60000;0;11.04.2021;14:05;West Ham;Leicester
+E0;11;62062;0;11.04.2021;16:30;Tottenham;Man United
+E0;11;32702;0;11.04.2021;19:00;Sheffield United;Arsenal
+E0;11;26850;0;12.04.2021;18:00;West Brom;Southampton
+E0;11;31800;0;12.04.2021;20:15;Brighton;Everton
+E0;11;39571;0;16.04.2021;20:00;Everton;Tottenham
+E0;11;52338;0;17.04.2021;12:30;Newcastle;West Ham
+E0;11;32050;0;17.04.2021;20:15;Wolves;Sheffield United
+E0;11;60704;0;18.04.2021;13:30;Arsenal;Fulham
+E0;11;74879;0;18.04.2021;16:00;Man United;Burnley
+E0;11;37890;0;19.04.2021;20:00;Leeds;Liverpool
+E0;11;40853;0;20.04.2021;20:00;Chelsea;Brighton
+E0;11;62062;0;21.04.2021;18:00;Tottenham;Southampton
+E0;11;42682;0;21.04.2021;20:15;Aston Villa;Man City
+E0;11;32273;0;22.04.2021;20:00;Leicester;West Brom
+E0;11;60704;0;23.04.2021;20:00;Arsenal;Everton
+E0;11;54074;0;24.04.2021;12:30;Liverpool;Newcastle
+E0;11;60000;0;24.04.2021;17:30;West Ham;Chelsea
+E0;11;32702;0;24.04.2021;20:00;Sheffield United;Brighton
+E0;11;32050;0;25.04.2021;12:00;Wolves;Burnley
+E0;11;37890;0;25.04.2021;14:00;Leeds;Man United
+E0;11;42682;0;25.04.2021;19:00;Aston Villa;West Brom
+E0;11;32273;0;26.04.2021;20:00;Leicester;Crystal Palace
+E0;11;32384;0;30.04.2021;20:00;Southampton;Leicester
+E0;11;26047;0;01.05.2021;12:30;Crystal Palace;Man City
+E0;11;31800;0;01.05.2021;15:00;Brighton;Leeds
+E0;11;40853;0;01.05.2021;17:30;Chelsea;Fulham
+E0;11;39571;0;01.05.2021;20:00;Everton;Aston Villa
+E0;11;52338;0;02.05.2021;14:00;Newcastle;Arsenal
+E0;11;62062;0;02.05.2021;19:15;Tottenham;Sheffield United
+E0;11;26850;0;03.05.2021;18:00;West Brom;Wolves
+E0;11;21994;0;03.05.2021;20:15;Burnley;West Ham
+E0;11;32273;0;07.05.2021;20:00;Leicester;Newcastle
+E0;11;37890;0;08.05.2021;12:30;Leeds;Tottenham
+E0;11;32702;0;08.05.2021;15:00;Sheffield United;Crystal Palace
+E0;11;55017;0;08.05.2021;17:30;Man City;Chelsea
+E0;11;54074;0;08.05.2021;20:15;Liverpool;Southampton
+E0;11;32050;0;09.05.2021;12:00;Wolves;Brighton
+E0;11;42682;0;09.05.2021;14:05;Aston Villa;Man United
+E0;11;60000;0;09.05.2021;16:30;West Ham;Everton
+E0;11;60704;0;09.05.2021;19:00;Arsenal;West Brom
+E0;11;19000;0;10.05.2021;20:00;Fulham;Burnley
+E0;11;74879;0;11.05.2021;18:00;Man United;Leicester
+E0;11;32384;0;11.05.2021;20:15;Southampton;Crystal Palace
+E0;11;40853;0;12.05.2021;20:15;Chelsea;Arsenal
+E0;11;42682;10000;13.05.2021;18:00;Aston Villa;Everton
+E0;11;74879;10000;13.05.2021;20:15;Man United;Liverpool
+E0;11;52338;10000;14.05.2021;20:00;Newcastle;Man City
+E0;11;21994;10000;15.05.2021;12:30;Burnley;Leeds
+E0;11;32384;10000;15.05.2021;15:00;Southampton;Fulham
+E0;11;31800;10000;15.05.2021;20:00;Brighton;West Ham
+E0;11;26047;10000;16.05.2021;12:00;Crystal Palace;Aston Villa
+E0;11;62062;10000;16.05.2021;14:05;Tottenham;Wolves
+E0;11;26850;10000;16.05.2021;16:30;West Brom;Liverpool
+E0;11;39571;10000;16.05.2021;19:00;Everton;Sheffield United
+E0;11;74879;10000;18.05.2021;18:00;Man United;Fulham
+E0;11;32384;10000;18.05.2021;18:00;Southampton;Leeds
+E0;11;31800;10000;18.05.2021;19:00;Brighton;Man City
+E0;11;40853;7195;18.05.2021;20:15;Chelsea;Leicester
+E0;11;39571;10000;19.05.2021;18:00;Everton;Wolves
+E0;11;52338;10000;19.05.2021;18:00;Newcastle;Sheffield United
+E0;11;62062;10000;19.05.2021;18:00;Tottenham;Aston Villa
+E0;11;26047;10000;19.05.2021;19:00;Crystal Palace;Arsenal
+E0;11;21994;3500;19.05.2021;20:15;Burnley;Liverpool
+E0;11;26850;10000;19.05.2021;20:15;West Brom;West Ham
+E0;11;60704;10000;23.05.2021;16:00;Arsenal;Brighton
+E0;11;42682;10000;23.05.2021;16:00;Aston Villa;Chelsea
+E0;11;19000;10000;23.05.2021;16:00;Fulham;Newcastle
+E0;11;37890;10000;23.05.2021;16:00;Leeds;West Brom
+E0;11;32273;10000;23.05.2021;16:00;Leicester;Tottenham
+E0;11;54074;10000;23.05.2021;16:00;Liverpool;Crystal Palace
+E0;11;55017;10000;23.05.2021;16:00;Man City;Everton
+E0;11;32702;10000;23.05.2021;16:00;Sheffield United;Burnley
+E0;11;60000;10000;23.05.2021;16:00;West Ham;Southampton
+E0;11;32050;10000;23.05.2021;16:00;Wolves;Man United

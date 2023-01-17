@@ -1,0 +1,381 @@
+Div;Season;Capacity;Spectators;Date;HomeTeam;AwayTeam
+E0;6;11239;11189;08.08.2015;Bournemouth;Aston Villa
+E0;6;42000;41500;08.08.2015;Chelsea;Swansea
+E0;6;39571;38124;08.08.2015;Everton;Watford
+E0;6;32773;32021;08.08.2015;Leicester;Sunderland
+E0;6;75500;75286;08.08.2015;Man United;Tottenham
+E0;6;27244;26972;08.08.2015;Norwich;Crystal Palace
+E0;6;60704;59944;09.08.2015;Arsenal;West Ham
+E0;6;52338;49754;09.08.2015;Newcastle;Southampton
+E0;6;30089;27534;09.08.2015;Stoke;Liverpool
+E0;6;26850;24631;10.08.2015;West Brom;Man City
+E0;6;42682;33690;14.08.2015;Aston Villa;Man United
+E0;6;32384;30751;15.08.2015;Southampton;Everton
+E0;6;48707;43071;15.08.2015;Sunderland;Norwich
+E0;6;21088;20711;15.08.2015;Swansea;Newcastle
+E0;6;36284;35776;15.08.2015;Tottenham;Stoke
+E0;6;21577;20594;15.08.2015;Watford;West Brom
+E0;6;35345;34910;15.08.2015;West Ham;Leicester
+E0;6;26047;24636;16.08.2015;Crystal Palace;Arsenal
+E0;6;55017;54041;16.08.2015;Man City;Chelsea
+E0;6;45000;43910;17.08.2015;Liverpool;Bournemouth
+E0;6;26047;24636;22.08.2015;Crystal Palace;Aston Villa
+E0;6;32773;32021;22.08.2015;Leicester;Tottenham
+E0;6;75500;75286;22.08.2015;Man United;Newcastle
+E0;6;27244;26972;22.08.2015;Norwich;Stoke
+E0;6;48707;43071;22.08.2015;Sunderland;Swansea
+E0;6;35345;34910;22.08.2015;West Ham;Bournemouth
+E0;6;39571;38124;23.08.2015;Everton;Man City
+E0;6;21577;20594;23.08.2015;Watford;Southampton
+E0;6;26850;24631;23.08.2015;West Brom;Chelsea
+E0;6;60704;59944;24.08.2015;Arsenal;Liverpool
+E0;6;42682;33690;29.08.2015;Aston Villa;Sunderland
+E0;6;11239;11189;29.08.2015;Bournemouth;Leicester
+E0;6;42000;41500;29.08.2015;Chelsea;Crystal Palace
+E0;6;45000;43910;29.08.2015;Liverpool;West Ham
+E0;6;55017;54041;29.08.2015;Man City;Watford
+E0;6;52338;49754;29.08.2015;Newcastle;Arsenal
+E0;6;30089;27534;29.08.2015;Stoke;West Brom
+E0;6;36284;35776;29.08.2015;Tottenham;Everton
+E0;6;32384;30751;30.08.2015;Southampton;Norwich
+E0;6;21088;20711;30.08.2015;Swansea;Man United
+E0;6;60704;59944;12.09.2015;Arsenal;Stoke
+E0;6;26047;24636;12.09.2015;Crystal Palace;Man City
+E0;6;39571;38124;12.09.2015;Everton;Chelsea
+E0;6;75500;75286;12.09.2015;Man United;Liverpool
+E0;6;27244;26972;12.09.2015;Norwich;Bournemouth
+E0;6;21577;20594;12.09.2015;Watford;Swansea
+E0;6;26850;24631;12.09.2015;West Brom;Southampton
+E0;6;32773;32021;13.09.2015;Leicester;Aston Villa
+E0;6;48707;43071;13.09.2015;Sunderland;Tottenham
+E0;6;35345;34910;14.09.2015;West Ham;Newcastle
+E0;6;42682;33690;19.09.2015;Aston Villa;West Brom
+E0;6;11239;11189;19.09.2015;Bournemouth;Sunderland
+E0;6;42000;41500;19.09.2015;Chelsea;Arsenal
+E0;6;55017;54041;19.09.2015;Man City;West Ham
+E0;6;52338;49754;19.09.2015;Newcastle;Watford
+E0;6;30089;27534;19.09.2015;Stoke;Leicester
+E0;6;21088;20711;19.09.2015;Swansea;Everton
+E0;6;45000;43910;20.09.2015;Liverpool;Norwich
+E0;6;32384;30751;20.09.2015;Southampton;Man United
+E0;6;36284;35776;20.09.2015;Tottenham;Crystal Palace
+E0;6;32773;32021;26.09.2015;Leicester;Arsenal
+E0;6;45000;43910;26.09.2015;Liverpool;Aston Villa
+E0;6;75500;75286;26.09.2015;Man United;Sunderland
+E0;6;52338;49754;26.09.2015;Newcastle;Chelsea
+E0;6;32384;30751;26.09.2015;Southampton;Swansea
+E0;6;30089;27534;26.09.2015;Stoke;Bournemouth
+E0;6;36284;35776;26.09.2015;Tottenham;Man City
+E0;6;35345;34910;26.09.2015;West Ham;Norwich
+E0;6;21577;20594;27.09.2015;Watford;Crystal Palace
+E0;6;26850;24631;28.09.2015;West Brom;Everton
+E0;6;42682;33690;03.10.2015;Aston Villa;Stoke
+E0;6;11239;11189;03.10.2015;Bournemouth;Watford
+E0;6;42000;41500;03.10.2015;Chelsea;Southampton
+E0;6;26047;24636;03.10.2015;Crystal Palace;West Brom
+E0;6;55017;54041;03.10.2015;Man City;Newcastle
+E0;6;27244;26972;03.10.2015;Norwich;Leicester
+E0;6;48707;43071;03.10.2015;Sunderland;West Ham
+E0;6;60704;59944;04.10.2015;Arsenal;Man United
+E0;6;39571;38124;04.10.2015;Everton;Liverpool
+E0;6;21088;20711;04.10.2015;Swansea;Tottenham
+E0;6;42000;41500;17.10.2015;Chelsea;Aston Villa
+E0;6;26047;24636;17.10.2015;Crystal Palace;West Ham
+E0;6;39571;38124;17.10.2015;Everton;Man United
+E0;6;55017;54041;17.10.2015;Man City;Bournemouth
+E0;6;32384;30751;17.10.2015;Southampton;Leicester
+E0;6;36284;35776;17.10.2015;Tottenham;Liverpool
+E0;6;21577;20594;17.10.2015;Watford;Arsenal
+E0;6;26850;24631;17.10.2015;West Brom;Sunderland
+E0;6;52338;49754;18.10.2015;Newcastle;Norwich
+E0;6;21088;20711;19.10.2015;Swansea;Stoke
+E0;6;60704;59944;24.10.2015;Arsenal;Everton
+E0;6;42682;33690;24.10.2015;Aston Villa;Swansea
+E0;6;32773;32021;24.10.2015;Leicester;Crystal Palace
+E0;6;27244;26972;24.10.2015;Norwich;West Brom
+E0;6;30089;27534;24.10.2015;Stoke;Watford
+E0;6;35345;34910;24.10.2015;West Ham;Chelsea
+E0;6;11239;11189;25.10.2015;Bournemouth;Tottenham
+E0;6;45000;43910;25.10.2015;Liverpool;Southampton
+E0;6;75500;75286;25.10.2015;Man United;Man City
+E0;6;48707;43071;25.10.2015;Sunderland;Newcastle
+E0;6;42000;41500;31.10.2015;Chelsea;Liverpool
+E0;6;26047;24636;31.10.2015;Crystal Palace;Man United
+E0;6;55017;54041;31.10.2015;Man City;Norwich
+E0;6;52338;49754;31.10.2015;Newcastle;Stoke
+E0;6;21088;20711;31.10.2015;Swansea;Arsenal
+E0;6;21577;20594;31.10.2015;Watford;West Ham
+E0;6;26850;24631;31.10.2015;West Brom;Leicester
+E0;6;39571;38124;01.11.2015;Everton;Sunderland
+E0;6;32384;30751;01.11.2015;Southampton;Bournemouth
+E0;6;36284;35776;02.11.2015;Tottenham;Aston Villa
+E0;6;11239;11189;07.11.2015;Bournemouth;Newcastle
+E0;6;32773;32021;07.11.2015;Leicester;Watford
+E0;6;75500;75286;07.11.2015;Man United;West Brom
+E0;6;27244;26972;07.11.2015;Norwich;Swansea
+E0;6;30089;27534;07.11.2015;Stoke;Chelsea
+E0;6;48707;43071;07.11.2015;Sunderland;Southampton
+E0;6;35345;34910;07.11.2015;West Ham;Everton
+E0;6;60704;59944;08.11.2015;Arsenal;Tottenham
+E0;6;42682;33690;08.11.2015;Aston Villa;Man City
+E0;6;45000;43910;08.11.2015;Liverpool;Crystal Palace
+E0;6;42000;41500;21.11.2015;Chelsea;Norwich
+E0;6;39571;38124;21.11.2015;Everton;Aston Villa
+E0;6;55017;54041;21.11.2015;Man City;Liverpool
+E0;6;52338;49754;21.11.2015;Newcastle;Leicester
+E0;6;32384;30751;21.11.2015;Southampton;Stoke
+E0;6;21088;20711;21.11.2015;Swansea;Bournemouth
+E0;6;21577;20594;21.11.2015;Watford;Man United
+E0;6;26850;24631;21.11.2015;West Brom;Arsenal
+E0;6;36284;35776;22.11.2015;Tottenham;West Ham
+E0;6;26047;24636;23.11.2015;Crystal Palace;Sunderland
+E0;6;42682;33690;28.11.2015;Aston Villa;Watford
+E0;6;11239;11189;28.11.2015;Bournemouth;Everton
+E0;6;26047;24636;28.11.2015;Crystal Palace;Newcastle
+E0;6;32773;32021;28.11.2015;Leicester;Man United
+E0;6;55017;54041;28.11.2015;Man City;Southampton
+E0;6;48707;43071;28.11.2015;Sunderland;Stoke
+E0;6;45000;43910;29.11.2015;Liverpool;Swansea
+E0;6;27244;26972;29.11.2015;Norwich;Arsenal
+E0;6;36284;35776;29.11.2015;Tottenham;Chelsea
+E0;6;35345;34910;29.11.2015;West Ham;West Brom
+E0;6;60704;59944;05.12.2015;Arsenal;Sunderland
+E0;6;42000;41500;05.12.2015;Chelsea;Bournemouth
+E0;6;75500;75286;05.12.2015;Man United;West Ham
+E0;6;32384;30751;05.12.2015;Southampton;Aston Villa
+E0;6;30089;27534;05.12.2015;Stoke;Man City
+E0;6;21088;20711;05.12.2015;Swansea;Leicester
+E0;6;21577;20594;05.12.2015;Watford;Norwich
+E0;6;26850;24631;05.12.2015;West Brom;Tottenham
+E0;6;52338;49754;06.12.2015;Newcastle;Liverpool
+E0;6;39571;38124;07.12.2015;Everton;Crystal Palace
+E0;6;11239;11189;12.12.2015;Bournemouth;Man United
+E0;6;26047;24636;12.12.2015;Crystal Palace;Southampton
+E0;6;55017;54041;12.12.2015;Man City;Swansea
+E0;6;27244;26972;12.12.2015;Norwich;Everton
+E0;6;48707;43071;12.12.2015;Sunderland;Watford
+E0;6;35345;34910;12.12.2015;West Ham;Stoke
+E0;6;42682;33690;13.12.2015;Aston Villa;Arsenal
+E0;6;45000;43910;13.12.2015;Liverpool;West Brom
+E0;6;36284;35776;13.12.2015;Tottenham;Newcastle
+E0;6;32773;32021;14.12.2015;Leicester;Chelsea
+E0;6;42000;41500;19.12.2015;Chelsea;Sunderland
+E0;6;39571;38124;19.12.2015;Everton;Leicester
+E0;6;75500;75286;19.12.2015;Man United;Norwich
+E0;6;52338;49754;19.12.2015;Newcastle;Aston Villa
+E0;6;32384;30751;19.12.2015;Southampton;Tottenham
+E0;6;30089;27534;19.12.2015;Stoke;Crystal Palace
+E0;6;26850;24631;19.12.2015;West Brom;Bournemouth
+E0;6;21088;20711;20.12.2015;Swansea;West Ham
+E0;6;21577;20594;20.12.2015;Watford;Liverpool
+E0;6;60704;59944;21.12.2015;Arsenal;Man City
+E0;6;42682;33690;26.12.2015;Aston Villa;West Ham
+E0;6;11239;11189;26.12.2015;Bournemouth;Crystal Palace
+E0;6;42000;41500;26.12.2015;Chelsea;Watford
+E0;6;45000;43910;26.12.2015;Liverpool;Leicester
+E0;6;55017;54041;26.12.2015;Man City;Sunderland
+E0;6;52338;49754;26.12.2015;Newcastle;Everton
+E0;6;32384;30751;26.12.2015;Southampton;Arsenal
+E0;6;30089;27534;26.12.2015;Stoke;Man United
+E0;6;21088;20711;26.12.2015;Swansea;West Brom
+E0;6;36284;35776;26.12.2015;Tottenham;Norwich
+E0;6;60704;59944;28.12.2015;Arsenal;Bournemouth
+E0;6;26047;24636;28.12.2015;Crystal Palace;Swansea
+E0;6;39571;38124;28.12.2015;Everton;Stoke
+E0;6;75500;75286;28.12.2015;Man United;Chelsea
+E0;6;27244;26972;28.12.2015;Norwich;Aston Villa
+E0;6;21577;20594;28.12.2015;Watford;Tottenham
+E0;6;26850;24631;28.12.2015;West Brom;Newcastle
+E0;6;35345;34910;28.12.2015;West Ham;Southampton
+E0;6;32773;32021;29.12.2015;Leicester;Man City
+E0;6;48707;43071;30.12.2015;Sunderland;Liverpool
+E0;6;60704;59944;02.01.2016;Arsenal;Newcastle
+E0;6;32773;32021;02.01.2016;Leicester;Bournemouth
+E0;6;75500;75286;02.01.2016;Man United;Swansea
+E0;6;27244;26972;02.01.2016;Norwich;Southampton
+E0;6;48707;43071;02.01.2016;Sunderland;Aston Villa
+E0;6;21577;20594;02.01.2016;Watford;Man City
+E0;6;26850;24631;02.01.2016;West Brom;Stoke
+E0;6;35345;34910;02.01.2016;West Ham;Liverpool
+E0;6;26047;24636;03.01.2016;Crystal Palace;Chelsea
+E0;6;39571;38124;03.01.2016;Everton;Tottenham
+E0;6;42682;33690;12.01.2016;Aston Villa;Crystal Palace
+E0;6;11239;11189;12.01.2016;Bournemouth;West Ham
+E0;6;52338;49754;12.01.2016;Newcastle;Man United
+E0;6;42000;41500;13.01.2016;Chelsea;West Brom
+E0;6;45000;43910;13.01.2016;Liverpool;Arsenal
+E0;6;55017;54041;13.01.2016;Man City;Everton
+E0;6;32384;30751;13.01.2016;Southampton;Watford
+E0;6;30089;27534;13.01.2016;Stoke;Norwich
+E0;6;21088;20711;13.01.2016;Swansea;Sunderland
+E0;6;36284;35776;13.01.2016;Tottenham;Leicester
+E0;6;42682;33690;16.01.2016;Aston Villa;Leicester
+E0;6;11239;11189;16.01.2016;Bournemouth;Norwich
+E0;6;42000;41500;16.01.2016;Chelsea;Everton
+E0;6;55017;54041;16.01.2016;Man City;Crystal Palace
+E0;6;52338;49754;16.01.2016;Newcastle;West Ham
+E0;6;32384;30751;16.01.2016;Southampton;West Brom
+E0;6;36284;35776;16.01.2016;Tottenham;Sunderland
+E0;6;45000;43910;17.01.2016;Liverpool;Man United
+E0;6;30089;27534;17.01.2016;Stoke;Arsenal
+E0;6;21088;20711;18.01.2016;Swansea;Watford
+E0;6;26047;24636;23.01.2016;Crystal Palace;Tottenham
+E0;6;32773;32021;23.01.2016;Leicester;Stoke
+E0;6;75500;75286;23.01.2016;Man United;Southampton
+E0;6;27244;26972;23.01.2016;Norwich;Liverpool
+E0;6;48707;43071;23.01.2016;Sunderland;Bournemouth
+E0;6;21577;20594;23.01.2016;Watford;Newcastle
+E0;6;26850;24631;23.01.2016;West Brom;Aston Villa
+E0;6;35345;34910;23.01.2016;West Ham;Man City
+E0;6;60704;59944;24.01.2016;Arsenal;Chelsea
+E0;6;39571;38124;24.01.2016;Everton;Swansea
+E0;6;60704;59944;02.02.2016;Arsenal;Southampton
+E0;6;26047;24636;02.02.2016;Crystal Palace;Bournemouth
+E0;6;32773;32021;02.02.2016;Leicester;Liverpool
+E0;6;75500;75286;02.02.2016;Man United;Stoke
+E0;6;27244;26972;02.02.2016;Norwich;Tottenham
+E0;6;48707;43071;02.02.2016;Sunderland;Man City
+E0;6;26850;24631;02.02.2016;West Brom;Swansea
+E0;6;35345;34910;02.02.2016;West Ham;Aston Villa
+E0;6;39571;38124;03.02.2016;Everton;Newcastle
+E0;6;21577;20594;03.02.2016;Watford;Chelsea
+E0;6;42682;33690;06.02.2016;Aston Villa;Norwich
+E0;6;45000;43910;06.02.2016;Liverpool;Sunderland
+E0;6;55017;54041;06.02.2016;Man City;Leicester
+E0;6;52338;49754;06.02.2016;Newcastle;West Brom
+E0;6;32384;30751;06.02.2016;Southampton;West Ham
+E0;6;30089;27534;06.02.2016;Stoke;Everton
+E0;6;21088;20711;06.02.2016;Swansea;Crystal Palace
+E0;6;36284;35776;06.02.2016;Tottenham;Watford
+E0;6;11239;11189;07.02.2016;Bournemouth;Arsenal
+E0;6;42000;41500;07.02.2016;Chelsea;Man United
+E0;6;11239;11189;13.02.2016;Bournemouth;Stoke
+E0;6;42000;41500;13.02.2016;Chelsea;Newcastle
+E0;6;26047;24636;13.02.2016;Crystal Palace;Watford
+E0;6;39571;38124;13.02.2016;Everton;West Brom
+E0;6;27244;26972;13.02.2016;Norwich;West Ham
+E0;6;48707;43071;13.02.2016;Sunderland;Man United
+E0;6;21088;20711;13.02.2016;Swansea;Southampton
+E0;6;60704;59944;14.02.2016;Arsenal;Leicester
+E0;6;42682;33690;14.02.2016;Aston Villa;Liverpool
+E0;6;55017;54041;14.02.2016;Man City;Tottenham
+E0;6;32773;32021;27.02.2016;Leicester;Norwich
+E0;6;32384;30751;27.02.2016;Southampton;Chelsea
+E0;6;30089;27534;27.02.2016;Stoke;Aston Villa
+E0;6;21577;20594;27.02.2016;Watford;Bournemouth
+E0;6;26850;24631;27.02.2016;West Brom;Crystal Palace
+E0;6;35345;34910;27.02.2016;West Ham;Sunderland
+E0;6;36284;35776;28.02.2016;Tottenham;Swansea
+E0;6;75500;75286;28.02.2016;Man United;Arsenal
+E0;6;42682;33690;01.03.2016;Aston Villa;Everton
+E0;6;11239;11189;01.03.2016;Bournemouth;Southampton
+E0;6;32773;32021;01.03.2016;Leicester;West Brom
+E0;6;27244;26972;01.03.2016;Norwich;Chelsea
+E0;6;48707;43071;01.03.2016;Sunderland;Crystal Palace
+E0;6;60704;59944;02.03.2016;Arsenal;Swansea
+E0;6;45000;43910;02.03.2016;Liverpool;Man City
+E0;6;75500;75286;02.03.2016;Man United;Watford
+E0;6;30089;27534;02.03.2016;Stoke;Newcastle
+E0;6;35345;34910;02.03.2016;West Ham;Tottenham
+E0;6;42000;41500;05.03.2016;Chelsea;Stoke
+E0;6;39571;38124;05.03.2016;Everton;West Ham
+E0;6;55017;54041;05.03.2016;Man City;Aston Villa
+E0;6;52338;49754;05.03.2016;Newcastle;Bournemouth
+E0;6;32384;30751;05.03.2016;Southampton;Sunderland
+E0;6;21088;20711;05.03.2016;Swansea;Norwich
+E0;6;36284;35776;05.03.2016;Tottenham;Arsenal
+E0;6;21577;20594;05.03.2016;Watford;Leicester
+E0;6;26047;24636;06.03.2016;Crystal Palace;Liverpool
+E0;6;26850;24631;06.03.2016;West Brom;Man United
+E0;6;11239;11189;12.03.2016;Bournemouth;Swansea
+E0;6;27244;26972;12.03.2016;Norwich;Man City
+E0;6;30089;27534;12.03.2016;Stoke;Southampton
+E0;6;42682;33690;13.03.2016;Aston Villa;Tottenham
+E0;6;32773;32021;14.03.2016;Leicester;Newcastle
+E0;6;42000;41500;19.03.2016;Chelsea;West Ham
+E0;6;26047;24636;19.03.2016;Crystal Palace;Leicester
+E0;6;39571;38124;19.03.2016;Everton;Arsenal
+E0;6;21088;20711;19.03.2016;Swansea;Aston Villa
+E0;6;21577;20594;19.03.2016;Watford;Stoke
+E0;6;26850;24631;19.03.2016;West Brom;Norwich
+E0;6;55017;54041;20.03.2016;Man City;Man United
+E0;6;52338;49754;20.03.2016;Newcastle;Sunderland
+E0;6;32384;30751;20.03.2016;Southampton;Liverpool
+E0;6;36284;35776;20.03.2016;Tottenham;Bournemouth
+E0;6;60704;59944;02.04.2016;Arsenal;Watford
+E0;6;42682;33690;02.04.2016;Aston Villa;Chelsea
+E0;6;11239;11189;02.04.2016;Bournemouth;Man City
+E0;6;45000;43910;02.04.2016;Liverpool;Tottenham
+E0;6;27244;26972;02.04.2016;Norwich;Newcastle
+E0;6;30089;27534;02.04.2016;Stoke;Swansea
+E0;6;48707;43071;02.04.2016;Sunderland;West Brom
+E0;6;35345;34910;02.04.2016;West Ham;Crystal Palace
+E0;6;32773;32021;03.04.2016;Leicester;Southampton
+E0;6;75500;75286;03.04.2016;Man United;Everton
+E0;6;42682;33690;09.04.2016;Aston Villa;Bournemouth
+E0;6;26047;24636;09.04.2016;Crystal Palace;Norwich
+E0;6;55017;54041;09.04.2016;Man City;West Brom
+E0;6;32384;30751;09.04.2016;Southampton;Newcastle
+E0;6;21088;20711;09.04.2016;Swansea;Chelsea
+E0;6;21577;20594;09.04.2016;Watford;Everton
+E0;6;35345;34910;09.04.2016;West Ham;Arsenal
+E0;6;45000;43910;10.04.2016;Liverpool;Stoke
+E0;6;48707;43071;10.04.2016;Sunderland;Leicester
+E0;6;36284;35776;10.04.2016;Tottenham;Man United
+E0;6;26047;24636;13.04.2016;Crystal Palace;Everton
+E0;6;42000;41500;16.04.2016;Chelsea;Man City
+E0;6;39571;38124;16.04.2016;Everton;Southampton
+E0;6;75500;75286;16.04.2016;Man United;Aston Villa
+E0;6;52338;49754;16.04.2016;Newcastle;Swansea
+E0;6;27244;26972;16.04.2016;Norwich;Sunderland
+E0;6;26850;24631;16.04.2016;West Brom;Watford
+E0;6;60704;59944;17.04.2016;Arsenal;Crystal Palace
+E0;6;11239;11189;17.04.2016;Bournemouth;Liverpool
+E0;6;32773;32021;17.04.2016;Leicester;West Ham
+E0;6;30089;27534;18.04.2016;Stoke;Tottenham
+E0;6;52338;49754;19.04.2016;Newcastle;Man City
+E0;6;45000;43910;20.04.2016;Liverpool;Everton
+E0;6;75500;75286;20.04.2016;Man United;Crystal Palace
+E0;6;35345;34910;20.04.2016;West Ham;Watford
+E0;6;60704;59944;21.04.2016;Arsenal;West Brom
+E0;6;42682;33690;23.04.2016;Aston Villa;Southampton
+E0;6;11239;11189;23.04.2016;Bournemouth;Chelsea
+E0;6;45000;43910;23.04.2016;Liverpool;Newcastle
+E0;6;55017;54041;23.04.2016;Man City;Stoke
+E0;6;32773;32021;24.04.2016;Leicester;Swansea
+E0;6;48707;43071;24.04.2016;Sunderland;Arsenal
+E0;6;36284;35776;25.04.2016;Tottenham;West Brom
+E0;6;60704;59944;30.04.2016;Arsenal;Norwich
+E0;6;39571;38124;30.04.2016;Everton;Bournemouth
+E0;6;52338;49754;30.04.2016;Newcastle;Crystal Palace
+E0;6;30089;27534;30.04.2016;Stoke;Sunderland
+E0;6;21577;20594;30.04.2016;Watford;Aston Villa
+E0;6;26850;24631;30.04.2016;West Brom;West Ham
+E0;6;75500;75286;01.05.2016;Man United;Leicester
+E0;6;32384;30751;01.05.2016;Southampton;Man City
+E0;6;21088;20711;01.05.2016;Swansea;Liverpool
+E0;6;42000;41500;02.05.2016;Chelsea;Tottenham
+E0;6;42682;33690;07.05.2016;Aston Villa;Newcastle
+E0;6;11239;11189;07.05.2016;Bournemouth;West Brom
+E0;6;26047;24636;07.05.2016;Crystal Palace;Stoke
+E0;6;32773;32021;07.05.2016;Leicester;Everton
+E0;6;27244;26972;07.05.2016;Norwich;Man United
+E0;6;48707;43071;07.05.2016;Sunderland;Chelsea
+E0;6;35345;34910;07.05.2016;West Ham;Swansea
+E0;6;45000;43910;08.05.2016;Liverpool;Watford
+E0;6;55017;54041;08.05.2016;Man City;Arsenal
+E0;6;36284;35776;08.05.2016;Tottenham;Southampton
+E0;6;35345;34910;10.05.2016;West Ham;Man United
+E0;6;45000;43910;11.05.2016;Liverpool;Chelsea
+E0;6;27244;26972;11.05.2016;Norwich;Watford
+E0;6;48707;43071;11.05.2016;Sunderland;Everton
+E0;6;60704;59944;15.05.2016;Arsenal;Aston Villa
+E0;6;42000;41500;15.05.2016;Chelsea;Leicester
+E0;6;39571;38124;15.05.2016;Everton;Norwich
+E0;6;52338;49754;15.05.2016;Newcastle;Tottenham
+E0;6;32384;30751;15.05.2016;Southampton;Crystal Palace
+E0;6;30089;27534;15.05.2016;Stoke;West Ham
+E0;6;21088;20711;15.05.2016;Swansea;Man City
+E0;6;21577;20594;15.05.2016;Watford;Sunderland
+E0;6;26850;24631;15.05.2016;West Brom;Liverpool
+E0;6;75500;75286;17.05.2016;Man United;Bournemouth

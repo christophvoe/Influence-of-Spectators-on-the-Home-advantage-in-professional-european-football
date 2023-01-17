@@ -1,0 +1,284 @@
+---
+title: "Data_processing_new_seasons"
+author: "Christoph Völtzke"
+date: "2022-12-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Packages
+```{r, include=FALSE}
+# needed packages
+library(readr)
+library(tidyverse)
+```
+
+## Replication data set
+```{r, include=FALSE}
+# The following code loads the data used in the study by Wunderlich et al. (2020). This is the data set needed to reproduce the results of the initial analysis. See report for description of variables needed.
+dat <- read_csv("Data/dat.csv")
+```
+
+##  Additional seasons
+If you want to download the original files. Visit \url{http://www.football-data.co.uk/} go to "Historical Data" and download each single season for the needed divisions as an .csv file. 
+As this is very tedious this is provided already. However, I am going to show you the process of how to retrieve the data for the new seasons and how to bring them in the needed format for data analysis.
+
+```{r}
+T1_1_ <- read_csv("Data/Seasons_21_22/T1 (1).csv")
+T1_1_ <- T1_1_ %>%
+  mutate(Season = 11)
+T1 <- read_csv("Data/Seasons_21_22/T1.csv")
+T1 <- T1 %>%
+  mutate(Season = 12)
+P1_1_ <- read_csv("Data/Seasons_21_22/P1 (1).csv")
+P1_1_ <- P1_1_ %>%
+  mutate(Season = 11)
+P1 <- read_csv("Data/Seasons_21_22/P1.csv")
+P1 <- P1 %>%
+  mutate(Season = 12)
+SP2_1_ <- read_csv("Data/Seasons_21_22/SP2 (1).csv")
+SP2_1_ <- SP2_1_ %>%
+  mutate(Season = 11)
+SP1_1_ <- read_csv("Data/Seasons_21_22/SP1 (1).csv")
+SP1_1_ <- SP1_1_ %>%
+  mutate(Season = 11)
+SP2 <- read_csv("Data/Seasons_21_22/SP2.csv")
+SP2 <- SP2 %>%
+  mutate(Season = 12)
+SP1 <- read_csv("Data/Seasons_21_22/SP1.csv")
+SP1 <- SP1 %>%
+  mutate(Season = 12)
+I2_1_ <- read_csv("Data/Seasons_21_22/I2 (1).csv")
+I2_1_ <- I2_1_ %>%
+  mutate(Season = 11)
+I1_1_ <- read_csv("Data/Seasons_21_22/I1 (1).csv")
+I1_1_ <- I1_1_ %>%
+  mutate(Season = 11)
+I2 <- read_csv("Data/Seasons_21_22/I2.csv")
+I2 <- I2 %>%
+  mutate(Season = 12)
+I1 <- read_csv("Data/Seasons_21_22/I1.csv")
+I1 <- I1 %>%
+  mutate(Season = 12)
+D2_1_ <- read_csv("Data/Seasons_21_22/D2 (1).csv")
+D2_1_ <- D2_1_ %>%
+  mutate(Season = 11)
+D1_2_ <- read_csv("Data/Seasons_21_22/D1 (2).csv")
+D1_2_ <- D1_2_ %>%
+  mutate(Season = 11)
+D2 <- read_csv("Data/Seasons_21_22/D2.csv")
+D2 <- D2 %>%
+  mutate(Season = 12)
+D1_1_ <- read_csv("Data/Seasons_21_22/D1 (1).csv")
+D1_1_ <- D1_1_ %>%
+  mutate(Season = 12)
+E1_1_ <- read_csv("Data/Seasons_21_22/E1 (1).csv")
+E1_1_ <- E1_1_ %>%
+  mutate(Season = 11)
+E1 <- read_csv("Data/Seasons_21_22/E1.csv")
+E1 <- E1 %>%
+  mutate(Season = 12)
+E0_1 <- read_csv("Data/Seasons_21_22/E0 (3).csv")
+E0_1 <- E0_1 %>%
+  mutate(Season = 11)
+E0 <- read_csv("Data/Seasons_21_22/E0 (2).csv")
+E0 <- E0 %>%
+  mutate(Season = 12)
+```
+
+```{r, include=FALSE}
+# binding all dfs and changing names in a way that I can row bind the data frame with the original df provided
+dat20_22 <- dplyr::bind_rows(T1_1_,T1,P1_1_,P1,SP2_1_,SP1_1_,SP2,SP1,I2_1_,I1_1_,I2,I1,D2_1_,D1_2_,D2,D1_1_,E1_1_,E1,E0_1,E0)
+colnames(dat20_22)[colnames(dat20_22)      # Rename two variable names
+                   %in% c("Div", "HomeTeam","AwayTeam","FTHG","FTAG","Avg>2.5","Avg<2.5")] <- c("Division", "Home","Away","HG","AG","Avg.2.5","Avg.2.5.1")
+dat20_22$Division[dat20_22$Division == "SP1"] <- "S1"
+dat20_22$Division[dat20_22$Division == "SP2"] <- "S2" # some variable names had to be changed like Spain is abbreviated S and Sp sometimes
+```
+
+### Data manipulation
+```{r, include=FALSE}
+# This is needed to obtain the DVs of interest
+dat20_22 <- dat20_22 %>%
+ mutate(AP = case_when(dat20_22$FTR=="D" ~ 1,
+                        dat20_22$FTR=="A" ~ 3,
+                        dat20_22$FTR=="H" ~ 0)) %>%
+   mutate(HP = case_when(dat20_22$FTR=="D" ~ 1,
+                        dat20_22$FTR=="H" ~ 3,
+                        dat20_22$FTR=="A" ~ 0)) %>%
+  mutate(Covid19 = case_when(dat20_22$Season==11 ~ "No",
+                        dat20_22$Season==12 ~ "Yes")) %>%
+  mutate(ProbH = (1/AvgH)/((1/AvgH)+(1/AvgD)+(1/AvgA))) %>% # the following three lines include the normalization for betting odds which is the most common technique to handle betting odds in order to control for the arbitrage
+  mutate(ProbD = (1/AvgD)/((1/AvgH)+(1/AvgD)+(1/AvgA))) %>%
+  mutate(ProbA = (1/AvgA)/((1/AvgH)+(1/AvgD)+(1/AvgA))) %>%
+  mutate(HEP = ProbH*3 + ProbD) %>%
+  mutate(AEP = ProbA*3 + ProbD) %>%
+  mutate(goalsDiff = HG - AG) %>%
+  mutate(shotsDiff = HS - AS) %>%
+  mutate(shotsTargetDiff = HST - AST) %>%
+  mutate(pointsDiff = HP - AP) %>%
+  mutate(expPointsDiff = HEP - AEP) %>%
+  mutate(foulsDiff = HF - AF) %>%
+  mutate(yellowDiff = HY - AY) %>%
+  mutate(redDiff = HR - AR) %>%
+  mutate(Season_c = Season - 12)
+```
+
+```{r, include=FALSE}
+# again bringing the data in the right format to have the exact same number of columns
+dat20_22 <- dat20_22 %>%
+  select(Division,Season,Date,Covid19,Home,Away,HG,AG,HS,AS,HST,AST,HF,AF,HY,AY,HR,AR,AvgH,AvgD,AvgA,`Avg.2.5`,`Avg.2.5.1`,HP,AP,ProbH,ProbD,ProbA,HEP,AEP,goalsDiff,shotsDiff,shotsTargetDiff,pointsDiff,expPointsDiff,foulsDiff,yellowDiff,redDiff,Season_c)
+```
+
+```{r}
+dat <- dat %>%
+  mutate(Season_c = Season -12) %>%
+   select(Division,Season,Date,Spectators,Home,Away,HG,AG,HS,AS,HST,AST,HF,AF,HY,AY,HR,AR,AvgH,AvgD,AvgA,`Avg.2.5`,`Avg.2.5.1`,HP,AP,ProbH,ProbD,ProbA,HEP,AEP,goalsDiff,shotsDiff,shotsTargetDiff,pointsDiff,expPointsDiff,foulsDiff,yellowDiff,redDiff,Season_c)
+
+colnames(dat)[4] <- "Covid19"
+```
+
+### Combining both data frames
+```{r, include=FALSE}
+# binding the two dfs
+dat_new <- rbind(dat,dat20_22)
+# write.csv(dat_new,"Data/dat_new.csv") 
+# with the last line you can save the file as a csv, just get rid of the #
+```
+
+## Premier League continious attendance data 
+
+```{r, include=FALSE}
+# NEW PART OF PREP
+# This part contains the code to get the Data for the attendance in the premier league
+# All dfs are in the data file as well
+E0_12 <- read_delim("Data/Data_each_season_attendance/E0_12.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_12 <- E0_12 %>%
+dplyr::select(Capacity, Spectators)
+E0_11 <- read_delim("Data/Data_each_season_attendance/E0_11.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_11 <- E0_11 %>%
+dplyr::select(Capacity, Spectators)
+E0_10 <- read_delim("Data/Data_each_season_attendance/E0_10.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_10 <- E0_10 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_9 <- read_delim("Data/Data_each_season_attendance/E0_9.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_9 <- E0_9 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_8 <- read_delim("Data/Data_each_season_attendance/E0_8.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_8 <- E0_8 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_7 <- read_delim("Data/Data_each_season_attendance/E0_7.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_7 <- E0_7 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_6 <- read_delim("Data/Data_each_season_attendance/E0_6.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_6 <- E0_6 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_5 <- read_delim("Data/Data_each_season_attendance/E0_5.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_5 <- E0_5 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_4 <- E0_4 <- read_delim("Data/Data_each_season_attendance/E0_4.csv", 
+    delim = ";", escape_double = FALSE, trim_ws = TRUE)
+E0_4 <- E0_4 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_3 <- read_delim("Data/Data_each_season_attendance/E0_3.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_3 <- E0_3 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_2 <- read_delim("Data/Data_each_season_attendance/E0_2.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_2 <- E0_2 %>%
+dplyr::select(Capacity, Spectators)
+
+E0_1 <- read_delim("Data/Data_each_season_attendance/E0_1.csv", delim = ";", 
+    escape_double = FALSE, col_types = cols(Capacity = col_integer(), 
+        Spectators = col_integer()), trim_ws = TRUE)
+E0_1 <- E0_1 %>%
+dplyr::select(Capacity, Spectators)
+```
+
+```{r, include=FALSE}
+# filtering the original data with the new data in order to bind the 
+E0_10_ <- filter(dat_new, Season_c == 0 & Division == "E0")
+E0_11_ <- filter(dat_new, Season_c == -1 & Division == "E0")
+E0_12_ <- filter(dat_new, Season_c == -2 & Division == "E0")
+E0_13_ <- filter(dat_new, Season_c == -3 & Division == "E0")
+E0_14_ <- filter(dat_new, Season_c == -4 & Division == "E0")
+E0_15_ <- filter(dat_new, Season_c == -5 & Division == "E0")
+E0_16_ <- filter(dat_new, Season_c == -6 & Division == "E0")
+E0_17_ <- filter(dat_new, Season_c == -7 & Division == "E0")
+E0_18_ <- filter(dat_new, Season_c == -8 & Division == "E0")
+E0_19_ <- filter(dat_new, Season_c == -9 & Division == "E0")
+E0_20_ <- filter(dat_new, Season_c == -10 & Division == "E0")
+E0_21_ <- filter(dat_new, Season_c == -11 & Division == "E0")
+
+# binding the columns of the df
+E0_12 <- cbind(E0_12,E0_10_)
+E0_11 <- cbind(E0_11,E0_11_)
+E0_10 <- cbind(E0_10,E0_12_)
+E0_9 <- cbind(E0_9,E0_13_)
+E0_8 <- cbind(E0_8,E0_14_)
+E0_7 <- cbind(E0_7,E0_15_)
+E0_6 <- cbind(E0_6,E0_16_)
+E0_5 <- cbind(E0_5,E0_17_)
+E0_4 <- cbind(E0_4,E0_18_)
+E0_3<- cbind(E0_3,E0_19_)
+E0_2 <- cbind(E0_2,E0_20_)
+E0_1 <- cbind(E0_1,E0_21_)
+# I did this the hard coding way in order to mitigate mistakes as I checked whether I had exactly the same number of rows for each season. I would normally use a merge command, but here as the data comes from multiple sources I chose this way.
+```
+
+```{r, include=FALSE}
+# bind all dfs to have one dataframe with the attendance information for england
+E0 <- dplyr::bind_rows(E0_12,E0_11,E0_10,E0_9,E0_8,E0_7,E0_6,E0_5,E0_4,E0_3,E0_2,E0_1)
+```
+
+```{r, include=FALSE}
+# calculate the two variables of interest, which will mainly be used to evaluate the effect of fans
+E0 <- E0 %>%
+  mutate(Covid = case_when(E0$Spectators<10000 ~ "Yes", # I could use this classification as in the Premier League in the last 12 years there haven't been a single game with normal attendance regulations with less than 10.000 spectators
+                        E0$Spectators>=10000 ~ "No")) %>%
+  mutate(Occupancy = Spectators/Capacity)
+
+E0 <- E0 %>%
+  dplyr::select(Division,Season,Capacity,Spectators,Covid,Occupancy,Date,Home,Away,HG,AG,HS,AS,HST,AST,HF,AF,HY,AY,HR,AR,AvgH,AvgD,AvgA,`Avg.2.5`,`Avg.2.5.1`,HP,AP,ProbH,ProbD,ProbA,HEP,AEP,goalsDiff,shotsDiff,shotsTargetDiff,pointsDiff,expPointsDiff,foulsDiff,yellowDiff,redDiff,Season_c)
+
+# write.csv(E0,"Data/E0_full.csv")
+# with the last line you can save the file as a csv, just get rid of the #
+```
+
+
+
+
+
+
+
+
+

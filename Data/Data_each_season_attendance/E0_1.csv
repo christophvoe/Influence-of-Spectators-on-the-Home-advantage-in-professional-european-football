@@ -1,0 +1,381 @@
+Div;Season;Capacity;Spectators;Date;HomeTeam;AwayTeam
+E0;1;42682;37194;14.08.2010;Aston Villa;West Ham
+E0;1;31367;25000;14.08.2010;Blackburn;Everton
+E0;1;28723;22870;14.08.2010;Bolton;Fulham
+E0;1;42000;41435;14.08.2010;Chelsea;West Brom
+E0;1;48707;40011;14.08.2010;Sunderland;Birmingham
+E0;1;36284;35704;14.08.2010;Tottenham;Man City
+E0;1;25133;16812;14.08.2010;Wigan;Blackpool
+E0;1;32050;27696;14.08.2010;Wolves;Stoke
+E0;1;45000;42820;15.08.2010;Liverpool;Arsenal
+E0;1;75800;75109;16.08.2010;Man United;Newcastle
+E0;1;60704;60025;21.08.2010;Arsenal;Blackpool
+E0;1;29409;25462;21.08.2010;Birmingham;Blackburn
+E0;1;39571;35934;21.08.2010;Everton;Wolves
+E0;1;30089;26858;21.08.2010;Stoke;Tottenham
+E0;1;26850;24683;21.08.2010;West Brom;Sunderland
+E0;1;35345;33404;21.08.2010;West Ham;Bolton
+E0;1;25133;16812;21.08.2010;Wigan;Chelsea
+E0;1;25800;25043;22.08.2010;Fulham;Man United
+E0;1;52338;47718;22.08.2010;Newcastle;Aston Villa
+E0;1;48000;45905;23.08.2010;Man City;Liverpool
+E0;1;31367;25000;28.08.2010;Blackburn;Arsenal
+E0;1;16220;15780;28.08.2010;Blackpool;Fulham
+E0;1;42000;41435;28.08.2010;Chelsea;Stoke
+E0;1;75800;75109;28.08.2010;Man United;West Ham
+E0;1;36284;35704;28.08.2010;Tottenham;Wigan
+E0;1;32050;27696;28.08.2010;Wolves;Newcastle
+E0;1;42682;37194;29.08.2010;Aston Villa;Everton
+E0;1;28723;22870;29.08.2010;Bolton;Birmingham
+E0;1;45000;42820;29.08.2010;Liverpool;West Brom
+E0;1;48707;40011;29.08.2010;Sunderland;Man City
+E0;1;60704;60025;11.09.2010;Arsenal;Bolton
+E0;1;39571;35934;11.09.2010;Everton;Man United
+E0;1;25800;25043;11.09.2010;Fulham;Wolves
+E0;1;48000;45905;11.09.2010;Man City;Blackburn
+E0;1;52338;47718;11.09.2010;Newcastle;Blackpool
+E0;1;26850;24683;11.09.2010;West Brom;Tottenham
+E0;1;35345;33404;11.09.2010;West Ham;Chelsea
+E0;1;25133;16812;11.09.2010;Wigan;Sunderland
+E0;1;29409;25462;12.09.2010;Birmingham;Liverpool
+E0;1;30089;26858;13.09.2010;Stoke;Aston Villa
+E0;1;42682;37194;18.09.2010;Aston Villa;Bolton
+E0;1;31367;25000;18.09.2010;Blackburn;Fulham
+E0;1;39571;35934;18.09.2010;Everton;Newcastle
+E0;1;30089;26858;18.09.2010;Stoke;West Ham
+E0;1;48707;40011;18.09.2010;Sunderland;Arsenal
+E0;1;36284;35704;18.09.2010;Tottenham;Wolves
+E0;1;26850;24683;18.09.2010;West Brom;Birmingham
+E0;1;42000;41435;19.09.2010;Chelsea;Blackpool
+E0;1;75800;75109;19.09.2010;Man United;Liverpool
+E0;1;25133;16812;19.09.2010;Wigan;Man City
+E0;1;60704;60025;25.09.2010;Arsenal;West Brom
+E0;1;29409;25462;25.09.2010;Birmingham;Wigan
+E0;1;16220;15780;25.09.2010;Blackpool;Blackburn
+E0;1;25800;25043;25.09.2010;Fulham;Everton
+E0;1;45000;42820;25.09.2010;Liverpool;Sunderland
+E0;1;48000;45905;25.09.2010;Man City;Chelsea
+E0;1;35345;33404;25.09.2010;West Ham;Tottenham
+E0;1;28723;22870;26.09.2010;Bolton;Man United
+E0;1;52338;47718;26.09.2010;Newcastle;Stoke
+E0;1;32050;27696;26.09.2010;Wolves;Aston Villa
+E0;1;29409;25462;02.10.2010;Birmingham;Everton
+E0;1;30089;26858;02.10.2010;Stoke;Blackburn
+E0;1;48707;40011;02.10.2010;Sunderland;Man United
+E0;1;36284;35704;02.10.2010;Tottenham;Aston Villa
+E0;1;26850;24683;02.10.2010;West Brom;Bolton
+E0;1;35345;33404;02.10.2010;West Ham;Fulham
+E0;1;25133;16812;02.10.2010;Wigan;Wolves
+E0;1;42000;41435;03.10.2010;Chelsea;Arsenal
+E0;1;45000;42820;03.10.2010;Liverpool;Blackpool
+E0;1;48000;45905;03.10.2010;Man City;Newcastle
+E0;1;60704;60025;16.10.2010;Arsenal;Birmingham
+E0;1;42682;37194;16.10.2010;Aston Villa;Chelsea
+E0;1;28723;22870;16.10.2010;Bolton;Stoke
+E0;1;25800;25043;16.10.2010;Fulham;Tottenham
+E0;1;75800;75109;16.10.2010;Man United;West Brom
+E0;1;52338;47718;16.10.2010;Newcastle;Wigan
+E0;1;32050;27696;16.10.2010;Wolves;West Ham
+E0;1;16220;15780;17.10.2010;Blackpool;Man City
+E0;1;39571;35934;17.10.2010;Everton;Liverpool
+E0;1;31367;25000;18.10.2010;Blackburn;Sunderland
+E0;1;29409;25462;23.10.2010;Birmingham;Blackpool
+E0;1;42000;41435;23.10.2010;Chelsea;Wolves
+E0;1;48707;40011;23.10.2010;Sunderland;Aston Villa
+E0;1;36284;35704;23.10.2010;Tottenham;Everton
+E0;1;26850;24683;23.10.2010;West Brom;Fulham
+E0;1;35345;33404;23.10.2010;West Ham;Newcastle
+E0;1;25133;16812;23.10.2010;Wigan;Bolton
+E0;1;45000;42820;24.10.2010;Liverpool;Blackburn
+E0;1;48000;45905;24.10.2010;Man City;Arsenal
+E0;1;30089;26858;24.10.2010;Stoke;Man United
+E0;1;60704;60025;30.10.2010;Arsenal;West Ham
+E0;1;31367;25000;30.10.2010;Blackburn;Chelsea
+E0;1;39571;35934;30.10.2010;Everton;Stoke
+E0;1;25800;25043;30.10.2010;Fulham;Wigan
+E0;1;75800;75109;30.10.2010;Man United;Tottenham
+E0;1;32050;27696;30.10.2010;Wolves;Man City
+E0;1;42682;37194;31.10.2010;Aston Villa;Birmingham
+E0;1;28723;22870;31.10.2010;Bolton;Liverpool
+E0;1;52338;47718;31.10.2010;Newcastle;Sunderland
+E0;1;16220;15780;01.11.2010;Blackpool;West Brom
+E0;1;29409;25462;06.11.2010;Birmingham;West Ham
+E0;1;31367;25000;06.11.2010;Blackburn;Wigan
+E0;1;16220;15780;06.11.2010;Blackpool;Everton
+E0;1;28723;22870;06.11.2010;Bolton;Tottenham
+E0;1;25800;25043;06.11.2010;Fulham;Aston Villa
+E0;1;75800;75109;06.11.2010;Man United;Wolves
+E0;1;48707;40011;06.11.2010;Sunderland;Stoke
+E0;1;60704;60025;07.11.2010;Arsenal;Newcastle
+E0;1;45000;42820;07.11.2010;Liverpool;Chelsea
+E0;1;26850;24683;07.11.2010;West Brom;Man City
+E0;1;30089;26858;09.11.2010;Stoke;Birmingham
+E0;1;36284;35704;09.11.2010;Tottenham;Sunderland
+E0;1;42682;37194;10.11.2010;Aston Villa;Blackpool
+E0;1;42000;41435;10.11.2010;Chelsea;Fulham
+E0;1;39571;35934;10.11.2010;Everton;Bolton
+E0;1;48000;45905;10.11.2010;Man City;Man United
+E0;1;52338;47718;10.11.2010;Newcastle;Blackburn
+E0;1;35345;33404;10.11.2010;West Ham;West Brom
+E0;1;25133;16812;10.11.2010;Wigan;Liverpool
+E0;1;32050;27696;10.11.2010;Wolves;Arsenal
+E0;1;42682;37194;13.11.2010;Aston Villa;Man United
+E0;1;48000;45905;13.11.2010;Man City;Birmingham
+E0;1;52338;47718;13.11.2010;Newcastle;Fulham
+E0;1;30089;26858;13.11.2010;Stoke;Liverpool
+E0;1;36284;35704;13.11.2010;Tottenham;Blackburn
+E0;1;35345;33404;13.11.2010;West Ham;Blackpool
+E0;1;25133;16812;13.11.2010;Wigan;West Brom
+E0;1;32050;27696;13.11.2010;Wolves;Bolton
+E0;1;42000;41435;14.11.2010;Chelsea;Sunderland
+E0;1;39571;35934;14.11.2010;Everton;Arsenal
+E0;1;60704;60025;20.11.2010;Arsenal;Tottenham
+E0;1;29409;25462;20.11.2010;Birmingham;Chelsea
+E0;1;16220;15780;20.11.2010;Blackpool;Wolves
+E0;1;28723;22870;20.11.2010;Bolton;Newcastle
+E0;1;45000;42820;20.11.2010;Liverpool;West Ham
+E0;1;75800;75109;20.11.2010;Man United;Wigan
+E0;1;26850;24683;20.11.2010;West Brom;Stoke
+E0;1;31367;25000;21.11.2010;Blackburn;Aston Villa
+E0;1;25800;25043;21.11.2010;Fulham;Man City
+E0;1;48707;40011;22.11.2010;Sunderland;Everton
+E0;1;42682;37194;27.11.2010;Aston Villa;Arsenal
+E0;1;28723;22870;27.11.2010;Bolton;Blackpool
+E0;1;39571;35934;27.11.2010;Everton;West Brom
+E0;1;25800;25043;27.11.2010;Fulham;Birmingham
+E0;1;75800;75109;27.11.2010;Man United;Blackburn
+E0;1;30089;26858;27.11.2010;Stoke;Man City
+E0;1;35345;33404;27.11.2010;West Ham;Wigan
+E0;1;32050;27696;27.11.2010;Wolves;Sunderland
+E0;1;52338;47718;28.11.2010;Newcastle;Chelsea
+E0;1;36284;35704;28.11.2010;Tottenham;Liverpool
+E0;1;60704;60025;04.12.2010;Arsenal;Fulham
+E0;1;29409;25462;04.12.2010;Birmingham;Tottenham
+E0;1;31367;25000;04.12.2010;Blackburn;Wolves
+E0;1;42000;41435;04.12.2010;Chelsea;Everton
+E0;1;48000;45905;04.12.2010;Man City;Bolton
+E0;1;25133;16812;04.12.2010;Wigan;Stoke
+E0;1;48707;40011;05.12.2010;Sunderland;West Ham
+E0;1;26850;24683;05.12.2010;West Brom;Newcastle
+E0;1;45000;42820;06.12.2010;Liverpool;Aston Villa
+E0;1;42682;37194;11.12.2010;Aston Villa;West Brom
+E0;1;39571;35934;11.12.2010;Everton;Wigan
+E0;1;25800;25043;11.12.2010;Fulham;Sunderland
+E0;1;52338;47718;11.12.2010;Newcastle;Liverpool
+E0;1;30089;26858;11.12.2010;Stoke;Blackpool
+E0;1;35345;33404;11.12.2010;West Ham;Man City
+E0;1;28723;22870;12.12.2010;Bolton;Blackburn
+E0;1;36284;35704;12.12.2010;Tottenham;Chelsea
+E0;1;32050;27696;12.12.2010;Wolves;Birmingham
+E0;1;75800;75109;13.12.2010;Man United;Arsenal
+E0;1;31367;25000;18.12.2010;Blackburn;West Ham
+E0;1;48707;40011;18.12.2010;Sunderland;Bolton
+E0;1;48000;45905;20.12.2010;Man City;Everton
+E0;1;42682;37194;26.12.2010;Aston Villa;Tottenham
+E0;1;31367;25000;26.12.2010;Blackburn;Stoke
+E0;1;28723;22870;26.12.2010;Bolton;West Brom
+E0;1;25800;25043;26.12.2010;Fulham;West Ham
+E0;1;75800;75109;26.12.2010;Man United;Sunderland
+E0;1;52338;47718;26.12.2010;Newcastle;Man City
+E0;1;32050;27696;26.12.2010;Wolves;Wigan
+E0;1;60704;60025;27.12.2010;Arsenal;Chelsea
+E0;1;29409;25462;28.12.2010;Birmingham;Man United
+E0;1;48000;45905;28.12.2010;Man City;Aston Villa
+E0;1;30089;26858;28.12.2010;Stoke;Fulham
+E0;1;48707;40011;28.12.2010;Sunderland;Blackpool
+E0;1;36284;35704;28.12.2010;Tottenham;Newcastle
+E0;1;26850;24683;28.12.2010;West Brom;Blackburn
+E0;1;35345;33404;28.12.2010;West Ham;Everton
+E0;1;42000;41435;29.12.2010;Chelsea;Bolton
+E0;1;45000;42820;29.12.2010;Liverpool;Wolves
+E0;1;25133;16812;29.12.2010;Wigan;Arsenal
+E0;1;29409;25462;01.01.2011;Birmingham;Arsenal
+E0;1;45000;42820;01.01.2011;Liverpool;Bolton
+E0;1;48000;45905;01.01.2011;Man City;Blackpool
+E0;1;30089;26858;01.01.2011;Stoke;Everton
+E0;1;48707;40011;01.01.2011;Sunderland;Blackburn
+E0;1;36284;35704;01.01.2011;Tottenham;Fulham
+E0;1;26850;24683;01.01.2011;West Brom;Man United
+E0;1;35345;33404;01.01.2011;West Ham;Wolves
+E0;1;42000;41435;02.01.2011;Chelsea;Aston Villa
+E0;1;25133;16812;02.01.2011;Wigan;Newcastle
+E0;1;16220;15780;04.01.2011;Blackpool;Birmingham
+E0;1;25800;25043;04.01.2011;Fulham;West Brom
+E0;1;75800;75109;04.01.2011;Man United;Stoke
+E0;1;60704;60025;05.01.2011;Arsenal;Man City
+E0;1;42682;37194;05.01.2011;Aston Villa;Sunderland
+E0;1;31367;25000;05.01.2011;Blackburn;Liverpool
+E0;1;28723;22870;05.01.2011;Bolton;Wigan
+E0;1;39571;35934;05.01.2011;Everton;Tottenham
+E0;1;52338;47718;05.01.2011;Newcastle;West Ham
+E0;1;32050;27696;05.01.2011;Wolves;Chelsea
+E0;1;16220;15780;12.01.2011;Blackpool;Liverpool
+E0;1;42000;41435;15.01.2011;Chelsea;Blackburn
+E0;1;48000;45905;15.01.2011;Man City;Wolves
+E0;1;30089;26858;15.01.2011;Stoke;Bolton
+E0;1;26850;24683;15.01.2011;West Brom;Blackpool
+E0;1;35345;33404;15.01.2011;West Ham;Arsenal
+E0;1;25133;16812;15.01.2011;Wigan;Fulham
+E0;1;29409;25462;16.01.2011;Birmingham;Aston Villa
+E0;1;45000;42820;16.01.2011;Liverpool;Everton
+E0;1;48707;40011;16.01.2011;Sunderland;Newcastle
+E0;1;36284;35704;16.01.2011;Tottenham;Man United
+E0;1;60704;60025;22.01.2011;Arsenal;Wigan
+E0;1;42682;37194;22.01.2011;Aston Villa;Man City
+E0;1;16220;15780;22.01.2011;Blackpool;Sunderland
+E0;1;39571;35934;22.01.2011;Everton;West Ham
+E0;1;25800;25043;22.01.2011;Fulham;Stoke
+E0;1;75800;75109;22.01.2011;Man United;Birmingham
+E0;1;52338;47718;22.01.2011;Newcastle;Tottenham
+E0;1;32050;27696;22.01.2011;Wolves;Liverpool
+E0;1;31367;25000;23.01.2011;Blackburn;West Brom
+E0;1;28723;22870;24.01.2011;Bolton;Chelsea
+E0;1;16220;15780;25.01.2011;Blackpool;Man United
+E0;1;25133;16812;25.01.2011;Wigan;Aston Villa
+E0;1;45000;42820;26.01.2011;Liverpool;Fulham
+E0;1;60704;60025;01.02.2011;Arsenal;Everton
+E0;1;75800;75109;01.02.2011;Man United;Aston Villa
+E0;1;48707;40011;01.02.2011;Sunderland;Chelsea
+E0;1;26850;24683;01.02.2011;West Brom;Wigan
+E0;1;29409;25462;02.02.2011;Birmingham;Man City
+E0;1;31367;25000;02.02.2011;Blackburn;Tottenham
+E0;1;16220;15780;02.02.2011;Blackpool;West Ham
+E0;1;28723;22870;02.02.2011;Bolton;Wolves
+E0;1;25800;25043;02.02.2011;Fulham;Newcastle
+E0;1;45000;42820;02.02.2011;Liverpool;Stoke
+E0;1;42682;37194;05.02.2011;Aston Villa;Fulham
+E0;1;39571;35934;05.02.2011;Everton;Blackpool
+E0;1;48000;45905;05.02.2011;Man City;West Brom
+E0;1;52338;47718;05.02.2011;Newcastle;Arsenal
+E0;1;30089;26858;05.02.2011;Stoke;Sunderland
+E0;1;36284;35704;05.02.2011;Tottenham;Bolton
+E0;1;25133;16812;05.02.2011;Wigan;Blackburn
+E0;1;32050;27696;05.02.2011;Wolves;Man United
+E0;1;42000;41435;06.02.2011;Chelsea;Liverpool
+E0;1;35345;33404;06.02.2011;West Ham;Birmingham
+E0;1;60704;60025;12.02.2011;Arsenal;Wolves
+E0;1;29409;25462;12.02.2011;Birmingham;Stoke
+E0;1;31367;25000;12.02.2011;Blackburn;Newcastle
+E0;1;16220;15780;12.02.2011;Blackpool;Aston Villa
+E0;1;45000;42820;12.02.2011;Liverpool;Wigan
+E0;1;75800;75109;12.02.2011;Man United;Man City
+E0;1;48707;40011;12.02.2011;Sunderland;Tottenham
+E0;1;26850;24683;12.02.2011;West Brom;West Ham
+E0;1;28723;22870;13.02.2011;Bolton;Everton
+E0;1;25800;25043;14.02.2011;Fulham;Chelsea
+E0;1;29409;25462;15.02.2011;Birmingham;Newcastle
+E0;1;26850;24683;20.02.2011;West Brom;Wolves
+E0;1;16220;15780;22.02.2011;Blackpool;Tottenham
+E0;1;60704;60025;23.02.2011;Arsenal;Stoke
+E0;1;42682;37194;26.02.2011;Aston Villa;Blackburn
+E0;1;39571;35934;26.02.2011;Everton;Sunderland
+E0;1;52338;47718;26.02.2011;Newcastle;Bolton
+E0;1;25133;16812;26.02.2011;Wigan;Man United
+E0;1;32050;27696;26.02.2011;Wolves;Blackpool
+E0;1;48000;45905;27.02.2011;Man City;Fulham
+E0;1;35345;33404;27.02.2011;West Ham;Liverpool
+E0;1;30089;26858;28.02.2011;Stoke;West Brom
+E0;1;42000;41435;01.03.2011;Chelsea;Man United
+E0;1;60704;60025;05.03.2011;Arsenal;Sunderland
+E0;1;29409;25462;05.03.2011;Birmingham;West Brom
+E0;1;28723;22870;05.03.2011;Bolton;Aston Villa
+E0;1;25800;25043;05.03.2011;Fulham;Blackburn
+E0;1;48000;45905;05.03.2011;Man City;Wigan
+E0;1;52338;47718;05.03.2011;Newcastle;Everton
+E0;1;35345;33404;05.03.2011;West Ham;Stoke
+E0;1;45000;42820;06.03.2011;Liverpool;Man United
+E0;1;32050;27696;06.03.2011;Wolves;Tottenham
+E0;1;16220;15780;07.03.2011;Blackpool;Chelsea
+E0;1;39571;35934;09.03.2011;Everton;Birmingham
+E0;1;42682;37194;19.03.2011;Aston Villa;Wolves
+E0;1;31367;25000;19.03.2011;Blackburn;Blackpool
+E0;1;39571;35934;19.03.2011;Everton;Fulham
+E0;1;75800;75109;19.03.2011;Man United;Bolton
+E0;1;30089;26858;19.03.2011;Stoke;Newcastle
+E0;1;36284;35704;19.03.2011;Tottenham;West Ham
+E0;1;26850;24683;19.03.2011;West Brom;Arsenal
+E0;1;25133;16812;19.03.2011;Wigan;Birmingham
+E0;1;42000;41435;20.03.2011;Chelsea;Man City
+E0;1;48707;40011;20.03.2011;Sunderland;Liverpool
+E0;1;60704;60025;02.04.2011;Arsenal;Blackburn
+E0;1;29409;25462;02.04.2011;Birmingham;Bolton
+E0;1;39571;35934;02.04.2011;Everton;Aston Villa
+E0;1;52338;47718;02.04.2011;Newcastle;Wolves
+E0;1;30089;26858;02.04.2011;Stoke;Chelsea
+E0;1;26850;24683;02.04.2011;West Brom;Liverpool
+E0;1;35345;33404;02.04.2011;West Ham;Man United
+E0;1;25133;16812;02.04.2011;Wigan;Tottenham
+E0;1;25800;25043;03.04.2011;Fulham;Blackpool
+E0;1;48000;45905;03.04.2011;Man City;Sunderland
+E0;1;31367;25000;09.04.2011;Blackburn;Birmingham
+E0;1;28723;22870;09.04.2011;Bolton;West Ham
+E0;1;42000;41435;09.04.2011;Chelsea;Wigan
+E0;1;75800;75109;09.04.2011;Man United;Fulham
+E0;1;48707;40011;09.04.2011;Sunderland;West Brom
+E0;1;36284;35704;09.04.2011;Tottenham;Stoke
+E0;1;32050;27696;09.04.2011;Wolves;Everton
+E0;1;42682;37194;10.04.2011;Aston Villa;Newcastle
+E0;1;16220;15780;10.04.2011;Blackpool;Arsenal
+E0;1;45000;42820;11.04.2011;Liverpool;Man City
+E0;1;29409;25462;16.04.2011;Birmingham;Sunderland
+E0;1;16220;15780;16.04.2011;Blackpool;Wigan
+E0;1;39571;35934;16.04.2011;Everton;Blackburn
+E0;1;26850;24683;16.04.2011;West Brom;Chelsea
+E0;1;35345;33404;16.04.2011;West Ham;Aston Villa
+E0;1;60704;60025;17.04.2011;Arsenal;Liverpool
+E0;1;52338;47718;19.04.2011;Newcastle;Man United
+E0;1;42000;41435;20.04.2011;Chelsea;Birmingham
+E0;1;36284;35704;20.04.2011;Tottenham;Arsenal
+E0;1;42682;37194;23.04.2011;Aston Villa;Stoke
+E0;1;16220;15780;23.04.2011;Blackpool;Newcastle
+E0;1;42000;41435;23.04.2011;Chelsea;West Ham
+E0;1;45000;42820;23.04.2011;Liverpool;Birmingham
+E0;1;75800;75109;23.04.2011;Man United;Everton
+E0;1;48707;40011;23.04.2011;Sunderland;Wigan
+E0;1;36284;35704;23.04.2011;Tottenham;West Brom
+E0;1;32050;27696;23.04.2011;Wolves;Fulham
+E0;1;28723;22870;24.04.2011;Bolton;Arsenal
+E0;1;31367;25000;25.04.2011;Blackburn;Man City
+E0;1;30089;26858;26.04.2011;Stoke;Wolves
+E0;1;25800;25043;27.04.2011;Fulham;Bolton
+E0;1;31367;25000;30.04.2011;Blackburn;Bolton
+E0;1;16220;15780;30.04.2011;Blackpool;Stoke
+E0;1;42000;41435;30.04.2011;Chelsea;Tottenham
+E0;1;48707;40011;30.04.2011;Sunderland;Fulham
+E0;1;26850;24683;30.04.2011;West Brom;Aston Villa
+E0;1;25133;16812;30.04.2011;Wigan;Everton
+E0;1;60704;60025;01.05.2011;Arsenal;Man United
+E0;1;29409;25462;01.05.2011;Birmingham;Wolves
+E0;1;45000;42820;01.05.2011;Liverpool;Newcastle
+E0;1;48000;45905;01.05.2011;Man City;West Ham
+E0;1;42682;37194;07.05.2011;Aston Villa;Wigan
+E0;1;28723;22870;07.05.2011;Bolton;Sunderland
+E0;1;39571;35934;07.05.2011;Everton;Man City
+E0;1;52338;47718;07.05.2011;Newcastle;Birmingham
+E0;1;36284;35704;07.05.2011;Tottenham;Blackpool
+E0;1;35345;33404;07.05.2011;West Ham;Blackburn
+E0;1;75800;75109;08.05.2011;Man United;Chelsea
+E0;1;30089;26858;08.05.2011;Stoke;Arsenal
+E0;1;32050;27696;08.05.2011;Wolves;West Brom
+E0;1;25800;25043;09.05.2011;Fulham;Liverpool
+E0;1;48000;45905;10.05.2011;Man City;Tottenham
+E0;1;31367;25000;14.05.2011;Blackburn;Man United
+E0;1;16220;15780;14.05.2011;Blackpool;Bolton
+E0;1;48707;40011;14.05.2011;Sunderland;Wolves
+E0;1;26850;24683;14.05.2011;West Brom;Everton
+E0;1;60704;60025;15.05.2011;Arsenal;Aston Villa
+E0;1;29409;25462;15.05.2011;Birmingham;Fulham
+E0;1;42000;41435;15.05.2011;Chelsea;Newcastle
+E0;1;45000;42820;15.05.2011;Liverpool;Tottenham
+E0;1;25133;16812;15.05.2011;Wigan;West Ham
+E0;1;48000;45905;17.05.2011;Man City;Stoke
+E0;1;42682;37194;22.05.2011;Aston Villa;Liverpool
+E0;1;28723;22870;22.05.2011;Bolton;Man City
+E0;1;39571;35934;22.05.2011;Everton;Chelsea
+E0;1;25800;25043;22.05.2011;Fulham;Arsenal
+E0;1;75800;75109;22.05.2011;Man United;Blackpool
+E0;1;52338;47718;22.05.2011;Newcastle;West Brom
+E0;1;30089;26858;22.05.2011;Stoke;Wigan
+E0;1;36284;35704;22.05.2011;Tottenham;Birmingham
+E0;1;35345;33404;22.05.2011;West Ham;Sunderland
+E0;1;32050;27696;22.05.2011;Wolves;Blackburn

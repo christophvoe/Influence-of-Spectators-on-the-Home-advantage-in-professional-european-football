@@ -1,0 +1,381 @@
+Div;Season;Capacity;Spectators;Date;HomeTeam;AwayTeam
+E0;9;74879;74498;10.08.2018;Man United;Leicester
+E0;9;11329;10532;11.08.2018;Bournemouth;Cardiff
+E0;9;25000;24371;11.08.2018;Fulham;Crystal Palace
+E0;9;24500;23201;11.08.2018;Huddersfield;Chelsea
+E0;9;52338;51121;11.08.2018;Newcastle;Tottenham
+E0;9;21577;20016;11.08.2018;Watford;Brighton
+E0;9;32050;31030;11.08.2018;Wolves;Everton
+E0;9;60704;59899;12.08.2018;Arsenal;Man City
+E0;9;54074;52983;12.08.2018;Liverpool;West Ham
+E0;9;32384;30139;12.08.2018;Southampton;Burnley
+E0;9;33280;31413;18.08.2018;Cardiff;Newcastle
+E0;9;40853;40437;18.08.2018;Chelsea;Arsenal
+E0;9;39571;38780;18.08.2018;Everton;Southampton
+E0;9;32273;31851;18.08.2018;Leicester;Wolves
+E0;9;62062;54216;18.08.2018;Tottenham;Fulham
+E0;9;60000;58336;18.08.2018;West Ham;Bournemouth
+E0;9;31800;30426;19.08.2018;Brighton;Man United
+E0;9;21994;20534;19.08.2018;Burnley;Watford
+E0;9;55017;54130;19.08.2018;Man City;Huddersfield
+E0;9;26047;25455;20.08.2018;Crystal Palace;Liverpool
+E0;9;60704;59899;25.08.2018;Arsenal;West Ham
+E0;9;11329;10532;25.08.2018;Bournemouth;Everton
+E0;9;24500;23201;25.08.2018;Huddersfield;Cardiff
+E0;9;54074;52983;25.08.2018;Liverpool;Brighton
+E0;9;32384;30139;25.08.2018;Southampton;Leicester
+E0;9;32050;31030;25.08.2018;Wolves;Man City
+E0;9;25000;24371;26.08.2018;Fulham;Burnley
+E0;9;52338;51121;26.08.2018;Newcastle;Chelsea
+E0;9;21577;20016;26.08.2018;Watford;Crystal Palace
+E0;9;74879;74498;27.08.2018;Man United;Tottenham
+E0;9;31800;30426;01.09.2018;Brighton;Fulham
+E0;9;40853;40437;01.09.2018;Chelsea;Bournemouth
+E0;9;26047;25455;01.09.2018;Crystal Palace;Southampton
+E0;9;39571;38780;01.09.2018;Everton;Huddersfield
+E0;9;32273;31851;01.09.2018;Leicester;Liverpool
+E0;9;55017;54130;01.09.2018;Man City;Newcastle
+E0;9;60000;58336;01.09.2018;West Ham;Wolves
+E0;9;21994;20534;02.09.2018;Burnley;Man United
+E0;9;33280;31413;02.09.2018;Cardiff;Arsenal
+E0;9;21577;20016;02.09.2018;Watford;Tottenham
+E0;9;11329;10532;15.09.2018;Bournemouth;Leicester
+E0;9;40853;40437;15.09.2018;Chelsea;Cardiff
+E0;9;24500;23201;15.09.2018;Huddersfield;Crystal Palace
+E0;9;55017;54130;15.09.2018;Man City;Fulham
+E0;9;52338;51121;15.09.2018;Newcastle;Arsenal
+E0;9;62062;54216;15.09.2018;Tottenham;Liverpool
+E0;9;21577;20016;15.09.2018;Watford;Man United
+E0;9;39571;38780;16.09.2018;Everton;West Ham
+E0;9;32050;31030;16.09.2018;Wolves;Burnley
+E0;9;32384;30139;17.09.2018;Southampton;Brighton
+E0;9;31800;30426;22.09.2018;Brighton;Tottenham
+E0;9;21994;20534;22.09.2018;Burnley;Bournemouth
+E0;9;33280;31413;22.09.2018;Cardiff;Man City
+E0;9;26047;25455;22.09.2018;Crystal Palace;Newcastle
+E0;9;25000;24371;22.09.2018;Fulham;Watford
+E0;9;32273;31851;22.09.2018;Leicester;Huddersfield
+E0;9;54074;52983;22.09.2018;Liverpool;Southampton
+E0;9;74879;74498;22.09.2018;Man United;Wolves
+E0;9;60704;59899;23.09.2018;Arsenal;Everton
+E0;9;60000;58336;23.09.2018;West Ham;Chelsea
+E0;9;60704;59899;29.09.2018;Arsenal;Watford
+E0;9;40853;40437;29.09.2018;Chelsea;Liverpool
+E0;9;39571;38780;29.09.2018;Everton;Fulham
+E0;9;24500;23201;29.09.2018;Huddersfield;Tottenham
+E0;9;55017;54130;29.09.2018;Man City;Brighton
+E0;9;52338;51121;29.09.2018;Newcastle;Leicester
+E0;9;60000;58336;29.09.2018;West Ham;Man United
+E0;9;32050;31030;29.09.2018;Wolves;Southampton
+E0;9;33280;31413;30.09.2018;Cardiff;Burnley
+E0;9;11329;10532;01.10.2018;Bournemouth;Crystal Palace
+E0;9;31800;30426;05.10.2018;Brighton;West Ham
+E0;9;21994;20534;06.10.2018;Burnley;Huddersfield
+E0;9;26047;25455;06.10.2018;Crystal Palace;Wolves
+E0;9;32273;31851;06.10.2018;Leicester;Everton
+E0;9;74879;74498;06.10.2018;Man United;Newcastle
+E0;9;62062;54216;06.10.2018;Tottenham;Cardiff
+E0;9;21577;20016;06.10.2018;Watford;Bournemouth
+E0;9;25000;24371;07.10.2018;Fulham;Arsenal
+E0;9;54074;52983;07.10.2018;Liverpool;Man City
+E0;9;32384;30139;07.10.2018;Southampton;Chelsea
+E0;9;11329;10532;20.10.2018;Bournemouth;Southampton
+E0;9;33280;31413;20.10.2018;Cardiff;Fulham
+E0;9;40853;40437;20.10.2018;Chelsea;Man United
+E0;9;24500;23201;20.10.2018;Huddersfield;Liverpool
+E0;9;55017;54130;20.10.2018;Man City;Burnley
+E0;9;52338;51121;20.10.2018;Newcastle;Brighton
+E0;9;60000;58336;20.10.2018;West Ham;Tottenham
+E0;9;32050;31030;20.10.2018;Wolves;Watford
+E0;9;39571;38780;21.10.2018;Everton;Crystal Palace
+E0;9;60704;59899;22.10.2018;Arsenal;Leicester
+E0;9;31800;30426;27.10.2018;Brighton;Wolves
+E0;9;25000;24371;27.10.2018;Fulham;Bournemouth
+E0;9;32273;31851;27.10.2018;Leicester;West Ham
+E0;9;54074;52983;27.10.2018;Liverpool;Cardiff
+E0;9;32384;30139;27.10.2018;Southampton;Newcastle
+E0;9;21577;20016;27.10.2018;Watford;Huddersfield
+E0;9;21994;20534;28.10.2018;Burnley;Chelsea
+E0;9;26047;25455;28.10.2018;Crystal Palace;Arsenal
+E0;9;74879;74498;28.10.2018;Man United;Everton
+E0;9;62062;54216;29.10.2018;Tottenham;Man City
+E0;9;60704;59899;03.11.2018;Arsenal;Liverpool
+E0;9;11329;10532;03.11.2018;Bournemouth;Man United
+E0;9;33280;31413;03.11.2018;Cardiff;Leicester
+E0;9;39571;38780;03.11.2018;Everton;Brighton
+E0;9;52338;51121;03.11.2018;Newcastle;Watford
+E0;9;60000;58336;03.11.2018;West Ham;Burnley
+E0;9;32050;31030;03.11.2018;Wolves;Tottenham
+E0;9;40853;40437;04.11.2018;Chelsea;Crystal Palace
+E0;9;55017;54130;04.11.2018;Man City;Southampton
+E0;9;24500;23201;05.11.2018;Huddersfield;Fulham
+E0;9;33280;31413;10.11.2018;Cardiff;Brighton
+E0;9;26047;25455;10.11.2018;Crystal Palace;Tottenham
+E0;9;24500;23201;10.11.2018;Huddersfield;West Ham
+E0;9;32273;31851;10.11.2018;Leicester;Burnley
+E0;9;52338;51121;10.11.2018;Newcastle;Bournemouth
+E0;9;32384;30139;10.11.2018;Southampton;Watford
+E0;9;60704;59899;11.11.2018;Arsenal;Wolves
+E0;9;40853;40437;11.11.2018;Chelsea;Everton
+E0;9;54074;52983;11.11.2018;Liverpool;Fulham
+E0;9;55017;54130;11.11.2018;Man City;Man United
+E0;9;31800;30426;24.11.2018;Brighton;Leicester
+E0;9;39571;38780;24.11.2018;Everton;Cardiff
+E0;9;25000;24371;24.11.2018;Fulham;Southampton
+E0;9;74879;74498;24.11.2018;Man United;Crystal Palace
+E0;9;62062;54216;24.11.2018;Tottenham;Chelsea
+E0;9;21577;20016;24.11.2018;Watford;Liverpool
+E0;9;60000;58336;24.11.2018;West Ham;Man City
+E0;9;11329;10532;25.11.2018;Bournemouth;Arsenal
+E0;9;32050;31030;25.11.2018;Wolves;Huddersfield
+E0;9;21994;20534;26.11.2018;Burnley;Newcastle
+E0;9;33280;31413;30.11.2018;Cardiff;Wolves
+E0;9;26047;25455;01.12.2018;Crystal Palace;Burnley
+E0;9;24500;23201;01.12.2018;Huddersfield;Brighton
+E0;9;32273;31851;01.12.2018;Leicester;Watford
+E0;9;55017;54130;01.12.2018;Man City;Bournemouth
+E0;9;52338;51121;01.12.2018;Newcastle;West Ham
+E0;9;32384;30139;01.12.2018;Southampton;Man United
+E0;9;60704;59899;02.12.2018;Arsenal;Tottenham
+E0;9;40853;40437;02.12.2018;Chelsea;Fulham
+E0;9;54074;52983;02.12.2018;Liverpool;Everton
+E0;9;11329;10532;04.12.2018;Bournemouth;Huddersfield
+E0;9;31800;30426;04.12.2018;Brighton;Crystal Palace
+E0;9;21577;20016;04.12.2018;Watford;Man City
+E0;9;60000;58336;04.12.2018;West Ham;Cardiff
+E0;9;21994;20534;05.12.2018;Burnley;Liverpool
+E0;9;39571;38780;05.12.2018;Everton;Newcastle
+E0;9;25000;24371;05.12.2018;Fulham;Leicester
+E0;9;74879;74498;05.12.2018;Man United;Arsenal
+E0;9;62062;54216;05.12.2018;Tottenham;Southampton
+E0;9;32050;31030;05.12.2018;Wolves;Chelsea
+E0;9;60704;59899;08.12.2018;Arsenal;Huddersfield
+E0;9;11329;10532;08.12.2018;Bournemouth;Liverpool
+E0;9;21994;20534;08.12.2018;Burnley;Brighton
+E0;9;33280;31413;08.12.2018;Cardiff;Southampton
+E0;9;40853;40437;08.12.2018;Chelsea;Man City
+E0;9;32273;31851;08.12.2018;Leicester;Tottenham
+E0;9;74879;74498;08.12.2018;Man United;Fulham
+E0;9;60000;58336;08.12.2018;West Ham;Crystal Palace
+E0;9;52338;51121;09.12.2018;Newcastle;Wolves
+E0;9;39571;38780;10.12.2018;Everton;Watford
+E0;9;26047;25455;15.12.2018;Crystal Palace;Leicester
+E0;9;25000;24371;15.12.2018;Fulham;West Ham
+E0;9;24500;23201;15.12.2018;Huddersfield;Newcastle
+E0;9;55017;54130;15.12.2018;Man City;Everton
+E0;9;62062;54216;15.12.2018;Tottenham;Burnley
+E0;9;21577;20016;15.12.2018;Watford;Cardiff
+E0;9;32050;31030;15.12.2018;Wolves;Bournemouth
+E0;9;31800;30426;16.12.2018;Brighton;Chelsea
+E0;9;54074;52983;16.12.2018;Liverpool;Man United
+E0;9;32384;30139;16.12.2018;Southampton;Arsenal
+E0;9;32050;31030;21.12.2018;Wolves;Liverpool
+E0;9;60704;59899;22.12.2018;Arsenal;Burnley
+E0;9;11329;10532;22.12.2018;Bournemouth;Brighton
+E0;9;33280;31413;22.12.2018;Cardiff;Man United
+E0;9;40853;40437;22.12.2018;Chelsea;Leicester
+E0;9;24500;23201;22.12.2018;Huddersfield;Southampton
+E0;9;55017;54130;22.12.2018;Man City;Crystal Palace
+E0;9;52338;51121;22.12.2018;Newcastle;Fulham
+E0;9;60000;58336;22.12.2018;West Ham;Watford
+E0;9;39571;38780;23.12.2018;Everton;Tottenham
+E0;9;31800;30426;26.12.2018;Brighton;Arsenal
+E0;9;21994;20534;26.12.2018;Burnley;Everton
+E0;9;26047;25455;26.12.2018;Crystal Palace;Cardiff
+E0;9;25000;24371;26.12.2018;Fulham;Wolves
+E0;9;32273;31851;26.12.2018;Leicester;Man City
+E0;9;54074;52983;26.12.2018;Liverpool;Newcastle
+E0;9;74879;74498;26.12.2018;Man United;Huddersfield
+E0;9;62062;54216;26.12.2018;Tottenham;Bournemouth
+E0;9;21577;20016;26.12.2018;Watford;Chelsea
+E0;9;32384;30139;27.12.2018;Southampton;West Ham
+E0;9;31800;30426;29.12.2018;Brighton;Everton
+E0;9;25000;24371;29.12.2018;Fulham;Huddersfield
+E0;9;32273;31851;29.12.2018;Leicester;Cardiff
+E0;9;54074;52983;29.12.2018;Liverpool;Arsenal
+E0;9;62062;54216;29.12.2018;Tottenham;Wolves
+E0;9;21577;20016;29.12.2018;Watford;Newcastle
+E0;9;21994;20534;30.12.2018;Burnley;West Ham
+E0;9;26047;25455;30.12.2018;Crystal Palace;Chelsea
+E0;9;74879;74498;30.12.2018;Man United;Bournemouth
+E0;9;32384;30139;30.12.2018;Southampton;Man City
+E0;9;60704;59899;01.01.2019;Arsenal;Fulham
+E0;9;33280;31413;01.01.2019;Cardiff;Tottenham
+E0;9;39571;38780;01.01.2019;Everton;Leicester
+E0;9;11329;10532;02.01.2019;Bournemouth;Watford
+E0;9;40853;40437;02.01.2019;Chelsea;Southampton
+E0;9;24500;23201;02.01.2019;Huddersfield;Burnley
+E0;9;52338;51121;02.01.2019;Newcastle;Man United
+E0;9;60000;58336;02.01.2019;West Ham;Brighton
+E0;9;32050;31030;02.01.2019;Wolves;Crystal Palace
+E0;9;55017;54130;03.01.2019;Man City;Liverpool
+E0;9;31800;30426;12.01.2019;Brighton;Liverpool
+E0;9;21994;20534;12.01.2019;Burnley;Fulham
+E0;9;33280;31413;12.01.2019;Cardiff;Huddersfield
+E0;9;40853;40437;12.01.2019;Chelsea;Newcastle
+E0;9;26047;25455;12.01.2019;Crystal Palace;Watford
+E0;9;32273;31851;12.01.2019;Leicester;Southampton
+E0;9;60000;58336;12.01.2019;West Ham;Arsenal
+E0;9;39571;38780;13.01.2019;Everton;Bournemouth
+E0;9;62062;54216;13.01.2019;Tottenham;Man United
+E0;9;55017;54130;14.01.2019;Man City;Wolves
+E0;9;60704;59899;19.01.2019;Arsenal;Chelsea
+E0;9;11329;10532;19.01.2019;Bournemouth;West Ham
+E0;9;54074;52983;19.01.2019;Liverpool;Crystal Palace
+E0;9;74879;74498;19.01.2019;Man United;Brighton
+E0;9;52338;51121;19.01.2019;Newcastle;Cardiff
+E0;9;32384;30139;19.01.2019;Southampton;Everton
+E0;9;21577;20016;19.01.2019;Watford;Burnley
+E0;9;32050;31030;19.01.2019;Wolves;Leicester
+E0;9;25000;24371;20.01.2019;Fulham;Tottenham
+E0;9;24500;23201;20.01.2019;Huddersfield;Man City
+E0;9;60704;59899;29.01.2019;Arsenal;Cardiff
+E0;9;25000;24371;29.01.2019;Fulham;Brighton
+E0;9;24500;23201;29.01.2019;Huddersfield;Everton
+E0;9;74879;74498;29.01.2019;Man United;Burnley
+E0;9;52338;51121;29.01.2019;Newcastle;Man City
+E0;9;32050;31030;29.01.2019;Wolves;West Ham
+E0;9;11329;10532;30.01.2019;Bournemouth;Chelsea
+E0;9;54074;52983;30.01.2019;Liverpool;Leicester
+E0;9;32384;30139;30.01.2019;Southampton;Crystal Palace
+E0;9;62062;54216;30.01.2019;Tottenham;Watford
+E0;9;31800;30426;02.02.2019;Brighton;Watford
+E0;9;21994;20534;02.02.2019;Burnley;Southampton
+E0;9;33280;31413;02.02.2019;Cardiff;Bournemouth
+E0;9;40853;40437;02.02.2019;Chelsea;Huddersfield
+E0;9;26047;25455;02.02.2019;Crystal Palace;Fulham
+E0;9;39571;38780;02.02.2019;Everton;Wolves
+E0;9;62062;54216;02.02.2019;Tottenham;Newcastle
+E0;9;32273;31851;03.02.2019;Leicester;Man United
+E0;9;55017;54130;03.02.2019;Man City;Arsenal
+E0;9;60000;58336;04.02.2019;West Ham;Liverpool
+E0;9;39571;38780;06.02.2019;Everton;Man City
+E0;9;31800;30426;09.02.2019;Brighton;Burnley
+E0;9;26047;25455;09.02.2019;Crystal Palace;West Ham
+E0;9;25000;24371;09.02.2019;Fulham;Man United
+E0;9;24500;23201;09.02.2019;Huddersfield;Arsenal
+E0;9;54074;52983;09.02.2019;Liverpool;Bournemouth
+E0;9;32384;30139;09.02.2019;Southampton;Cardiff
+E0;9;21577;20016;09.02.2019;Watford;Everton
+E0;9;55017;54130;10.02.2019;Man City;Chelsea
+E0;9;62062;54216;10.02.2019;Tottenham;Leicester
+E0;9;32050;31030;11.02.2019;Wolves;Newcastle
+E0;9;33280;31413;22.02.2019;Cardiff;Watford
+E0;9;60000;58336;22.02.2019;West Ham;Fulham
+E0;9;11329;10532;23.02.2019;Bournemouth;Wolves
+E0;9;21994;20534;23.02.2019;Burnley;Tottenham
+E0;9;32273;31851;23.02.2019;Leicester;Crystal Palace
+E0;9;52338;51121;23.02.2019;Newcastle;Huddersfield
+E0;9;60704;59899;24.02.2019;Arsenal;Southampton
+E0;9;74879;74498;24.02.2019;Man United;Liverpool
+E0;9;33280;31413;26.02.2019;Cardiff;Everton
+E0;9;24500;23201;26.02.2019;Huddersfield;Wolves
+E0;9;32273;31851;26.02.2019;Leicester;Brighton
+E0;9;52338;51121;26.02.2019;Newcastle;Burnley
+E0;9;60704;59899;27.02.2019;Arsenal;Bournemouth
+E0;9;40853;40437;27.02.2019;Chelsea;Tottenham
+E0;9;26047;25455;27.02.2019;Crystal Palace;Man United
+E0;9;54074;52983;27.02.2019;Liverpool;Watford
+E0;9;55017;54130;27.02.2019;Man City;West Ham
+E0;9;32384;30139;27.02.2019;Southampton;Fulham
+E0;9;11329;10532;02.03.2019;Bournemouth;Man City
+E0;9;31800;30426;02.03.2019;Brighton;Huddersfield
+E0;9;21994;20534;02.03.2019;Burnley;Crystal Palace
+E0;9;74879;74498;02.03.2019;Man United;Southampton
+E0;9;62062;54216;02.03.2019;Tottenham;Arsenal
+E0;9;60000;58336;02.03.2019;West Ham;Newcastle
+E0;9;32050;31030;02.03.2019;Wolves;Cardiff
+E0;9;39571;38780;03.03.2019;Everton;Liverpool
+E0;9;25000;24371;03.03.2019;Fulham;Chelsea
+E0;9;21577;20016;03.03.2019;Watford;Leicester
+E0;9;33280;31413;09.03.2019;Cardiff;West Ham
+E0;9;26047;25455;09.03.2019;Crystal Palace;Brighton
+E0;9;24500;23201;09.03.2019;Huddersfield;Bournemouth
+E0;9;32273;31851;09.03.2019;Leicester;Fulham
+E0;9;55017;54130;09.03.2019;Man City;Watford
+E0;9;52338;51121;09.03.2019;Newcastle;Everton
+E0;9;32384;30139;09.03.2019;Southampton;Tottenham
+E0;9;60704;59899;10.03.2019;Arsenal;Man United
+E0;9;40853;40437;10.03.2019;Chelsea;Wolves
+E0;9;54074;52983;10.03.2019;Liverpool;Burnley
+E0;9;11329;10532;16.03.2019;Bournemouth;Newcastle
+E0;9;21994;20534;16.03.2019;Burnley;Leicester
+E0;9;60000;58336;16.03.2019;West Ham;Huddersfield
+E0;9;39571;38780;17.03.2019;Everton;Chelsea
+E0;9;25000;24371;17.03.2019;Fulham;Liverpool
+E0;9;31800;30426;30.03.2019;Brighton;Southampton
+E0;9;21994;20534;30.03.2019;Burnley;Wolves
+E0;9;26047;25455;30.03.2019;Crystal Palace;Huddersfield
+E0;9;25000;24371;30.03.2019;Fulham;Man City
+E0;9;32273;31851;30.03.2019;Leicester;Bournemouth
+E0;9;74879;74498;30.03.2019;Man United;Watford
+E0;9;60000;58336;30.03.2019;West Ham;Everton
+E0;9;33280;31413;31.03.2019;Cardiff;Chelsea
+E0;9;54074;52983;31.03.2019;Liverpool;Tottenham
+E0;9;60704;59899;01.04.2019;Arsenal;Newcastle
+E0;9;21577;20016;02.04.2019;Watford;Fulham
+E0;9;32050;31030;02.04.2019;Wolves;Man United
+E0;9;40853;40437;03.04.2019;Chelsea;Brighton
+E0;9;55017;54130;03.04.2019;Man City;Cardiff
+E0;9;62062;54216;03.04.2019;Tottenham;Crystal Palace
+E0;9;32384;30139;05.04.2019;Southampton;Liverpool
+E0;9;11329;10532;06.04.2019;Bournemouth;Burnley
+E0;9;24500;23201;06.04.2019;Huddersfield;Leicester
+E0;9;52338;51121;06.04.2019;Newcastle;Crystal Palace
+E0;9;39571;38780;07.04.2019;Everton;Arsenal
+E0;9;40853;40437;08.04.2019;Chelsea;West Ham
+E0;9;32273;31851;12.04.2019;Leicester;Newcastle
+E0;9;31800;30426;13.04.2019;Brighton;Bournemouth
+E0;9;21994;20534;13.04.2019;Burnley;Cardiff
+E0;9;25000;24371;13.04.2019;Fulham;Everton
+E0;9;74879;74498;13.04.2019;Man United;West Ham
+E0;9;32384;30139;13.04.2019;Southampton;Wolves
+E0;9;62062;54216;13.04.2019;Tottenham;Huddersfield
+E0;9;26047;25455;14.04.2019;Crystal Palace;Man City
+E0;9;54074;52983;14.04.2019;Liverpool;Chelsea
+E0;9;21577;20016;15.04.2019;Watford;Arsenal
+E0;9;31800;30426;16.04.2019;Brighton;Cardiff
+E0;9;11329;10532;20.04.2019;Bournemouth;Fulham
+E0;9;24500;23201;20.04.2019;Huddersfield;Watford
+E0;9;55017;54130;20.04.2019;Man City;Tottenham
+E0;9;52338;51121;20.04.2019;Newcastle;Southampton
+E0;9;60000;58336;20.04.2019;West Ham;Leicester
+E0;9;32050;31030;20.04.2019;Wolves;Brighton
+E0;9;60704;59899;21.04.2019;Arsenal;Crystal Palace
+E0;9;33280;31413;21.04.2019;Cardiff;Liverpool
+E0;9;39571;38780;21.04.2019;Everton;Man United
+E0;9;40853;40437;22.04.2019;Chelsea;Burnley
+E0;9;62062;54216;23.04.2019;Tottenham;Brighton
+E0;9;21577;20016;23.04.2019;Watford;Southampton
+E0;9;74879;74498;24.04.2019;Man United;Man City
+E0;9;32050;31030;24.04.2019;Wolves;Arsenal
+E0;9;54074;52983;26.04.2019;Liverpool;Huddersfield
+E0;9;31800;30426;27.04.2019;Brighton;Newcastle
+E0;9;26047;25455;27.04.2019;Crystal Palace;Everton
+E0;9;25000;24371;27.04.2019;Fulham;Cardiff
+E0;9;32384;30139;27.04.2019;Southampton;Bournemouth
+E0;9;62062;54216;27.04.2019;Tottenham;West Ham
+E0;9;21577;20016;27.04.2019;Watford;Wolves
+E0;9;21994;20534;28.04.2019;Burnley;Man City
+E0;9;32273;31851;28.04.2019;Leicester;Arsenal
+E0;9;74879;74498;28.04.2019;Man United;Chelsea
+E0;9;39571;38780;03.05.2019;Everton;Burnley
+E0;9;11329;10532;04.05.2019;Bournemouth;Tottenham
+E0;9;33280;31413;04.05.2019;Cardiff;Crystal Palace
+E0;9;52338;51121;04.05.2019;Newcastle;Liverpool
+E0;9;60000;58336;04.05.2019;West Ham;Southampton
+E0;9;32050;31030;04.05.2019;Wolves;Fulham
+E0;9;60704;59899;05.05.2019;Arsenal;Brighton
+E0;9;40853;40437;05.05.2019;Chelsea;Watford
+E0;9;24500;23201;05.05.2019;Huddersfield;Man United
+E0;9;55017;54130;06.05.2019;Man City;Leicester
+E0;9;31800;30426;12.05.2019;Brighton;Man City
+E0;9;21994;20534;12.05.2019;Burnley;Arsenal
+E0;9;26047;25455;12.05.2019;Crystal Palace;Bournemouth
+E0;9;25000;24371;12.05.2019;Fulham;Newcastle
+E0;9;32273;31851;12.05.2019;Leicester;Chelsea
+E0;9;54074;52983;12.05.2019;Liverpool;Wolves
+E0;9;74879;74498;12.05.2019;Man United;Cardiff
+E0;9;32384;30139;12.05.2019;Southampton;Huddersfield
+E0;9;62062;54216;12.05.2019;Tottenham;Everton
+E0;9;21577;20016;12.05.2019;Watford;West Ham

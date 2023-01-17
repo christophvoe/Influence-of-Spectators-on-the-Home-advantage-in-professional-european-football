@@ -1,0 +1,381 @@
+Div;Season;Capacity;Spectators;Date;HomeTeam;AwayTeam
+E0;4;60704;59487;17.08.2013;Arsenal;Aston Villa
+E0;4;45000;44671;17.08.2013;Liverpool;Stoke
+E0;4;27244;26805;17.08.2013;Norwich;Everton
+E0;4;48707;41090;17.08.2013;Sunderland;Fulham
+E0;4;21088;20407;17.08.2013;Swansea;Man United
+E0;4;26850;25194;17.08.2013;West Brom;Southampton
+E0;4;35345;34197;17.08.2013;West Ham;Cardiff
+E0;4;42000;41482;18.08.2013;Chelsea;Hull
+E0;4;26047;24114;18.08.2013;Crystal Palace;Tottenham
+E0;4;48000;47080;19.08.2013;Man City;Newcastle
+E0;4;42000;41482;21.08.2013;Chelsea;Aston Villa
+E0;4;42682;36081;24.08.2013;Aston Villa;Liverpool
+E0;4;39571;37732;24.08.2013;Everton;West Brom
+E0;4;25000;24977;24.08.2013;Fulham;Arsenal
+E0;4;24983;24117;24.08.2013;Hull;Norwich
+E0;4;52338;50395;24.08.2013;Newcastle;West Ham
+E0;4;32384;30212;24.08.2013;Southampton;Sunderland
+E0;4;30089;26137;24.08.2013;Stoke;Crystal Palace
+E0;4;33280;27430;25.08.2013;Cardiff;Man City
+E0;4;36284;35808;25.08.2013;Tottenham;Swansea
+E0;4;75500;75207;26.08.2013;Man United;Chelsea
+E0;4;33280;27430;31.08.2013;Cardiff;Everton
+E0;4;26047;24114;31.08.2013;Crystal Palace;Sunderland
+E0;4;48000;47080;31.08.2013;Man City;Hull
+E0;4;52338;50395;31.08.2013;Newcastle;Fulham
+E0;4;27244;26805;31.08.2013;Norwich;Southampton
+E0;4;35345;34197;31.08.2013;West Ham;Stoke
+E0;4;60704;59487;01.09.2013;Arsenal;Tottenham
+E0;4;45000;44671;01.09.2013;Liverpool;Man United
+E0;4;26850;25194;01.09.2013;West Brom;Swansea
+E0;4;42682;36081;14.09.2013;Aston Villa;Newcastle
+E0;4;39571;37732;14.09.2013;Everton;Chelsea
+E0;4;25000;24977;14.09.2013;Fulham;West Brom
+E0;4;24983;24117;14.09.2013;Hull;Cardiff
+E0;4;75500;75207;14.09.2013;Man United;Crystal Palace
+E0;4;30089;26137;14.09.2013;Stoke;Man City
+E0;4;48707;41090;14.09.2013;Sunderland;Arsenal
+E0;4;36284;35808;14.09.2013;Tottenham;Norwich
+E0;4;32384;30212;15.09.2013;Southampton;West Ham
+E0;4;21088;20407;16.09.2013;Swansea;Liverpool
+E0;4;42000;41482;21.09.2013;Chelsea;Fulham
+E0;4;45000;44671;21.09.2013;Liverpool;Southampton
+E0;4;52338;50395;21.09.2013;Newcastle;Hull
+E0;4;27244;26805;21.09.2013;Norwich;Aston Villa
+E0;4;26850;25194;21.09.2013;West Brom;Sunderland
+E0;4;35345;34197;21.09.2013;West Ham;Everton
+E0;4;60704;59487;22.09.2013;Arsenal;Stoke
+E0;4;33280;27430;22.09.2013;Cardiff;Tottenham
+E0;4;26047;24114;22.09.2013;Crystal Palace;Swansea
+E0;4;48000;47080;22.09.2013;Man City;Man United
+E0;4;42682;36081;28.09.2013;Aston Villa;Man City
+E0;4;25000;24977;28.09.2013;Fulham;Cardiff
+E0;4;24983;24117;28.09.2013;Hull;West Ham
+E0;4;75500;75207;28.09.2013;Man United;West Brom
+E0;4;32384;30212;28.09.2013;Southampton;Crystal Palace
+E0;4;21088;20407;28.09.2013;Swansea;Arsenal
+E0;4;36284;35808;28.09.2013;Tottenham;Chelsea
+E0;4;30089;26137;29.09.2013;Stoke;Norwich
+E0;4;48707;41090;29.09.2013;Sunderland;Liverpool
+E0;4;39571;37732;30.09.2013;Everton;Newcastle
+E0;4;33280;27430;05.10.2013;Cardiff;Newcastle
+E0;4;25000;24977;05.10.2013;Fulham;Stoke
+E0;4;24983;24117;05.10.2013;Hull;Aston Villa
+E0;4;45000;44671;05.10.2013;Liverpool;Crystal Palace
+E0;4;48000;47080;05.10.2013;Man City;Everton
+E0;4;48707;41090;05.10.2013;Sunderland;Man United
+E0;4;27244;26805;06.10.2013;Norwich;Chelsea
+E0;4;32384;30212;06.10.2013;Southampton;Swansea
+E0;4;36284;35808;06.10.2013;Tottenham;West Ham
+E0;4;26850;25194;06.10.2013;West Brom;Arsenal
+E0;4;60704;59487;19.10.2013;Arsenal;Norwich
+E0;4;42000;41482;19.10.2013;Chelsea;Cardiff
+E0;4;39571;37732;19.10.2013;Everton;Hull
+E0;4;75500;75207;19.10.2013;Man United;Southampton
+E0;4;52338;50395;19.10.2013;Newcastle;Liverpool
+E0;4;30089;26137;19.10.2013;Stoke;West Brom
+E0;4;21088;20407;19.10.2013;Swansea;Sunderland
+E0;4;35345;34197;19.10.2013;West Ham;Man City
+E0;4;42682;36081;20.10.2013;Aston Villa;Tottenham
+E0;4;26047;24114;21.10.2013;Crystal Palace;Fulham
+E0;4;42682;36081;26.10.2013;Aston Villa;Everton
+E0;4;26047;24114;26.10.2013;Crystal Palace;Arsenal
+E0;4;45000;44671;26.10.2013;Liverpool;West Brom
+E0;4;75500;75207;26.10.2013;Man United;Stoke
+E0;4;27244;26805;26.10.2013;Norwich;Cardiff
+E0;4;32384;30212;26.10.2013;Southampton;Fulham
+E0;4;42000;41482;27.10.2013;Chelsea;Man City
+E0;4;48707;41090;27.10.2013;Sunderland;Newcastle
+E0;4;21088;20407;27.10.2013;Swansea;West Ham
+E0;4;36284;35808;27.10.2013;Tottenham;Hull
+E0;4;60704;59487;02.11.2013;Arsenal;Liverpool
+E0;4;25000;24977;02.11.2013;Fulham;Man United
+E0;4;24983;24117;02.11.2013;Hull;Sunderland
+E0;4;48000;47080;02.11.2013;Man City;Norwich
+E0;4;52338;50395;02.11.2013;Newcastle;Chelsea
+E0;4;30089;26137;02.11.2013;Stoke;Southampton
+E0;4;26850;25194;02.11.2013;West Brom;Crystal Palace
+E0;4;35345;34197;02.11.2013;West Ham;Aston Villa
+E0;4;33280;27430;03.11.2013;Cardiff;Swansea
+E0;4;39571;37732;03.11.2013;Everton;Tottenham
+E0;4;42682;36081;09.11.2013;Aston Villa;Cardiff
+E0;4;42000;41482;09.11.2013;Chelsea;West Brom
+E0;4;26047;24114;09.11.2013;Crystal Palace;Everton
+E0;4;45000;44671;09.11.2013;Liverpool;Fulham
+E0;4;27244;26805;09.11.2013;Norwich;West Ham
+E0;4;32384;30212;09.11.2013;Southampton;Hull
+E0;4;75500;75207;10.11.2013;Man United;Arsenal
+E0;4;48707;41090;10.11.2013;Sunderland;Man City
+E0;4;21088;20407;10.11.2013;Swansea;Stoke
+E0;4;36284;35808;10.11.2013;Tottenham;Newcastle
+E0;4;60704;59487;23.11.2013;Arsenal;Southampton
+E0;4;39571;37732;23.11.2013;Everton;Liverpool
+E0;4;25000;24977;23.11.2013;Fulham;Swansea
+E0;4;24983;24117;23.11.2013;Hull;Crystal Palace
+E0;4;52338;50395;23.11.2013;Newcastle;Norwich
+E0;4;30089;26137;23.11.2013;Stoke;Sunderland
+E0;4;35345;34197;23.11.2013;West Ham;Chelsea
+E0;4;33280;27430;24.11.2013;Cardiff;Man United
+E0;4;48000;47080;24.11.2013;Man City;Tottenham
+E0;4;26850;25194;25.11.2013;West Brom;Aston Villa
+E0;4;42682;36081;30.11.2013;Aston Villa;Sunderland
+E0;4;33280;27430;30.11.2013;Cardiff;Arsenal
+E0;4;39571;37732;30.11.2013;Everton;Stoke
+E0;4;52338;50395;30.11.2013;Newcastle;West Brom
+E0;4;27244;26805;30.11.2013;Norwich;Crystal Palace
+E0;4;35345;34197;30.11.2013;West Ham;Fulham
+E0;4;42000;41482;01.12.2013;Chelsea;Southampton
+E0;4;24983;24117;01.12.2013;Hull;Liverpool
+E0;4;48000;47080;01.12.2013;Man City;Swansea
+E0;4;36284;35808;01.12.2013;Tottenham;Man United
+E0;4;26047;24114;03.12.2013;Crystal Palace;West Ham
+E0;4;60704;59487;04.12.2013;Arsenal;Hull
+E0;4;25000;24977;04.12.2013;Fulham;Tottenham
+E0;4;45000;44671;04.12.2013;Liverpool;Norwich
+E0;4;75500;75207;04.12.2013;Man United;Everton
+E0;4;32384;30212;04.12.2013;Southampton;Aston Villa
+E0;4;30089;26137;04.12.2013;Stoke;Cardiff
+E0;4;48707;41090;04.12.2013;Sunderland;Chelsea
+E0;4;21088;20407;04.12.2013;Swansea;Newcastle
+E0;4;26850;25194;04.12.2013;West Brom;Man City
+E0;4;26047;24114;07.12.2013;Crystal Palace;Cardiff
+E0;4;45000;44671;07.12.2013;Liverpool;West Ham
+E0;4;75500;75207;07.12.2013;Man United;Newcastle
+E0;4;32384;30212;07.12.2013;Southampton;Man City
+E0;4;30089;26137;07.12.2013;Stoke;Chelsea
+E0;4;48707;41090;07.12.2013;Sunderland;Tottenham
+E0;4;26850;25194;07.12.2013;West Brom;Norwich
+E0;4;60704;59487;08.12.2013;Arsenal;Everton
+E0;4;25000;24977;08.12.2013;Fulham;Aston Villa
+E0;4;21088;20407;09.12.2013;Swansea;Hull
+E0;4;33280;27430;14.12.2013;Cardiff;West Brom
+E0;4;42000;41482;14.12.2013;Chelsea;Crystal Palace
+E0;4;39571;37732;14.12.2013;Everton;Fulham
+E0;4;24983;24117;14.12.2013;Hull;Stoke
+E0;4;48000;47080;14.12.2013;Man City;Arsenal
+E0;4;52338;50395;14.12.2013;Newcastle;Southampton
+E0;4;35345;34197;14.12.2013;West Ham;Sunderland
+E0;4;42682;36081;15.12.2013;Aston Villa;Man United
+E0;4;27244;26805;15.12.2013;Norwich;Swansea
+E0;4;36284;35808;15.12.2013;Tottenham;Liverpool
+E0;4;26047;24114;21.12.2013;Crystal Palace;Newcastle
+E0;4;25000;24977;21.12.2013;Fulham;Man City
+E0;4;45000;44671;21.12.2013;Liverpool;Cardiff
+E0;4;75500;75207;21.12.2013;Man United;West Ham
+E0;4;30089;26137;21.12.2013;Stoke;Aston Villa
+E0;4;48707;41090;21.12.2013;Sunderland;Norwich
+E0;4;26850;25194;21.12.2013;West Brom;Hull
+E0;4;32384;30212;22.12.2013;Southampton;Tottenham
+E0;4;21088;20407;22.12.2013;Swansea;Everton
+E0;4;60704;59487;23.12.2013;Arsenal;Chelsea
+E0;4;42682;36081;26.12.2013;Aston Villa;Crystal Palace
+E0;4;33280;27430;26.12.2013;Cardiff;Southampton
+E0;4;42000;41482;26.12.2013;Chelsea;Swansea
+E0;4;39571;37732;26.12.2013;Everton;Sunderland
+E0;4;24983;24117;26.12.2013;Hull;Man United
+E0;4;48000;47080;26.12.2013;Man City;Liverpool
+E0;4;52338;50395;26.12.2013;Newcastle;Stoke
+E0;4;27244;26805;26.12.2013;Norwich;Fulham
+E0;4;36284;35808;26.12.2013;Tottenham;West Brom
+E0;4;35345;34197;26.12.2013;West Ham;Arsenal
+E0;4;42682;36081;28.12.2013;Aston Villa;Swansea
+E0;4;33280;27430;28.12.2013;Cardiff;Sunderland
+E0;4;24983;24117;28.12.2013;Hull;Fulham
+E0;4;48000;47080;28.12.2013;Man City;Crystal Palace
+E0;4;27244;26805;28.12.2013;Norwich;Man United
+E0;4;35345;34197;28.12.2013;West Ham;West Brom
+E0;4;42000;41482;29.12.2013;Chelsea;Liverpool
+E0;4;39571;37732;29.12.2013;Everton;Southampton
+E0;4;52338;50395;29.12.2013;Newcastle;Arsenal
+E0;4;36284;35808;29.12.2013;Tottenham;Stoke
+E0;4;60704;59487;01.01.2014;Arsenal;Cardiff
+E0;4;26047;24114;01.01.2014;Crystal Palace;Norwich
+E0;4;25000;24977;01.01.2014;Fulham;West Ham
+E0;4;45000;44671;01.01.2014;Liverpool;Hull
+E0;4;75500;75207;01.01.2014;Man United;Tottenham
+E0;4;32384;30212;01.01.2014;Southampton;Chelsea
+E0;4;30089;26137;01.01.2014;Stoke;Everton
+E0;4;48707;41090;01.01.2014;Sunderland;Aston Villa
+E0;4;21088;20407;01.01.2014;Swansea;Man City
+E0;4;26850;25194;01.01.2014;West Brom;Newcastle
+E0;4;33280;27430;11.01.2014;Cardiff;West Ham
+E0;4;39571;37732;11.01.2014;Everton;Norwich
+E0;4;25000;24977;11.01.2014;Fulham;Sunderland
+E0;4;24983;24117;11.01.2014;Hull;Chelsea
+E0;4;75500;75207;11.01.2014;Man United;Swansea
+E0;4;32384;30212;11.01.2014;Southampton;West Brom
+E0;4;36284;35808;11.01.2014;Tottenham;Crystal Palace
+E0;4;52338;50395;12.01.2014;Newcastle;Man City
+E0;4;30089;26137;12.01.2014;Stoke;Liverpool
+E0;4;42682;36081;13.01.2014;Aston Villa;Arsenal
+E0;4;60704;59487;18.01.2014;Arsenal;Fulham
+E0;4;26047;24114;18.01.2014;Crystal Palace;Stoke
+E0;4;45000;44671;18.01.2014;Liverpool;Aston Villa
+E0;4;48000;47080;18.01.2014;Man City;Cardiff
+E0;4;27244;26805;18.01.2014;Norwich;Hull
+E0;4;48707;41090;18.01.2014;Sunderland;Southampton
+E0;4;35345;34197;18.01.2014;West Ham;Newcastle
+E0;4;42000;41482;19.01.2014;Chelsea;Man United
+E0;4;21088;20407;19.01.2014;Swansea;Tottenham
+E0;4;26850;25194;20.01.2014;West Brom;Everton
+E0;4;26047;24114;28.01.2014;Crystal Palace;Hull
+E0;4;45000;44671;28.01.2014;Liverpool;Everton
+E0;4;75500;75207;28.01.2014;Man United;Cardiff
+E0;4;27244;26805;28.01.2014;Norwich;Newcastle
+E0;4;32384;30212;28.01.2014;Southampton;Arsenal
+E0;4;21088;20407;28.01.2014;Swansea;Fulham
+E0;4;42682;36081;29.01.2014;Aston Villa;West Brom
+E0;4;42000;41482;29.01.2014;Chelsea;West Ham
+E0;4;48707;41090;29.01.2014;Sunderland;Stoke
+E0;4;36284;35808;29.01.2014;Tottenham;Man City
+E0;4;33280;27430;01.02.2014;Cardiff;Norwich
+E0;4;39571;37732;01.02.2014;Everton;Aston Villa
+E0;4;25000;24977;01.02.2014;Fulham;Southampton
+E0;4;24983;24117;01.02.2014;Hull;Tottenham
+E0;4;52338;50395;01.02.2014;Newcastle;Sunderland
+E0;4;30089;26137;01.02.2014;Stoke;Man United
+E0;4;35345;34197;01.02.2014;West Ham;Swansea
+E0;4;60704;59487;02.02.2014;Arsenal;Crystal Palace
+E0;4;26850;25194;02.02.2014;West Brom;Liverpool
+E0;4;48000;47080;03.02.2014;Man City;Chelsea
+E0;4;42682;36081;08.02.2014;Aston Villa;West Ham
+E0;4;42000;41482;08.02.2014;Chelsea;Newcastle
+E0;4;26047;24114;08.02.2014;Crystal Palace;West Brom
+E0;4;45000;44671;08.02.2014;Liverpool;Arsenal
+E0;4;27244;26805;08.02.2014;Norwich;Man City
+E0;4;32384;30212;08.02.2014;Southampton;Stoke
+E0;4;48707;41090;08.02.2014;Sunderland;Hull
+E0;4;21088;20407;08.02.2014;Swansea;Cardiff
+E0;4;75500;75207;09.02.2014;Man United;Fulham
+E0;4;36284;35808;09.02.2014;Tottenham;Everton
+E0;4;33280;27430;11.02.2014;Cardiff;Aston Villa
+E0;4;24983;24117;11.02.2014;Hull;Southampton
+E0;4;26850;25194;11.02.2014;West Brom;Chelsea
+E0;4;35345;34197;11.02.2014;West Ham;Norwich
+E0;4;60704;59487;12.02.2014;Arsenal;Man United
+E0;4;25000;24977;12.02.2014;Fulham;Liverpool
+E0;4;52338;50395;12.02.2014;Newcastle;Tottenham
+E0;4;30089;26137;12.02.2014;Stoke;Swansea
+E0;4;60704;59487;22.02.2014;Arsenal;Sunderland
+E0;4;33280;27430;22.02.2014;Cardiff;Hull
+E0;4;42000;41482;22.02.2014;Chelsea;Everton
+E0;4;26047;24114;22.02.2014;Crystal Palace;Man United
+E0;4;48000;47080;22.02.2014;Man City;Stoke
+E0;4;26850;25194;22.02.2014;West Brom;Fulham
+E0;4;35345;34197;22.02.2014;West Ham;Southampton
+E0;4;45000;44671;23.02.2014;Liverpool;Swansea
+E0;4;52338;50395;23.02.2014;Newcastle;Aston Villa
+E0;4;27244;26805;23.02.2014;Norwich;Tottenham
+E0;4;39571;37732;01.03.2014;Everton;West Ham
+E0;4;25000;24977;01.03.2014;Fulham;Chelsea
+E0;4;24983;24117;01.03.2014;Hull;Newcastle
+E0;4;32384;30212;01.03.2014;Southampton;Liverpool
+E0;4;30089;26137;01.03.2014;Stoke;Arsenal
+E0;4;42682;36081;02.03.2014;Aston Villa;Norwich
+E0;4;21088;20407;02.03.2014;Swansea;Crystal Palace
+E0;4;36284;35808;02.03.2014;Tottenham;Cardiff
+E0;4;33280;27430;08.03.2014;Cardiff;Fulham
+E0;4;42000;41482;08.03.2014;Chelsea;Tottenham
+E0;4;26047;24114;08.03.2014;Crystal Palace;Southampton
+E0;4;27244;26805;08.03.2014;Norwich;Stoke
+E0;4;26850;25194;08.03.2014;West Brom;Man United
+E0;4;42682;36081;15.03.2014;Aston Villa;Chelsea
+E0;4;39571;37732;15.03.2014;Everton;Cardiff
+E0;4;25000;24977;15.03.2014;Fulham;Newcastle
+E0;4;24983;24117;15.03.2014;Hull;Man City
+E0;4;32384;30212;15.03.2014;Southampton;Norwich
+E0;4;30089;26137;15.03.2014;Stoke;West Ham
+E0;4;48707;41090;15.03.2014;Sunderland;Crystal Palace
+E0;4;21088;20407;15.03.2014;Swansea;West Brom
+E0;4;75500;75207;16.03.2014;Man United;Liverpool
+E0;4;36284;35808;16.03.2014;Tottenham;Arsenal
+E0;4;33280;27430;22.03.2014;Cardiff;Liverpool
+E0;4;42000;41482;22.03.2014;Chelsea;Arsenal
+E0;4;39571;37732;22.03.2014;Everton;Swansea
+E0;4;24983;24117;22.03.2014;Hull;West Brom
+E0;4;48000;47080;22.03.2014;Man City;Fulham
+E0;4;52338;50395;22.03.2014;Newcastle;Crystal Palace
+E0;4;27244;26805;22.03.2014;Norwich;Sunderland
+E0;4;35345;34197;22.03.2014;West Ham;Man United
+E0;4;42682;36081;23.03.2014;Aston Villa;Stoke
+E0;4;36284;35808;23.03.2014;Tottenham;Southampton
+E0;4;60704;59487;25.03.2014;Arsenal;Swansea
+E0;4;75500;75207;25.03.2014;Man United;Man City
+E0;4;52338;50395;25.03.2014;Newcastle;Everton
+E0;4;45000;44671;26.03.2014;Liverpool;Sunderland
+E0;4;35345;34197;26.03.2014;West Ham;Hull
+E0;4;60704;59487;29.03.2014;Arsenal;Man City
+E0;4;26047;24114;29.03.2014;Crystal Palace;Chelsea
+E0;4;75500;75207;29.03.2014;Man United;Aston Villa
+E0;4;32384;30212;29.03.2014;Southampton;Newcastle
+E0;4;30089;26137;29.03.2014;Stoke;Hull
+E0;4;21088;20407;29.03.2014;Swansea;Norwich
+E0;4;26850;25194;29.03.2014;West Brom;Cardiff
+E0;4;25000;24977;30.03.2014;Fulham;Everton
+E0;4;45000;44671;30.03.2014;Liverpool;Tottenham
+E0;4;48707;41090;31.03.2014;Sunderland;West Ham
+E0;4;42682;36081;05.04.2014;Aston Villa;Fulham
+E0;4;33280;27430;05.04.2014;Cardiff;Crystal Palace
+E0;4;42000;41482;05.04.2014;Chelsea;Stoke
+E0;4;24983;24117;05.04.2014;Hull;Swansea
+E0;4;48000;47080;05.04.2014;Man City;Southampton
+E0;4;52338;50395;05.04.2014;Newcastle;Man United
+E0;4;27244;26805;05.04.2014;Norwich;West Brom
+E0;4;39571;37732;06.04.2014;Everton;Arsenal
+E0;4;35345;34197;06.04.2014;West Ham;Liverpool
+E0;4;36284;35808;07.04.2014;Tottenham;Sunderland
+E0;4;26047;24114;12.04.2014;Crystal Palace;Aston Villa
+E0;4;25000;24977;12.04.2014;Fulham;Norwich
+E0;4;32384;30212;12.04.2014;Southampton;Cardiff
+E0;4;30089;26137;12.04.2014;Stoke;Newcastle
+E0;4;48707;41090;12.04.2014;Sunderland;Everton
+E0;4;26850;25194;12.04.2014;West Brom;Tottenham
+E0;4;45000;44671;13.04.2014;Liverpool;Man City
+E0;4;21088;20407;13.04.2014;Swansea;Chelsea
+E0;4;60704;59487;15.04.2014;Arsenal;West Ham
+E0;4;39571;37732;16.04.2014;Everton;Crystal Palace
+E0;4;48000;47080;16.04.2014;Man City;Sunderland
+E0;4;42682;36081;19.04.2014;Aston Villa;Southampton
+E0;4;33280;27430;19.04.2014;Cardiff;Stoke
+E0;4;42000;41482;19.04.2014;Chelsea;Sunderland
+E0;4;52338;50395;19.04.2014;Newcastle;Swansea
+E0;4;36284;35808;19.04.2014;Tottenham;Fulham
+E0;4;35345;34197;19.04.2014;West Ham;Crystal Palace
+E0;4;39571;37732;20.04.2014;Everton;Man United
+E0;4;24983;24117;20.04.2014;Hull;Arsenal
+E0;4;27244;26805;20.04.2014;Norwich;Liverpool
+E0;4;48000;47080;21.04.2014;Man City;West Brom
+E0;4;25000;24977;26.04.2014;Fulham;Hull
+E0;4;75500;75207;26.04.2014;Man United;Norwich
+E0;4;32384;30212;26.04.2014;Southampton;Everton
+E0;4;30089;26137;26.04.2014;Stoke;Tottenham
+E0;4;21088;20407;26.04.2014;Swansea;Aston Villa
+E0;4;26850;25194;26.04.2014;West Brom;West Ham
+E0;4;26047;24114;27.04.2014;Crystal Palace;Man City
+E0;4;45000;44671;27.04.2014;Liverpool;Chelsea
+E0;4;48707;41090;27.04.2014;Sunderland;Cardiff
+E0;4;60704;59487;28.04.2014;Arsenal;Newcastle
+E0;4;42682;36081;03.05.2014;Aston Villa;Hull
+E0;4;39571;37732;03.05.2014;Everton;Man City
+E0;4;75500;75207;03.05.2014;Man United;Sunderland
+E0;4;52338;50395;03.05.2014;Newcastle;Cardiff
+E0;4;30089;26137;03.05.2014;Stoke;Fulham
+E0;4;21088;20407;03.05.2014;Swansea;Southampton
+E0;4;35345;34197;03.05.2014;West Ham;Tottenham
+E0;4;60704;59487;04.05.2014;Arsenal;West Brom
+E0;4;42000;41482;04.05.2014;Chelsea;Norwich
+E0;4;26047;24114;05.05.2014;Crystal Palace;Liverpool
+E0;4;75500;75207;06.05.2014;Man United;Hull
+E0;4;48000;47080;07.05.2014;Man City;Aston Villa
+E0;4;48707;41090;07.05.2014;Sunderland;West Brom
+E0;4;33280;27430;11.05.2014;Cardiff;Chelsea
+E0;4;25000;24977;11.05.2014;Fulham;Crystal Palace
+E0;4;24983;24117;11.05.2014;Hull;Everton
+E0;4;45000;44671;11.05.2014;Liverpool;Newcastle
+E0;4;48000;47080;11.05.2014;Man City;West Ham
+E0;4;27244;26805;11.05.2014;Norwich;Arsenal
+E0;4;32384;30212;11.05.2014;Southampton;Man United
+E0;4;48707;41090;11.05.2014;Sunderland;Swansea
+E0;4;36284;35808;11.05.2014;Tottenham;Aston Villa
+E0;4;26850;25194;11.05.2014;West Brom;Stoke
