@@ -1,0 +1,47 @@
+\section{Reflection on the research report}
+\label{Sample_Size}
+
+\subsection{Additional Project}
+The second project was to determine the current state of methodological and statistical procedures for studies using observational data with large sample sizes in the field of sports science.
+
+Since a full reflection and report on this second project is beyond the scope of this traineeship report, I will provide a brief summary of the literature review process and draw conclusions based on the first project.
+
+
+\subsection{Project summary}
+The goal of this research project is to identify studies in the Journal of Sports Sciences that analyze observational data with large sample sizes and to evaluate their statistical and methodological procedures.
+
+The focus on observational data with large sample sizes was chosen because of the rapidly growing trend toward open-source data. Open-source data provides a broad audience with the opportunity to easily apply various statistical and methodological procedures to answer upcoming research questions. This can lead to problems as the characteristics of observational data can quickly lead to violations of research practice. Therefore, this report aims to assess the current state of sports science, raise awareness, and suggest a workflow on how to handle this type of data.
+
+Eligible studies were identified for the years 2018 to 2022 in the Journal of Sports Sciences. Manuscripts were examined in more detail and study information (year, authorship, title, sports discipline) and specific methodological characteristics were extracted (number of observations, statistical software, statistical tests, number of statistical tests, number of outcome variables, alpha levels, and effect sizes).
+
+The results of this brief literature review showed that methodological problems occurred in various sports such as football, swimming, basketball, biathlon, judo, and golf. In particular, similar methodological flaws occurred repeatedly in the identified studies.
+\newline
+Following is a brief summary of the main identified issues:
+
+\begin{itemize}
+    \item Large number of outcome variables tested  \cite{bjorklund2022balancing,le2022visual,ortega2021effect,franchini2020tracking}
+    \item Missing explanation and theory-based inclusion of outcome variables \cite{bjorklund2022balancing,le2022visual,koenigsberg2020generational,de2022relative}
+    \item Large number of applied tests \cite{bjorklund2022balancing,le2022visual,ortega2021effect,koenigsberg2020generational,zart2022season,de2022relative,fuller2020ten,franchini2020tracking,nikolaidis2019russians}
+    \item Application of tests not suited for very large sample sizes \cite{herold2022off,ortega2021effect,hackett2021effects,koenigsberg2020generational,mcintosh2021apples,de2022relative,jackson2020hill}
+    \item Report of significant results only \cite{le2022visual,hackett2021effects,fuller2020ten,nikolaidis2019russians}
+    \item Missing data without imputation and causal inference \cite{le2022visual,de2022relative}
+    \item Missing adjustment of significance levels in case of many applied tests \cite{bjorklund2022balancing,herold2022off,le2022visual,ortega2021effect,hackett2021effects,koenigsberg2020generational,zart2022season,franchini2020tracking,jackson2020hill,nikolaidis2019russians}
+    \item Missing differentiation between confirmatory and exploratory research \cite{bjorklund2022balancing,le2022visual,ortega2021effect,koenigsberg2020generational,de2022relative}
+    \item Missing report and reflection on effect sizes \cite{bjorklund2022balancing,le2022visual,ortega2021effect,mcintosh2021apples,zart2022season,fuller2020ten,franchini2020tracking,nikolaidis2019russians}
+    \item Missing report and reflection on confounding variables \cite{bjorklund2022balancing,herold2022off,le2022visual,ortega2021effect,mcintosh2021apples,zart2022season,nikolaidis2019russians}
+\end{itemize}
+
+Since many of these methodological errors occurred repeatedly, lack of statistical and methodological training could be one of the most important explanations. The next step after identifying these methodological errors is to propose a workflow on how to handle this type of open-source observational data and to avoid questionable research practices.
+
+\subsection{Implications between projects}
+
+The theoretical approach of the second project is to identify weaknesses in the statistical process of sports science studies and precisely targets some of the weaknesses of the first project.
+In the first project, the study uses open-source observational data on a large scale and attempts to draw causal inferences based on these results.
+To this end, eight different outcome variables are tested for two different models, resulting in a total of 16 different statistical tests. In this case, the use of the outcome variables is based on theory and should be warranted. However, consideration should have been given to including fewer outcome variables, focusing on a single model, or making adjustments to the significance level, such as using the Bonferroni correction. 
+The use of multilevel regression models appears to be appropriate for this type of data since it allows for the inclusion of potentially confounding variables, and all tests used were reported accordingly. 
+Effect sizes were also neglected in the replicated study. However, the inclusion of the regression results and also the visualization of the effects seem appropriate to report and interpret the results. Nevertheless, the inclusion of $R^2$ or other relevant effect sizes would have been useful.
+Finally, one of the major drawbacks of the replicated and extended study is the lack of inclusion of confounding variables. As pointed out in the first part of the report, several other studies have included several related confounding variables, whereas this study is limited to the inclusion of a small number of covariates. In this case, the inclusion of new confounding variables would have been costly in terms of time and money, leading to the decision to exclude additional variables. This still sheds light on this general issue of observational data and the inclusion of covariates that are difficult to obtain. In order to draw causal conclusions, it would be desirable if these additional efforts had been made to obtain more valid and reliable results.
+
+In summary, the replicated study and its extension essentially follow the proposed workflow based on their statistical procedure. However, they have some methodological errors in terms of the number of statistical tests applied and the treatment of covariates. With this knowledge of common statistical errors, future research based on the first part of this report can take this into account and attempt to mitigate these problems.
+
+

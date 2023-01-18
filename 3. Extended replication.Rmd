@@ -436,7 +436,7 @@ Extended_plot <- plot_grid(p1,p2,p3,p4,p5,p6,p7, ncol=2)
 # moreover, the Expected points suggest a heavy mispricing of home teams during this first time with spectator absence! This is a very interesting finding as it means the betting companies have had flaws in their algorithms during this time
 Extended_plot
 
-#ggsave("Figures/Extended_plot.png", width = 8.5, height = 6,bg="white")
+#ggsave("Manuscript/Figures/Extended_plot.png", width = 8.5, height = 6,bg="white")
 ```
 ```{r}
 sessionInfo()

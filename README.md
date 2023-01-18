@@ -1,4 +1,5 @@
-DATA ARCHIVE //
+DATA ARCHIVE
+---
 Influence-of-Spectators-on-the-Home-advantage-in-professional-european-football
 ===
 
@@ -7,7 +8,7 @@ The influence of Spectator Attendance in professional European Football leagues 
 ---
 This repository contains all necessary files to replicate the original study by Wunderlich et al. (2021) and also the extension provided in this study. For a visualization of this effect visit the following website: https://christophvoeltzke.shinyapps.io/shiny_app/
 
----l9
+---
 
 | Files/Folders                 | Description   |
 | -----------------             | ------------- |

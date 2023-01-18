@@ -292,7 +292,7 @@ Exploratory_plot <- plot_grid(p1,p2,p3,p4,p5,p6,p7, ncol=2)
 
 Exploratory_plot
 
-#ggsave("Figures/Exploratory_plot.png", width = 8.5, height = 6,bg="white")
+#ggsave("Manuscript/Figures/Exploratory_plot.png", width = 8.5, height = 6,bg="white")
 ```
 
 ## Betting efficiancy
