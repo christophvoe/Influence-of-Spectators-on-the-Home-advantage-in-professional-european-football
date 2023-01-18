@@ -27,14 +27,14 @@ library(gmodels)
 ## Replication data set
 ```{r, include=FALSE}
 # The following code loads the data used in the study by Wunderlich et al. (2020). This is the data set needed to reproduce the results of the initial analysis. See report for description of variables needed.
-dat <- read_csv("Data/dat.csv")
+dat <- read_csv("Data/Full_sets/rep.csv")
 ```
 
 ```{r, include=FALSE}
 dat <- dat %>%
   mutate(Season_c = Season -10) # centering the first covid season as 0
 dat_0 <- filter(dat, Season_c == 0) # filtering to have only the first covid season in the data set
-# write.csv(dat_0,"Data/dat_0.csv")
+#write.csv(dat_0,"Data/Full_sets/rep_one_season.csv")
 ```
 
 ## Model used for all 10 seasons
@@ -208,8 +208,7 @@ plot_dat_Spect_1 <- dat %>%
 plot_data <- dplyr::bind_rows(plot_dat_season_1,plot_dat_Spect_1)
 plot_data$Name <- paste(plot_data$Season,plot_data$Spectators)
 plot_data <- plot_data %>%
- dplyr::select(Name,Goals:Red)
-# when running this code for the variable Red cards. No Confidence intervals are produced. As the model for red cards did not converge I exclude it from this part 
+ dplyr::select(Name,Goals:RedhiCI)
 ```
 
 ```{r, include=FALSE}
@@ -279,12 +278,18 @@ Yellow$dv <- "Yellow"
 Yellow$season <- plot_data$Name
 YellowlowCI <- as.tibble(plot_data$YellowlowCI)
 YellowhiCI <- as.tibble(plot_data$YellowhiCI)
+
+Red <- as.tibble(plot_data$Red)
+Red$dv <- "Red"
+Red$season <- plot_data$Name
+RedlowCI <- as.tibble(plot_data$RedlowCI)
+RedhiCI <- as.tibble(plot_data$RedhiCI)
 ```
 
 ```{r}
-plot_data_mean <- rbind(Yellow,Fouls,ShotsTarget,Shots,ExpPoints,Points,Goals)
-plot_data_hi <- rbind(YellowhiCI,FoulshiCI,ShotsTargethiCI,ShotshiCI,ExpPointshiCI,PointshiCI,GoalshiCI)
-plot_data_lo <- rbind(YellowlowCI,FoulslowCI,ShotsTargetlowCI,ShotslowCI,ExpPointslowCI,PointslowCI,GoalslowCI)
+plot_data_mean <- rbind(Red,Yellow,Fouls,ShotsTarget,Shots,ExpPoints,Points,Goals)
+plot_data_hi <- rbind(RedhiCI,YellowhiCI,FoulshiCI,ShotsTargethiCI,ShotshiCI,ExpPointshiCI,PointshiCI,GoalshiCI)
+plot_data_lo <- rbind(RedlowCI,YellowlowCI,FoulslowCI,ShotsTargetlowCI,ShotslowCI,ExpPointslowCI,PointslowCI,GoalslowCI)
 
 plot_data_lo <- plot_data_lo %>%
   rename(CI_low = value)
@@ -304,46 +309,49 @@ plot_data <- plot_data %>%
 
 ```{r}
 # Data used for the plots. 
-#saveRDS(plot_data,"Data/plot_data_repo.rds")
+saveRDS(plot_data,"Data/Plots/plot_data_rep.rds")
 ```
 
 ## Plotting
 ```{r}
 # helper function to plot
-source("Functions/helper_plot_new.R")
+source("Functions/helper_plot_manus.R")
 source("Functions/helper_filter_dvs.R")
 ```
 
 ```{r}
 filtered_dat <- filtered_df(plot_data,c("Points"))
-p1 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=10)
+p1 <- plot_function_manus(filtered_dat,conf = "Include", slope="No",covid="No",season_start=1,season_end=10, title="Points", type="rep",legend = "Exclude")
 
 filtered_dat <- filtered_df(plot_data,c("Goals"))
-p2 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=10)
+p2 <- plot_function_manus(filtered_dat,conf = "Include", slope="No",covid="No",season_start=1,season_end=10, title="Goals", type="rep",legend = "Exclude")
 
 filtered_dat <- filtered_df(plot_data,c("Expected Points"))
-p3 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=10)
+p3 <- plot_function_manus(filtered_dat,conf = "Include", slope="No",covid="No",season_start=1,season_end=10, title="Expected Points", type="rep",legend = "Exclude")
 
 filtered_dat <- filtered_df(plot_data,c("Shots"))
-p4 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=10)
+p4 <- plot_function_manus(filtered_dat,conf = "Include", slope="No",covid="No",season_start=1,season_end=10, title="Shots", type="rep",legend = "Exclude")
 
 filtered_dat <- filtered_df(plot_data,c("Shots on Target"))
-p5 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=10)
+p5 <- plot_function_manus(filtered_dat,conf = "Include", slope="No",covid="No",season_start=1,season_end=10, title="Shots on Target", type="rep",legend = "Exclude")
 
 filtered_dat <- filtered_df(plot_data,c("Fouls"))
-p6 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=10)
+p6 <- plot_function_manus(filtered_dat,conf = "Include", slope="No",covid="No",season_start=1,season_end=10, title="Fouls", type="rep",legend = "Exclude")
 
 filtered_dat <- filtered_df(plot_data,c("Yellow"))
-p7 <- plot_function_new(filtered_dat,conf="Include",slope="No",covid="No",season_start=1,season_end=10)
+p7 <- plot_function_manus(filtered_dat,conf = "Include", slope="No",covid="No",season_start=1,season_end=10, title="Yellow", type="rep",legend = "Exclude")
+
+filtered_dat <- filtered_df(plot_data,c("Red"))
+p8 <- plot_function_manus(filtered_dat,conf = "Include", slope="No",covid="No",season_start=1,season_end=10, title="Red", type="rep",legend = "Exclude")
 ```
 
 ```{r}
-Replicated_plot <- plot_grid(p1,p2,p3,p4,p5,p6,p7, ncol=2)
+Replicated_plot <- plot_grid(p1,p2,p3,p4,p5,p6,p7,p8, ncol=2)
 #this visualization gives nice insights about the overall decreasing trend of a home advantage plus the more drastically decrease for games without spectators. However, for points and goals it is not clear if this is just the regular trend or due to the spectator absence. (Also not significant regression)
 # moreover, the Expected points suggest a heavy mispricing of home teams during this first time with spectator absence! This is a very interesting finding as it means the betting companies have had flaws in their algorithms during this time
 Replicated_plot
 
-#ggsave("Manuscript/Figures/Replicated_plot.png", width = 8.5, height = 6,bg="white")
+ggsave("Manuscript/Figures/Replicated_plot.png", width = 8.5, height = 6,bg="white")
 ```
 ```{r}
 sessionInfo()

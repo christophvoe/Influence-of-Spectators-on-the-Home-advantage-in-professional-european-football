@@ -19,7 +19,7 @@ library(tidyverse)
 ## Replication data set
 ```{r, include=FALSE}
 # The following code loads the data used in the study by Wunderlich et al. (2020). This is the data set needed to reproduce the results of the initial analysis. See report for description of variables needed.
-dat <- read_csv("Data/dat.csv")
+dat <- read_csv("Data/Full_sets/rep.csv")
 ```
 
 ##  Additional seasons
@@ -144,7 +144,7 @@ colnames(dat)[4] <- "Covid19"
 ```{r, include=FALSE}
 # binding the two dfs
 dat_new <- rbind(dat,dat20_22)
-# write.csv(dat_new,"Data/dat_new.csv") 
+#write.csv(dat_new,"Data/Full_sets/extend.csv") 
 # with the last line you can save the file as a csv, just get rid of the #
 ```
 
@@ -270,7 +270,7 @@ E0 <- E0 %>%
 E0 <- E0 %>%
   dplyr::select(Division,Season,Capacity,Spectators,Covid,Occupancy,Date,Home,Away,HG,AG,HS,AS,HST,AST,HF,AF,HY,AY,HR,AR,AvgH,AvgD,AvgA,`Avg.2.5`,`Avg.2.5.1`,HP,AP,ProbH,ProbD,ProbA,HEP,AEP,goalsDiff,shotsDiff,shotsTargetDiff,pointsDiff,expPointsDiff,foulsDiff,yellowDiff,redDiff,Season_c)
 
-# write.csv(E0,"Data/E0_full.csv")
+#write.csv(E0,"Data/Full_sets/explor.csv")
 # with the last line you can save the file as a csv, just get rid of the #
 ```
 

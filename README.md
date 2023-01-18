@@ -1,13 +1,12 @@
 DATA ARCHIVE
 ---
-Influence-of-Spectators-on-the-Home-advantage-in-professional-european-football
+The influence of Spectator Attendance in professional European Football leagues on the Home field advantage
 ===
 
-The influence of Spectator Attendance in professional European Football leagues on the Home field advantage. Exact replication and extension of the original study.
+This repo features the exact replication of Wunderlich et al. (2021) a proposed extension of the replicated study, an exploratory approach to also work with the data, a way to retrieve and organize the data and a visualisation in form of a shiny app.
 
 ---
-This repository contains all necessary files to replicate the original study by Wunderlich et al. (2021) and also the extension provided in this study. For a visualization of this effect visit the following website: https://christophvoeltzke.shinyapps.io/shiny_app/
-
+For a visualization of this effect visit the following website: https://christophvoeltzke.shinyapps.io/shiny_app/
 ---
 
 | Files/Folders                 | Description   |
