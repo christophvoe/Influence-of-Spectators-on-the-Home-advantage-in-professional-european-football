@@ -354,5 +354,6 @@ Replicated_plot
 ggsave("Manuscript/Figures/Replicated_plot.png", width = 8.5, height = 6,bg="white")
 ```
 ```{r}
-sessionInfo()
+# as all of the other rmd files use the same packages I can do this step only for one of the files
+writeLines(capture.output(sessionInfo()), "Requirements.txt")
 ```
