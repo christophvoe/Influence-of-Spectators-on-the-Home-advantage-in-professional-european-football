@@ -21,3 +21,8 @@ For a visualization of this effect visit the following website: https://christop
 |/Shiny App                     |Folder containing necessary scripts for running and deploying the Shiny App|
 
 For any help with the files in this archive, please contact Christoph Völtzke (voeltzke.christoph@gmail.com). 
+
+---
+License
+---
+The repository is licensed under the `apache-2.0` license.
