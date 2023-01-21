@@ -3,10 +3,12 @@ DATA ARCHIVE
 The influence of Spectator Attendance in professional European Football leagues on the Home field advantage
 ===
 
-This repo features the exact replication of Wunderlich et al. (2021) a proposed extension of the replicated study, an exploratory approach to also work with the data, a way to retrieve and organize the data and a visualisation in form of a shiny app.
+This repo features the exact replication of [Wunderlich et al. (2021)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248590) a proposed extension of the replicated study, an exploratory approach to also work with the data, a way to retrieve and organize the data and a visualisation in form of a shiny app.
 
 ---
 For a visualization of this effect visit the following website: https://christophvoeltzke.shinyapps.io/shiny_app/
+---
+For reproducing the workflow and the results of the [report](https://github.com/christophvoe/Influence-of-Spectators-on-the-Home-advantage-in-professional-european-football/blob/main/Manuscript/Traineeship_Report.pdf) please run all the corresponding scripts. Needed versions of software and packages are provided in [Requirements.txt](https://github.com/christophvoe/Influence-of-Spectators-on-the-Home-advantage-in-professional-european-football/blob/main/Requirements.txt). The original data is available on the open-source website: http://www.football-data.co.uk/
 ---
 
 | Files/Folders                 | Description   |
